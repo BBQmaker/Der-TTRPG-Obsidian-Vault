@@ -1,2 +1,0 @@
-## Chemistry (01%) 
-A study of the composition of sub- stances, the effects of temperature, energy, and pressure upon them, as well as how they affect one another. With chemistry, one might create or extract complex chemical compounds, including simple explosives, poisons, gases and acids, requiring at least a day or so with the proper equipment and chemicals. The user could also analyze an unknown substance, given proper equipment and reagents.

@@ -1,5 +1,0 @@
-Deflect Harm
-Cost: 1 magic point; 1 Sanity point
-• Casting time: instantaneous
-
-A defensive spell that negates various physical attacks upon he caster by invoking the secret names of the Outer Gods. The caster intones the awful names and holds out a hand toward the source of attack. Until dropping the hand, the caster may deflect successive attacks by expending magic points equal to the rolled damage for each attack. If an attack would have missed, no magic points are expended. Upon dropping of the hand, the spell ends. The spell may be recast. The caster may deflect any number of attacks until out of magic points—the caster may choose to continue the spell by burning hit points; however, this may be counterproductive! He or she may choose which attacks to deflect and from which attacks to take damage, but must choose before knowing what the actual damage will be. Lacking the points to fully stop a particular attack, the spell ends and the attack hits or misses as it would in ordinary circumstances. Alternative names: Sorcerer’s Shield, The Unassailable Cloak, Recitation of the Outer Ones.

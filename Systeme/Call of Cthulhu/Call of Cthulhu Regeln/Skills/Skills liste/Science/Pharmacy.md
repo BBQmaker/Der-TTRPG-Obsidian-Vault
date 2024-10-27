@@ -1,2 +1,0 @@
-## Pharmacy (01%) 
-The study of chemical compounds and their effect on living organisms. Traditionally this has involved the formulation, creation and dispensing of medi- cations (whether a witch-doctor using combination of herbs or a modern pharmacist operating in a laboratory). The application of this skill ensures the safe and effective use of pharmaceutical drugs, including synthesizing ingredients, identification of toxins and knowledge of possible side effects.
