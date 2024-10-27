@@ -1,3 +1,0 @@
-
-
-[[Ulrich Greifelt]]
