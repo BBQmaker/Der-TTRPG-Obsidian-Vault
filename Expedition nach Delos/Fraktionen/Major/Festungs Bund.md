@@ -1,1 +1,0 @@
-Eine Fraktion der Zwerge

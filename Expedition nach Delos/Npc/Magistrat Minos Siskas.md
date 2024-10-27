@@ -1,2 +1,0 @@
-
-Kontaktperson der Gruppe.
