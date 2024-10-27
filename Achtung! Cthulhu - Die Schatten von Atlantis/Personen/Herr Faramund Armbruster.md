@@ -1,7 +1,0 @@
-Herr Faramund Armbruster, Antiquitätenhändler
-
-
-
-
-
-

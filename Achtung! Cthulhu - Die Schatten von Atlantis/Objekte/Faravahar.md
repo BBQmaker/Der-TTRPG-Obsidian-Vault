@@ -1,2 +1,0 @@
-die geflügelte Sonnenscheibe der [[Zoroastrismus|Zoroastrier]]
-Faravahar ist ein **Symbol der drei Grundprinzipien des [[Zoroastrismus]]**: Gutes Denken (persisch پندار نیک , DMG pendār-e nīk), Gutes Sprechen (persisch گفتار نیک , DMG goftār-e nīk) und Gutes Tun (persisch کردار نیک , DMG kerdār-e nīk).

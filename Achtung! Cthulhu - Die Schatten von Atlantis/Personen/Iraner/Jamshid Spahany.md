@@ -1,9 +1,0 @@
-Aktueller Aufenthalts Ort [[Isfahan]]
-Jamshid ist ein sympathischer und freundlicher junger Mann, der seine Berufung jedoch sehr ernst nimmt und sich seit seiner Kindheit für das Priesteramt ausbilden lässt. Sein ausgezeichnetes Gedächtnis und seine Fähigkeit, sich riesige Datenmengen zu merken, hätten ihn zu einer wertvollen Bereicherung für die Spahanys gemacht, aber sein Blick war schon immer auf die Kirche gerichtet, und so hat er die andere langjährige erbliche Verpflichtung der Familie erfüllt. Als leidenschaftlicher Gärtner und Botaniker pflegt Jamshid die Gärten des Tempels und macht sie zu einem wunderschönen Zufluchtsort vor der Hitze und dem Lärm der Stadt draußen. Er behauptet, dass seine Liebe zu Blumen daher rührt, dass er die historischen Fliesendesigns der Familie studiert hat, aber das Leben in einer Stadt, die für ihre öffentlichen und privaten Gärten (Bagh) bekannt ist, mag auch dazu beigetragen haben.
-Brüder [[Kourush Spahany]]
-
-Erscheinungsbild:
-Obwohl er größer und körperlich fitter ist als sein älterer Bruder, ist die Ähnlichkeit mit der Familie unübersehbar. Jamshid zieht Kourush oft damit auf, dass er nicht in der Lage ist, sich einen Vollbart wachsen zu lassen wie sein eigener üppiger Wuchs, meint es aber nicht böse. Als Priester trägt der junge Mann eine weiße Kappe und weiße Gewänder, wenn er sein Amt im Tempel ausübt, sowie sein Sedrek (ein Unterkleid mit einer Vordertasche, in der man seine guten Taten sammeln kann) und sein Kushti (ein heiliger Gürtel aus siebzig weißen Lammwollfäden, die die Anzahl der Kapitel im Yasna darstellen). Außerhalb des Tempels ist seine Kleidung immer noch eher traditionell und sein Kopf stets bedeckt. Seine sanfte Stimme trägt mehr als nur einen Hauch von Autorität in sich; so sehr, dass er sie nur selten erheben muss, um die Aufmerksamkeit von jemandem zu gewinnen.
-
-
-[[Kourush Spahany]]

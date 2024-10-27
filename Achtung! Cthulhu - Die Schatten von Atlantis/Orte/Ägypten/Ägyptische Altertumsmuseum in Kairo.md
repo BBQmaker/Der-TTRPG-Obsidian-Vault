@@ -1,5 +1,0 @@
-# Ägyptische Altertumsmuseum in [[Kairo]]
-Das erste ist das Ägyptische Altertumsmuseum, auch einfach als Kairoer Museum bekannt. Es befindet sich unten am Fluss in der Sharia Mariette Pasha, wo seine imposanten orange-rosa Wände und der massive weiße Eingangsportikus die Besucher überragen. Große lilafarbene Blumen mit goldenen Zentren schwimmen friedlich auf der Oberfläche des Zierteichs vor dem Eingang, eine kleine Oase der Ruhe inmitten des Stadtzentrums. Obwohl es bereits vor 1858 ein Antiquitätenmuseum gab, ist das heutige Museum das von Auguste Mariette, dem Direktor des neuen ägyptischen Ministeriums für Altertümer, gegründete Museum, obwohl es vor dem jetzigen neben der Insel Gezira mehrere Häuser hatte. Der derzeitige Direktor des Departements und des Museums ist [[Abbé Étienne Drioton]], der bei der täglichen Verwaltung der Museumssammlungen von [[M. Lucien Kutay]] und Mlle. [[Mlle. Micheline Descoteaux]] tatkräftig unterstützt wird.
-
-## Der Keller
-Im Keller des [[Ägyptische Altertumsmuseum in Kairo]] Befindet sich so mache Schätzt unter ihne auch der [[Schwarzer Stein von Saïs]] Er befindet sich um Raum XXVI

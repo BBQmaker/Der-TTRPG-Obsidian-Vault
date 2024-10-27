@@ -1,1 +1,0 @@
-**Xigazê** (Shigatse) ist eine Stadt in [[Tibet]]

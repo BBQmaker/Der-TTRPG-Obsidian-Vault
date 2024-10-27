@@ -1,5 +1,0 @@
-
-Leiter des [[Niederösterreichische Landesirrenanstalt]]
-
-
-

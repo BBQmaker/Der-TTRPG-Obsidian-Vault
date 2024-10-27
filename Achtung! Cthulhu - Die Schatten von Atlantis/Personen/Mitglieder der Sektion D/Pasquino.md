@@ -1,9 +1,0 @@
----
-aliases:
-  - Niccolò Filippi
----
-Niccolò "Nicky" Filippi, Vermisster [[Sektion D]]agent
-
-Obwohl er nur noch ein Schatten seiner selbst ist, haben Nickys blauen Augen immer noch etwas von ihrem Funkeln, auch wenn es eher von Wahnsinn stammt und nicht von seiner früheren Fröhlichkeit. Der gebürtige Italiener Nicky war einst eine Art Künstler und Brandstifter und musste aus seiner musste aus seiner Heimat Mailand fliehen, um den Schwarzhemden zu entgehen. Er schloss sich einer kommunistischen Untergrundgruppe in [[Rom]] an und wurde rekrutiert, um die politische Situation in der Stadt zu beobachten. politische Situation in der Stadt zu beobachten. Bei einem missglückten Versuch, die Gleise des Bahnhofs Termini zu sprengen, wurde Nicky gefangen genommen. Bahnhof Termini gefangen genommen, wurde Nicky direkt in das berüchtigtes [[Gefängnis Regina Coeli]] geschleppt (S.51). Kurze Zeit später, und ohne ohne vor dem Tribunale Speciale zu erscheinen, wurde er auf die zur Straßenbau- und Ausgrabungsstätte unterhalb der [[Burg Sant’Angelo]] und hinunter in die Katakomben geschickt (S.56). Was er dort fand dort vorfand, hat ihn ziemlich verrückt gemacht. Auf seiner Flucht vor seiner Arbeits Arbeitsgruppe gelang es ihm, einen Weg aus dem Labyrinth zu finden, und er zur Statue des Abate Luigi zu gelangen, um Lucrezia eine Nachricht zu hinterlassen eine Nachricht für Lucrezia zu hinterlassen, als er von den Ermittlern entdeckt wird.
-
-Erscheinungsbild: Nickys blondes Haar ist schmutzig und mit Schlamm Schlamm und etwas, das Blut zu sein scheint. Seine Fingernägel sind abgebrochen und mit Schmutz verkrustet, und seine Kleidung ist zerrissen und befleckt. Von dem gut aussehenden jungen Mann aus dem Norden ist fast nichts mehr übrig. gut aussehenden jungen Mann aus dem Norden, und sein früher ansteckende Lachen ist nun deutlich nervtötend.

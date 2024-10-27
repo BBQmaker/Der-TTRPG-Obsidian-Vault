@@ -1,1 +1,0 @@
-Assistentin von [[Sapiente Mezzasalma]]

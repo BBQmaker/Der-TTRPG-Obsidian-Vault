@@ -1,1 +1,0 @@
-Wilhelm Canaris, von 1935 bis 1944 Leiter der Abwehr

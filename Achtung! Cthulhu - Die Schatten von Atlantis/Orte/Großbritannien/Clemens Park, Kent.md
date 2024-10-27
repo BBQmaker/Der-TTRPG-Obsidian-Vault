@@ -1,2 +1,0 @@
-Hauptquatier der [[Sektion M]]
-

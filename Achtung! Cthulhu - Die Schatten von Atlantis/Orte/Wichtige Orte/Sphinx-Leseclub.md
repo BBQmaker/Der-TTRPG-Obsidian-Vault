@@ -1,1 +1,0 @@
-Der Sphinx-Leseclub wurde 1907 von Franz Herndl, Mitglied der List Society und Okkultist Franz Herndl im Jahr 1907 gegründet, ist der Sphinx-Leseclub eine von vielen okkulten Studiengruppen in [[Wien]]. Der Club ist untergebracht in einer ehemaligen Privatwohnung in der [[Himmelpfortgasse]] (Himmelpfortgasse), in der Nähe des Finanzministeriums.

@@ -1,6 +1,0 @@
-
-
-
-
-
-[[Niederösterreichische Landesirrenanstalt]]

@@ -1,3 +1,0 @@
-in [[Ägypten]]
-
-dte

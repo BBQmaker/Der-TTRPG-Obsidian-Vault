@@ -1,5 +1,0 @@
----
-aliases:
-  - der Clypeus
-  - Clypeus
----

@@ -1,7 +1,0 @@
----
-aliases:
-  - USA
-  - Vereinigten Staaten
----
-
-

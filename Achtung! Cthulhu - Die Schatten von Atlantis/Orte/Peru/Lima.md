@@ -1,1 +1,0 @@
-**Lima** ist die Hauptstadt des südamerikanischen Andenstaates [[Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Peru/Peru|Peru]] und die mit Abstand größte Stadt des Landes. Im Verwaltungsgebiet der Stadt, der Provinz Lima

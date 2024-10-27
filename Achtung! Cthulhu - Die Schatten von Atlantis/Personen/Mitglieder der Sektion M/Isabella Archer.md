@@ -1,5 +1,0 @@
----
-aliases:
-  - Maya
-  - Agentin Maya
----

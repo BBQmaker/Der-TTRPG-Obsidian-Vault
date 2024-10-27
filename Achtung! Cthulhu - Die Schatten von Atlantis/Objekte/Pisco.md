@@ -1,5 +1,0 @@
-### Ein Signature Tipple
-[[Masks of Nyarlathotep (Spieler)/Orte/Peru/Peru]] ist bekannt für die Herstellung von [[Pisco]], einem Traubenschnaps, der in den Weinbergen des Landes seit dem 16. In den 1920er Jahren erfindet der ausschweifende amerikanische Barkeeper Victor Vaughn Morris das, was Limas typischer Cocktail werden soll: den Pisco Sour.
-Das Getränk besteht aus Pisco, Eiweiß, einfachem Sirup und Zitronensaft (mit Angustura-Bitter zum Garnieren) und ist in den 1940er Jahren das Modegetränk der Wahl in Limas schicken Hotels. Der Sour ist nicht der einzige Cocktail, in dem Pisco verwendet wird. Ein viel älteres Rezept aus dem späten 17. Jahrhundert, das als Algarrobina bekannt ist, enthält ihn ebenfalls als Zutat.
-Der Pisco wird mit Sirup aus der Frucht des [[Algarrobobaum|Algarrobobaums]] (Johannisbrot), Eiweiß, einfachem Sirup, Zimt und Kondensmilch (oder verdampfter Milch) gemischt, um eine Art Eierlikör zu kreieren.
-Gewöhnliche Peruaner trinken in der Regel Chicha de Jora, ein aus Mais gebrautes Starkbier, von dem sie ehrfürchtig etwas auf den Boden schütten, um es Pachamama zu opfern, der Aymara-Erdmuttergöttin, die den Menschen aus roher Erde schuf.
