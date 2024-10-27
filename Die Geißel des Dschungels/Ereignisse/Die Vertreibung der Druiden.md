@@ -1,1 +1,0 @@
-Die Vertreibung der Druiden 
