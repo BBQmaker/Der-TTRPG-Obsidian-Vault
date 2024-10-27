@@ -1,7 +1,0 @@
-Die Arzttasche, von [[Spieler 3]] ist ein großes, abgenutztes Ledermodell, das auf den ersten Blick völlig normal wirkt – vielleicht ein wenig abgenutzt von jahrelangem Gebrauch. Doch beim Öffnen zeigt sich das wahre Chaos, das sie beherbergt.
-
-Innen sind die Fächer unsortiert, einige Medikamente in unbeschrifteten Fläschchen oder improvisierten Behältnissen verstaut. Es gibt Ampullen mit Morphin und Chloroform, die zitternd in ihren Halterungen baumeln, während Schmerzmittel und Beruhigungsmittel lose umherfliegen. Einige der Medikamente sind lebensrettend: Adrenalin-Injektoren, antiseptische Salben, Verbandsmaterialien. Doch daneben lauern gefährliche Substanzen wie Arsen, Laudanum und hochkonzentriertes Barbiturat, das nur mit größter Vorsicht verwendet werden sollte – wenn überhaupt.
-
-In einer kleinen Innentasche stecken Spritzen, einige steril verpackt, andere schmutzig und oft benutzt. Man sieht klare Spuren von Abhängigkeit: zerdrückte Pillen, ein Fläschchen mit ätherischen Ölen, das für Inhalationen genutzt wird, und eine dunkle Phiole mit einem unidentifizierbaren Sedativ, das Anscheinend bereits vorbereitet wurde dir selbst oder jemand anderem in eimen verzweifelten Momenten zu injiziert.
-
-Alles in allem wirkt die Tasche wie das Abbild seines inneren Zustands: chaotisch, gefährlich und nur knapp kontrolliert – ein Quell potenzieller Hilfe, aber auch großer Gefahr.

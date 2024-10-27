@@ -1,9 +1,0 @@
-[[Helgoland]]
-
-### **Unterland-Siedlung**
-
-Die Unterland-Siedlung, am Fuße der Klippen, wirkt noch bedrückender. Hier drückt der Ozean gegen die Uferpromenade, und die Wellen schlagen bedrohlich gegen die Steinmauern. Die Luft ist salziger, der Regen noch dichter, und der Wahnsinn scheint greifbarer – wie eine unsichtbare Hand, die einem über den Nacken streicht. Der starke Wind trägt den Geruch von Tang und moderigem Holz mit sich, aber auch etwas Fremdes, das nicht ganz zu definieren ist. Es riecht nach Verfall, nach Dingen, die nicht ans Licht des Tages gehören.
-
-Die Fischerhäuser, die einst so belebt waren, stehen leer und verwahrlost. Netze hängen schlaff von den Dächern, Boote, halb in den Dünen vergraben, warten darauf, in die tobenden Wellen hinausgezogen zu werden – doch niemand ist mehr da, um sie zu steuern. Die Fenster der Häuser sind entweder vernagelt oder zerbrochen, und in den dunklen Schatten der verlassenen Gebäude scheint sich etwas zu verbergen, das sich den Blicken der Außenwelt entzieht. Manche Häuser wirken seltsam verzerrt, als hätten sie sich unter dem Druck der Elemente oder etwas noch Unbekannterem verformt.
-
-Im Gegensatz zur Oberland-Siedlung herrscht hier eine bedrückende, drückende Stille – unterbrochen nur vom unaufhörlichen Tosen des Meeres. Es ist die Art von Stille, die den Wahnsinn in die Köpfe kriechen lässt, die Gedanken verzerrt und einen glauben lässt, man sei nicht allein. Manchmal glaubt man, hinter einem in der Dunkelheit der Gassen Bewegungen zu sehen – Schemen, die sich schnell aus dem Blickfeld entfernen. Sind es Trugbilder? Oder etwas weitaus Gefährlicheres?

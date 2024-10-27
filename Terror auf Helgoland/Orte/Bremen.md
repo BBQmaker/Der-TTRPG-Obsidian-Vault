@@ -1,1 +1,0 @@
-Der Zielort des [[Die Kultisten|Kultisten]] schiffs.
