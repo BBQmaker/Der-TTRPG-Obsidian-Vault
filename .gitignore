@@ -1,7 +1,10 @@
 # ignore everything
 */
+/.obsidian
 # whitelist
 !/Masks of Nyarlathotep (Spieler)
 !/Sarenraes Fehler (Spieler)
 
 
+.obsidian/graph.json
+/.obsidian
