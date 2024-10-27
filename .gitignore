@@ -7,4 +7,5 @@
 
 
 .obsidian/graph.json
-/.obsidian
+.obsidian
+*.json
