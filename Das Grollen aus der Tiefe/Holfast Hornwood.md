@@ -1,2 +1,0 @@
-Holfast Hornwood
-Bürgermeister Wolfenburg

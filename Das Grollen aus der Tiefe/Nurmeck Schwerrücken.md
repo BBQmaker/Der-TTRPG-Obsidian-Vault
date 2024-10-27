@@ -1,1 +1,0 @@
-Nurmeck Schwerrücken

@@ -1,2 +1,0 @@
-Loddrid Frostfuß
-Autorität in der Zwergische Alliance zur Wiedereroberung und Wiederbesiedlung der Urzwergischen Heimat. Anhängerin von [Folgrit](https://aonprd.com/DeityDisplay.aspx?ItemName=Folgrit).
