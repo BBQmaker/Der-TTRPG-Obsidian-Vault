@@ -1,0 +1,177 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Orte  ",
+      "color": {
+        "a": 1,
+        "rgb": 5400615
+      }
+    },
+    {
+      "query": "path:Städte  ",
+      "color": {
+        "a": 1,
+        "rgb": 986957
+      }
+    },
+    {
+      "query": "file:Liste Aller Kampagnen",
+      "color": {
+        "a": 1,
+        "rgb": 6052096
+      }
+    },
+    {
+      "query": "path:x.Regeln",
+      "color": {
+        "a": 1,
+        "rgb": 2907747
+      }
+    },
+    {
+      "query": "path:Personen",
+      "color": {
+        "a": 1,
+        "rgb": 7227916
+      }
+    },
+    {
+      "query": "path:\"Nationen und Staaten\"",
+      "color": {
+        "a": 1,
+        "rgb": 5460081
+      }
+    },
+    {
+      "query": "path:\"Cthulhu Mythos\" ",
+      "color": {
+        "a": 1,
+        "rgb": 4197211
+      }
+    },
+    {
+      "query": "path:Organisationen  ",
+      "color": {
+        "a": 1,
+        "rgb": 605714
+      }
+    },
+    {
+      "query": "path:Fraktionen",
+      "color": {
+        "a": 1,
+        "rgb": 605714
+      }
+    },
+    {
+      "query": "file:\"Synopsis\"",
+      "color": {
+        "a": 1,
+        "rgb": 13422160
+      }
+    },
+    {
+      "query": "path:\"Achtung! Cthulhu - Die Schatten von Atlantis/Personen/Anhängsel der Spieler\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Spieler\"",
+      "color": {
+        "a": 1,
+        "rgb": 1676498
+      }
+    },
+    {
+      "query": "path:\"Kreaturen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6838673
+      }
+    },
+    {
+      "query": "path:\"Briefe und Dokumente\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Geschichte\"",
+      "color": {
+        "a": 1,
+        "rgb": 3618760
+      }
+    },
+    {
+      "query": "path:\"Natur\"",
+      "color": {
+        "a": 1,
+        "rgb": 1322761
+      }
+    },
+    {
+      "query": "file:\"Ankündigung\"",
+      "color": {
+        "a": 1,
+        "rgb": 4329733
+      }
+    },
+    {
+      "query": "path:\"Ereignisse\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3618760
+      }
+    },
+    {
+      "query": "path:\"Jahre\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4730157
+      }
+    },
+    {
+      "query": "path:\"Quests\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514852
+      }
+    },
+    {
+      "query": "path:\"Encounter\"",
+      "color": {
+        "a": 1,
+        "rgb": 9399567
+      }
+    },
+    {
+      "query": "path:\"Dokumente, Notizen und Informationen\"",
+      "color": {
+        "a": 1,
+        "rgb": 7349027
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.35583247793061,
+  "lineSizeMultiplier": 0.505029640952985,
+  "collapse-forces": false,
+  "centerStrength": 0.398193389447752,
+  "repelStrength": 10.6967768425375,
+  "linkStrength": 1,
+  "linkDistance": 278,
+  "scale": 0.03957573646679255,
+  "close": true
+}

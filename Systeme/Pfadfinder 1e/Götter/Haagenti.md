@@ -1,0 +1,23 @@
+ **Haagenti** (pronounced hah-GEN-tie) is the [demon lord](https://pathfinderwiki.com/wiki/Demon_lord "Demon lord") of [alchemy](https://pathfinderwiki.com/wiki/Alchemy "Alchemy") and change. He is seen by some as the most reasonable and least destructive of the demon lords due to his numerous helpful creations, the most famous being the _[philosopher's stone](https://pathfinderwiki.com/w/index.php?title=Philosopher%27s_stone&action=edit&redlink=1 "Philosopher's stone (page does not exist)")_ which transmutes [lead](https://pathfinderwiki.com/wiki/Lead "Lead") into [gold](https://pathfinderwiki.com/wiki/Gold "Gold"), and this [wondrous item](https://pathfinderwiki.com/wiki/Magic_item "Magic item") is used as his [unholy symbol](https://pathfinderwiki.com/wiki/Unholy_symbol "Unholy symbol"). This perception of his urbanity is, in fact, a deliberate ruse: Haagenti is just as [evil](https://pathfinderwiki.com/wiki/Evil "Evil") and destructive as any other [demon](https://pathfinderwiki.com/wiki/Demon "Demon"), but more subtle than most. His wondrous alchemical devices, although seemingly beneficial, are only granted to those who would employ them for evil and destruction.[6](https://pathfinderwiki.com/wiki/Haagenti#cite_note-lords-of-chaos-book-of-the-damned-volume-2-16-6)[7](https://pathfinderwiki.com/wiki/Haagenti#cite_note-book-of-the-damned-sourcebook-56-7) Haagenti's other creations include [alchemist's fire](https://pathfinderwiki.com/w/index.php?title=Alchemist%27s_fire&action=edit&redlink=1 "Alchemist's fire (page does not exist)"), the demonic [retriever](https://pathfinderwiki.com/wiki/Retriever "Retriever"), and the secrets of [fleshwarping magic](https://pathfinderwiki.com/wiki/Fleshwarping "Fleshwarping")
+
+## Home
+
+Haagenti makes his home in the [Abyssal realm](https://pathfinderwiki.com/wiki/Abyssal_realm "Abyssal realm") called [Cerebulim](https://pathfinderwiki.com/wiki/Cerebulim "Cerebulim"), a clockwork labyrinth of endless [laboratories](https://pathfinderwiki.com/wiki/Laboratories "Laboratories").
+
+## Appearance
+
+Haagenti's form is much like his favoured practice of alchemy: a mutable and ever changing thing. His true form is that of a demonic, winged, bull-like monster, but he appears in this form only in battle. In this form, Haagenti's breath transforms victims into fleshwarps that live in constant pain except when they obey his demands. His [axe](https://pathfinderwiki.com/wiki/Axe "Axe")-like horns can bypass all defences, transmuting into any substance able to bypass his enemy's resistances as needed.
+
+On the rare occasions when Haagenti actually interacts with his worshippers, he appears as a particularly attractive member of their race, and as such has a huge number of favoured forms. Regardless, he always has a sense of humour and irony, and incorporates unsettling demonic features to mock the form he takes. These features might be obvious or hidden, only revealed after the victim has profited from Haagenti's secrets.
+
+## Relationships
+
+Haagenti despises [Yamasoth](https://pathfinderwiki.com/wiki/Yamasoth "Yamasoth"), both claiming to be the inventor of fleshwarping and viewing the other as a thief. Despite their fierce rivalry, their cults rarely come into conflict, as Haagenti's followers tend to live in the [Darklands](https://pathfinderwiki.com/wiki/Darklands "Darklands") and Yamasoth's on the surface.
+
+## Cult and worshippers
+
+Through [telepathic](https://pathfinderwiki.com/wiki/Telepathy "Telepathy") whispers, Haagenti plants secrets into inventors' minds and inspires [good](https://pathfinderwiki.com/wiki/Good "Good") ones to create cruel devices. His secrets are only revealed to evil thinkers, who might then employ them to bring about destruction. Scholars believe that Haagenti was the muse behind many great minds when they invented novel ways of inflicting pain and devastation.
+
+Cultists of Haagenti tend to be [magic users](https://pathfinderwiki.com/wiki/Magic_user "Magic user") or [alchemists](https://pathfinderwiki.com/wiki/Alchemist "Alchemist"), and Haagenti is the patron of the drow[1](https://pathfinderwiki.com/wiki/Haagenti#cite_note-drow-1) noble house of [Parastric](https://pathfinderwiki.com/wiki/House_Parastric "House Parastric").
+
+Another of Haagenti's servants is the [blue dragon](https://pathfinderwiki.com/wiki/Blue_dragon "Blue dragon") [Arantaros](https://pathfinderwiki.com/wiki/Arantaros "Arantaros"), whom he transformed into a [ravener](https://pathfinderwiki.com/wiki/Ravener "Ravener") in order to continue his studies into alchemy and [necromancy](https://pathfinderwiki.com/wiki/Necromancy "Necromancy").

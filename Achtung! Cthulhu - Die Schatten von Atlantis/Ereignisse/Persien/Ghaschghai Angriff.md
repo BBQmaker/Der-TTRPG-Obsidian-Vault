@@ -1,0 +1,8 @@
+---
+aliases:
+  - Ghaschghai Angriffs
+---
+Jetzt müssen die Ermittler nur noch mit dem Feuertopf und der Asche nach Isfahan zurückkehren und sich auf die Durchführung des Rituals vorbereiten.
+Wenn sie bemerkt haben, dass sie in [[Yazd]] verfolgt wurden, sollten sie zusätzliche Vorsichtsmaßnahmen für ihre Reise treffen (unabhängig davon, ob sie das Kind mit dem Gaschgai-Mann sprechen sahen oder nicht).
+
+An einer abgelegenen Stelle auf der Straße nach Isfahan, wenn keine anderen Reisenden stören, werden die Gaschgai-Banditen angreifen. Ihre bevorzugte Methode ist es, aus dem Hinterhalt auf ihre Ziele zu schießen und nur dann in die Nähe zu kommen, wenn der Feind offensichtlich unbewaffnet oder ausreichend eingeschüchtert/verletzt ist, um sich nicht weiter zu wehren. Es ist nicht ihre Absicht, die Ermittler abzuschlachten, sondern sie nur zu stören oder zu verscheuchen. Die Banditen werden auch fliehen, wenn es offensichtlich wird, dass sie waffenmäßig oder anderweitig ihren Opfern unterlegen sind. Die Gaschgai wurden von Lane beauftragt, sich um die Forscher zu kümmern, entweder weil sie die Ausgrabungsstätte in Marabin besucht haben, weil der französische Archäologe durch seine Mitarbeiter in der Stadt davon erfahren hat, dass die Forscher dort herumschnüffeln und Fragen stellen, oder weil die Chankopa eine Warnung geschickt haben, dass die Forscher in Persien angekommen sind und den Pokal suchen. Wenn der Angriff stattfindet, bevor die Ermittler in Yazd ankommen, wird ihnen das Kind nach ihrer Ankunft in der Stadt nicht folgen und die Gaschgai werden sie jetzt nicht angreifen.

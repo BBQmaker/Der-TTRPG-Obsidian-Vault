@@ -1,0 +1,8 @@
+[[Deep down below lies - Synopsis]]
+Ich möchte einen Etwas anderen Achtung! Cthulhu Mini-Kampagne Hosten als das was ihr von meiner aktuellen Kampagne. Ich möchte einen Hörern Fokus auf Roleplay und Horror legen dafür habe ich mir überleg das 2–3 von euch eine Spezial Rolle erhalten werden, die ihr Geheim halten sollt. Die Spezial rollen wird besonderes wissen, Ziele, Vorteile und Rp-voraussetzungen beinhalten ihr werde im rahme dieser rolle trotzdem die Freiheit haben eine eigenen Char zu entwickeln der die großen Lücken ausfüllt, die die Spezial Rolle vorgibt.
+Die Mini-Kampagne wird in einem Komplex stattfinden also müsst ihr euch nicht mit Exploration und Outdoor Kram beschäftigen.
+Wir werden diesmal kein Pulp benutzten, sondern nur Achtung! Cthulhu angepasst für CoC 7e. Trotzdem werden zusätzliche XP verteilt und eure HP werden verdoppelt.
+Ich hatte an 4-6 Spieler gedacht am liebsten wären mir 5, wenn ihr mitspielen wollt aber keine char machen wollt gibt es die Möglichkeit ein Pregen char auszuwählen.
+
+Einführung:
+Wir schreiben das Jahr 1944, Nord-Ost Frankreich. Ihr seid Agenten, Ex-Soldaten, Partisan oder einfach zu neugierige Zivilisten die durch Zufall oder auch nicht zufällig in einem unterirdischen Komplex gelandet sind. So wacht Ihr Allein in einem Dunkeln Betongrauen Raum auf und hört Seltsame Geräusche in der Dunkelheit. Könnt ihr eine Allianz Schmieden mit euren mit gefangenen, um das Mysterium dieses Ortes aufzuklären oder Sterbt Ihr Allein In der Finsternis?

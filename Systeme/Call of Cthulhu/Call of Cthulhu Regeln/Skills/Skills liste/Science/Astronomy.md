@@ -1,0 +1,2 @@
+## Astronomy (01%)
+The user knows how to find out which stars and planets are overhead at a particular day or hour of the day or night, when eclipses and meteor showers occur, and the names of important stars. The skill also provides knowledge of current perceptions about life on other worlds, the existence or the formation of galaxies, and so on. An academic might be able to calculate orbits, discuss stellar life cycles and (in the modern day), have knowledge of infrared astronomy or long-baseline interferometry.

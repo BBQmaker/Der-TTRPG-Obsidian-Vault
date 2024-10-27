@@ -1,0 +1,58 @@
+# Personen Übersicht
+
+%% Begin Waypoint %%
+- **Anhängsel der Spieler**
+	- [[Decimo Onofrio]]
+	- [[Egidio Roselli]]
+	- [[Hubert Brachel]]
+	- [[Melania Reppucci]]
+	- [[Niceto Prato]]
+	- [[Tim Sprachel]]
+- [[Chankopa]]
+- [[Churan]]
+- [[Dr. Etzel Hauer]]
+- [[Drokpa]]
+- [[Emilien Huamán]]
+- [[Feldwebel Berend Voss]]
+- [[Fräulein Svenja Falk]]
+- [[Herr Faramund Armbruster]]
+- [[Herr Jurian Landau]]
+- **Iraner**
+	- [[Farzad Ahadi]]
+	- [[Ghaschghai]]
+	- [[Jamshid Spahany]]
+- [[Lt. Philippa Richards]]
+- **[[Mitglieder der Abwehr]]**
+- **[[Mitglieder der Sektion D]]**
+- **[[Mitglieder der Sektion M]]**
+- **[[Mitglieder des Sphinx-Leseclub]]**
+- **[[Mitglieder Nachtwölfe]]**
+- **[[Mitglieder Schwarze Sonne]]**
+- **Neben Personen**
+	- [[Abbé Étienne Drioton]]
+	- [[August Hochenberg]]
+	- [[Bertrand Lane, französischer Archäologe]]
+	- [[Dr. Hermann Nebelhardt]]
+	- [[Ernst Pretzsche]]
+	- [[Kourush Spahany]]
+	- [[M. Lucien Kutay]]
+	- [[Major Aloysius Blythe-manders]]
+	- [[Mlle. Micheline Descoteaux]]
+	- [[Sheikh Janin El-rauf]]
+- [[Señor Qari Morales]]
+- **[[tibetische Mönche]]**
+- [[Achtung! Cthulhu - Die Schatten von Atlantis/Personen/Unbenannt]]
+- [[Vinzenz Fromm]]
+- **z. Irrelevante Personen**
+	- [[Otto Rahn]]
+- **z.Hintergrund personen**
+	- [[Adolf Hitler]]
+	- [[André Godard]]
+	- [[Dr. Botho Ehrlichmann]]
+	- [[Ernst Schäfer]]
+	- [[Prof. Dr. Burgdorf]]
+	- [[Reinhard Heydrich]]
+	- [[Winston Churchill]]
+- [[Zoroastrische Älteste]]
+
+%% End Waypoint %%

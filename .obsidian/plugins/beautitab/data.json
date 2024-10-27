@@ -1,0 +1,99 @@
+{
+  "backgroundTheme": "mountains",
+  "customBackground": "",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showTime": true,
+  "timeFormat": "24-hour",
+  "showGreeting": true,
+  "greetingText": "Hallo Maschine",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showRecentFiles": true,
+  "showBookmarks": false,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": true,
+  "quoteSource": "My quotes",
+  "customQuotes": [
+    {
+      "text": "Dies möge die Stunde sein, da wir gemeinsam Schwerter ziehen. Grimme Taten erwachet. Auf zu Zorn, auf zu Verderben und blutig Morgen! Auf, Eorlingas!",
+      "author": "Théoden"
+    },
+    {
+      "text": "Wir vertrauten dir stets, nie hast du uns fehlgeleitet. Verzeih mir; ich hätte nicht zweifeln dürfen.",
+      "author": "Legolas zu Aragorn"
+    },
+    {
+      "text": "Ein Elb geht unter die Erde und ein Zwerg wagt es nicht? Das würde mir ja ewig nachhängen.",
+      "author": "Gimli, vor den Toren der Toten"
+    },
+    {
+      "text": "Viele, die leben, verdienen den Tod... Und manche, die sterben verdienen das Leben. Kannst du es ihnen geben? Dann sei auch nicht so rasch mit einem Todesurteil bei der Hand. Denn selbst die ganz Weisen können nicht alle Absichten erkennen.",
+      "author": "Gandalf zu Frodo"
+    },
+    {
+      "text": "Ein Zauberer kommt nie zu spät, Frodo Beutlin. Ebensowenig zu früh. Er trifft genau dann ein, wann er es beabsichtigt.",
+      "author": "Gandalf zu Frodo"
+    },
+    {
+      "text": "Mein lieber Frodo, Hobbits sind doch wirklich erstaunliche Geschöpfe. In einem Monat kann man alles Wissenswerte über sie lernen und doch können sie einen nach 100 Jahren noch überraschen",
+      "author": "Gandalf zu Frodo"
+    },
+    {
+      "text": "Ich bin ein Diener des geheimen Feuers, Gebieter über die Flamme von Anor. Das dunkle Feuer wird dir nichts nützen, Flamme von Udún. Zurück zu den Schatten! DU - KANNST NICHT - VORBEI.",
+      "author": "Gandalf"
+    },
+    {
+      "text": "Wir wollen ihn, wir brauchen ihn, wir müssen ihn haben ... den Schatz!",
+      "author": "Gollum"
+    },
+    {
+      "text": "Das Horn Helm Hammerhands soll erschallen in der Klamm; ein allerletztes Mal!",
+      "author": "Théoden"
+    },
+    {
+      "text": "Reitet raus und kämpft! - \"Für Tod und Glorie.\" - \"Für Rohan. Für Euer Volk.",
+      "author": "Théoden"
+    },
+    {
+      "text": "Ein Ring, sie zu knechten, sie alle zu finden Ins Dunkel zu treiben und ewig zu binden.",
+      "author": "Der eine Ring"
+    },
+    {
+      "text": "Es ist eine gefährliche Sache, aus deiner Tür hinauszugehen. Du betrittst die Straße, und wenn du nicht auf deine Füße aufpasst, kann man nicht wissen, wohin sie dich tragen.",
+      "author": "Bilbo Beutlin"
+    },
+    {
+      "text": "Ich kenne die Hälfte von euch nicht halb so gut, wie ich es gern möchte, und ich mag weniger als die Hälfte von euch auch nur halb so gern, wie ihr es verdient.",
+      "author": "Bilbo Beutlin"
+    },
+    {
+      "text": "Neun Gefährten. So sei es. Ihr bildet die Gemeinschaft des Ringes!",
+      "author": "Elrond"
+    },
+    {
+      "text": "Selbst der Kleinste vermag den Lauf des Schicksals zu verändern.",
+      "author": "Galadriel"
+    },
+    {
+      "text": "Mut bedeutet nicht ein Leben zu nehmen, sondern es zu bewahren.",
+      "author": "Gandalf"
+    },
+    {
+      "text": "Den Tod als Gewissheit. Geringe Aussicht auf Erfolg. Worauf warten wir noch?",
+      "author": "Gimli"
+    },
+    {
+      "text": "Die Welt ist im Wandel. Ich spüre es im Wasser. Ich spüre es in der Erde. Ich rieche es in der Luft.",
+      "author": "Galadriel"
+    }
+  ]
+}

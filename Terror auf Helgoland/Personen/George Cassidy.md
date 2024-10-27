@@ -1,0 +1,5 @@
+---
+aliases:
+  - Cassidy
+  - Cassidys
+---

@@ -1,0 +1,20 @@
+{
+  "todoPageName": "",
+  "showChecked": false,
+  "showAllTodos": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Die all Awaken Animal Kampagne/Die all Awaken Animal Kampagne - Synopsis.md",
+    "Die Geißel des Dschungels/Ereignisse/Die Strandung der Glutherz.md",
+    "Die Geißel des Dschungels/Ereignisse/Der große Inselkrieg.md",
+    "Die Geißel des Dschungels/Die Geißel des Dschungels - Synopsis.md"
+  ],
+  "_hiddenTags": []
+}

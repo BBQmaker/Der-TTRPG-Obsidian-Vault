@@ -1,0 +1,155 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map ",
+      "lastAccessed": 1729702662088,
+      "markers": [
+        {
+          "id": "ID_995ac9db99c8",
+          "type": "default",
+          "loc": [
+            -5.641927003860474,
+            4.966145753860474
+          ],
+          "link": "Wurzelhain",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25426666259765623,
+            0.4814444376627604
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9f88beb8bc8",
+          "type": "default",
+          "loc": [
+            -2.034301847219467,
+            14.3525390625
+          ],
+          "link": "Glutherz",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9e91abb58f9",
+          "type": "default",
+          "loc": [
+            -2.206176847219467,
+            14.3408203125
+          ],
+          "link": "Glutgrubensiedlung",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9380a7839c8",
+          "type": "default",
+          "loc": [
+            -2.171020597219467,
+            14.2119140625
+          ],
+          "link": "Fort Glutgrube",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ba89829e878",
+          "type": "default",
+          "loc": [
+            -1.9145101010799408,
+            12.458007574081421
+          ],
+          "link": "Zunderstollen",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0afadb9a9a5b",
+          "type": "default",
+          "loc": [
+            -7.422770738601685,
+            8.129557609558105
+          ],
+          "link": "Wrackküste",
+          "layer": "%5B%5BKanopya_Full_1_hq.jpg%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Aufstieg der Herrscher Notizen (Spieler)/Die Welt/Das Land der auf gehende Sonne.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

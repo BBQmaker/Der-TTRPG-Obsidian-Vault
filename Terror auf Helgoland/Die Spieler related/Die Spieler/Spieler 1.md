@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![[Notizbuch von Spieler 1]]

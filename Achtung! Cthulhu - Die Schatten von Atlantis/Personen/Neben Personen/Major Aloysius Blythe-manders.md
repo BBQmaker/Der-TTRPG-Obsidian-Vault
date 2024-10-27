@@ -1,0 +1,14 @@
+# Major Aloysius Blythe-manders, Retired Army Officer of the [[British Armed Forces]]
+The Major has lived in [[Ägypten|Egypt]] for a very long time, having first been seconded to the Egyptian Army as an Officer a decade before the Great War began. His job, which came to include consulting on a variety of civilian as well as military engineering projects, took him the length and breadth of the Nile and permitted him to indulge his passion for trinkets, nicknacks, and beautiful things.
+Such was the Major’s reputation for acquisition in those days that local hawkers, con-men, and reputable traders would seek him out wherever he was working in order to bring him their “finest” wares. Thanks to his keen eye and no-nonsense attitude, the less honest among them soon stopped trying to sell him faked objects and he succeeded in building a stunning collection, the envy of many museums and professional antiquarians.
+Although he retired from the army and public life many years ago, he is still generous with his time and energies when it comes to conserving Egyptian heritage, both ancient and considerably more modern. He even manages to convince his friends in the Egyptian Government not to demolish a beautiful old residence in the Saiyida Zeinab district and dedicates his retirement to refurbishing the property in a traditional manner and using it to house his “trinkets”, as he likes to call them.
+The Major likes to keep abreast of current developments in the world at large and has many friends among both the British and the local populations. He enjoys an occasional gin and a good polo match, but otherwise lives very simply and delights in sharing his knowledge with those who come to visit. A benevolent man, he is no fool and does not take kindly to those who attempt to use him (or others) for their own selfish ends.
+
+## Appearance: 
+Rather portly, slightly florid, and just a touch vain, the old Major’s white hair and fine set of moustaches mark him out as both a military man and one who belongs to days past. His old uniform may still hang in his wardrobe, but these days he prefers to dress in well-tailored, comfortable linen suits and has a fine selection of silk cravats and matching handkerchiefs. His shoes also betray his military training and, despite the dusty environment, they are always buffed to an impressive shine.
+
+
+
+## Blythe-manders House
+The house stands back from the street behind sheltering walls that protect both its gardens and its privacy; admittance is by a latticed wooden gate set deep into the thick outer wall. A metal bell-pull with a highly polished brass handle is affixed to the wall to the right of the gate, and pulling on it summons a tiny, gnarled man with stunningly bright blue eyes: [[Sheikh Janin El-rauf]], the Major’s gardener and gatekeeper
+

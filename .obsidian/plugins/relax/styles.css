@@ -1,0 +1,117 @@
+.textarea-large {
+	width: 750px;
+	height: 220px;
+}
+.drag-handle {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	cursor: move !important;
+	margin-right: 10px;
+	position: relative;
+	z-index: 10;
+}
+.sortable-drag {
+	background-color: #f7f7f7;
+	border: 1px dashed #ccc;
+}
+.drag-handle:hover {
+	background-color: #f0f0f0;
+}
+.keyValueContainer {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+.keyValueContainer > div {
+	gap: 10px;
+	align-items: center;
+}
+.is-highlight{
+	outline: 2px solid var(--interactive-accent);
+	outline-offset: 2px;
+}
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+.flex-row {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.dragging {
+	z-index: 1000;
+	position: absolute;
+}
+.valid-content {
+	border-color: var(--accent-color);
+}
+.invalid-content {
+	border-color: red;
+}
+.key-input-flex {
+	flex: 1;
+	margin-right: 10px;
+}
+.draggable {
+	cursor: move;
+}
+.draggable.hide {
+	display: none;
+}
+.draggable:active {
+	opacity: 0.5;
+}
+.value-input-flex {
+	flex: 2;
+	margin-right: 10px;
+}
+.custom-top {
+	top: 1px;
+}
+.invalid-border {
+	border: 2px solid red;
+}
+.group-container {
+	max-width: 750px;
+}
+.regex-group-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 5px;
+}
+.control-buttons {
+    margin-left: auto;
+    display: flex;
+    gap: 10px;
+}
+.group-name-and-controls {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+.regex-group-container {
+	flex: 1;
+}
+.regex-group-container.active {
+	border: 1px solid var(--interactive-accent);
+}
+.draggable {
+	cursor: pointer; 
+}
+
+.draggable.hide {
+	opacity: 0.4; 
+}
+
+.placeholder {
+	margin: 4px 0;
+	background-color: var(--background-primary);
+	border-radius: 4px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+

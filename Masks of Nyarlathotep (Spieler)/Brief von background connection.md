@@ -1,0 +1,8 @@
+
+6th January 1921
+Dear friend,
+I trust this letter finds you in the best of health and spirits It has been some time since we last corresponded, and I find myself increasingly curious as to how you fare. The summer has wanted, and with it, the long days, yet & hope the season finds you in comfort and contentment.
+might & inquire as to your recent activities? London, as ever, bustles with its myriad of diversions, but & confess that & often wonder how you occupy your days, and whether you have found any new engagements that capture your interest. On a rather different note, I was most intrigued by an announcement & stumbled upon in the times this past week It appears that the Royal Society is to host a series of lectures this spring on the latest discoveries regarding lost cultures in South america The prospect of such discourse is, to my mind, utterly fascinating. I do believe these lectures could herald discussions of considerable import, possibly hinting at what forgotten marvels await our modern world.
+Do let me know if this subject holds any appeal to you as well. Perhaps we might attend one of these lectures together, should you find the notion agreeable. One of the key speakers last week, one [[Augustus Larkin|Mr. Larkin]], spoke about an expedition that shall soon depart, and & thought about you
+Until we next meet, may you remain well and in good cheer yours most sincerely,
+your background connection

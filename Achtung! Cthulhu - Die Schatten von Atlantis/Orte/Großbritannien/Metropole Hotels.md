@@ -1,0 +1,1 @@
+Umgebautes Hotel in [[Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Großbritannien/London]]  wird Aktuelle Als HQ der [[Sektion M]] benutzt

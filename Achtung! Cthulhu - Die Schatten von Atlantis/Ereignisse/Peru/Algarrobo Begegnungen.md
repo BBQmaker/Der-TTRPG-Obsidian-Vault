@@ -1,0 +1,14 @@
+D10 würfeln
+
+### Begegnungen
+01-02 Die örtlichen Ziegenhirten warnen die Ermittler, nach Hause zu gehen. In den letzten Monaten haben sich in den Wäldern seltsame Dinge ereignet, unter anderem sind ihre Tiere verschwunden, und sie haben große Angst.
+
+03-04 Ein erfolgreicher Hörwurf [Cth] lässt die Geräusche von marschierenden Füßen und das Klappern von Waffen und Rüstungen erkennen. Wenn jemand nachforscht, kann er kurze Blicke auf eine Reihe von Männern erhaschen, die weit entfernt durch die skelettierten Bäume marschieren. Sie sind sehr seltsam gekleidet und können trotz aller Bemühungen der Ermittler nicht eingeholt werden; auch die Ermittler können sie nicht auf sich aufmerksam machen. Jeder Geschichtskundige, dem es gelingt, die Figuren zu sehen, kann sie als Konquistadoren oder etwas, das ihnen sehr ähnlich sieht, identifizieren.
+
+05-06 Der Sonnenuntergang oder der Sonnenaufgang (oder beides) scheint nicht zum richtigen Zeitpunkt zu erfolgen, da er entweder früher oder später als erwartet eintritt.
+
+07-08 Als die Ermittler nach ihrem Nachtlager aufstehen, ist einer aus der Gruppe nicht mehr die gleiche Person wie am Vortag. Wir schlagen vor (vorausgesetzt, dass er nicht als Spielercharakter übernommen wurde), dass Mr. Jones zu Mr. Smith geworden ist, einem jovialen Kerl, der darauf aus ist, alle mitzureißen, egal wie schlimm die Situation zu sein scheint; eine Fröhlichkeit, die nach längerer Exposition extrem nervtötend sein kann und eine deutlich andere Einstellung als Mr. Jones' betroffene Reserve.
+
+Ein erfolgreicher Ideenwurf [Cth] ist erforderlich, um zu erkennen, dass etwas nicht mehr so ist, wie es war, und es wird viel Überzeugungsarbeit nötig sein, um jeden, der die Fertigkeitsprüfung nicht besteht, davon zu überzeugen, dass sich etwas geändert hat. Die Zeit hat sich verschoben, und im Grunde war Herr Smith schon immer auf der Expedition dabei. Dieser Identitätswechsel hat weder Auswirkungen auf die Ermittler noch auf die Mitglieder der deutschen Kerngruppe.
+
+09-10 Die Menschen scheinen nicht mehr dieselbe Kleidung zu tragen wie noch vor wenigen Augenblicken. Wenn der Hüter es wünscht, können Fromm, Armbruster und Voss sogar in voller Militäruniform erscheinen, mit einem verräterischen Wolfspfoten-Emblem auf dem Ärmel. Wie oben beschrieben, ist ein erfolgreicher Ideenwurf [Cth] erforderlich, um die Veränderung zu realisieren. Alternativ dazu sind Gegenstände, von denen die Ermittler geschworen haben, dass sie sie bei sich tragen, nun weggepackt, oder umgekehrt. Ein besonders grausamer Hüter könnte ihnen die Pagos wegnehmen, die sie von Churan gekauft haben, oder ihnen sogar welche geben, wenn sie sein Angebot nicht angenommen haben.

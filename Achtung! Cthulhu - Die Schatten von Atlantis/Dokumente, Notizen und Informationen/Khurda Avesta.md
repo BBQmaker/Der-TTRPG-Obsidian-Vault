@@ -1,0 +1,1 @@
+Die Khurda Avesta wird nach ihrer Veröffentlichung im 19. Jahrhundert zum zoroastrischen Buch des gemeinsamen Gebets.  

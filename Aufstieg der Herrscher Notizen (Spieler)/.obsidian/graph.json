@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Gegenstände  ",
+      "color": {
+        "a": 1,
+        "rgb": 5644649
+      }
+    },
+    {
+      "query": "path:Siedlung/Städte  ",
+      "color": {
+        "a": 1,
+        "rgb": 8085022
+      }
+    },
+    {
+      "query": "path:Personen/Spieler ",
+      "color": {
+        "a": 1,
+        "rgb": 2193487
+      }
+    },
+    {
+      "query": "path:Personen",
+      "color": {
+        "a": 1,
+        "rgb": 6970582
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.6600228795504808,
+  "close": false
+}

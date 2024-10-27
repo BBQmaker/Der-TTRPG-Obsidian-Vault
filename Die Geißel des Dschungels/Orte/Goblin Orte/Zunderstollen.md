@@ -1,0 +1,1 @@
+Der Zunderstollen ist eine Simple Mine die saltpeter, Schwefel und magnesium aus dem Berg Fördert .

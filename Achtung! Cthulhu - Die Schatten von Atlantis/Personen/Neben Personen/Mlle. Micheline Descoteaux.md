@@ -1,0 +1,9 @@
+---
+aliases:
+  - Micheline Descoteaux
+---
+# Micheline Descoteaux, Administration Assistant
+
+Mlle. Descoteaux, der Augapfel ihres verstorbenen Vaters, hat sich ihre Stellung im Antiquitätenmuseum hart erarbeitet. Sie ist zwar keine begnadete Gelehrte, aber eine harte Arbeiterin. Dank ihrer jahrelangen Erfahrung im elterlichen Antiquitätengeschäft in der Altstadt und unter der Anleitung von M. Kutay und dem Abbé macht Micheline gute Fortschritte in ihren Studien und hofft, relativ bald eine eigene, wenn auch kleine Abteilung übernehmen zu können. Da sie seit kurzem Waise ist und als junge Frau allein in Kairo lebt, ist sie sehr auf die moralische Unterstützung und Anleitung ihrer Kollegen angewiesen, obwohl sie versucht, sich durch nichts von ihrem natürlichen, fröhlichen Gemüt abbringen zu lassen. Das Geld ist knapp bei Mlle. Descoteaux, denn sie hat nicht die Zeit, das Familiengeschäft zu führen und ihre Arbeit im Museum zu verrichten. Sie wohnt immer noch hinter dem Laden, aber sie hat fast keine Sachen mehr zu verkaufen. Sie ist jedoch zu stolz, um in solchen Angelegenheiten um Hilfe zu bitten (zumal sie sich der finanziellen Situation von Herrn Kutay sehr wohl bewusst ist).
+
+Erscheinungsbild: Blond und braungebrannt von der allgegenwärtigen Sonne, kann Micheline es sich nicht leisten, stilvoll zu sein, aber sie tut ihr Bestes, um ihr Aussehen zu bewahren, auch weil sie weiß, dass ihr Aussehen für ihre zukünftige Karriere leider genauso wichtig sein wird wie ihr Verstand. Wer genau hinschaut, wird bemerken, dass ihre Kleidung mehrmals sorgfältig geflickt wurde und die Sohlen ihrer Schuhe fast durchgescheuert sind.

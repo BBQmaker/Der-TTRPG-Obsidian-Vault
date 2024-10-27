@@ -1,0 +1,1 @@
+Der Grund für die Einladung der Ermittler zu der Cocktailparty mag nun klar sein, aber es gibt immer noch keine Erklärung für die seltsamen Ereignisse, die ihr vorausgegangen sind. Nun begeben sie sich an Bord eines Marineschiffs auf die Reise nach Norden, um das Schicksal der Hauer-Gruppe zu ergründen.

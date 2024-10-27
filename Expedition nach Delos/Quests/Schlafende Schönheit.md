@@ -1,0 +1,3 @@
+## Schlafende Schönheit
+
+Die Party entdeckt einer Schlafenden Beholder. Seine name ist „Okkoqsea “ er ist Demissionen Reisender Händler mit Demenz. Er weiß nicht wo er ist oder warum er hier ist. Er Versucht der gruppe ein haufen Müll zu verkaufen . Aber unter Umständen kann auch was auf der Spieler wusch liste im seine Angebot sein für eine überraschen günstigen preis aber nur wenn die party länger zeit mit ihm redet und seine Scheiß aushä

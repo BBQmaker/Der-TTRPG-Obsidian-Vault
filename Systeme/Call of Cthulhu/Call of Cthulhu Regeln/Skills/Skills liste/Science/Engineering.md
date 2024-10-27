@@ -1,0 +1,2 @@
+## Engineering (01%) 
+While technically not a science, it is grouped here for convenience. Science is about identifying certain phenomenon (through observing and recording), whereas engineering takes such findings and uses them to produce practical applications, such as machines, structures and materials.
