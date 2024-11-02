@@ -50,7 +50,9 @@
     "Aufstieg_der_Herrscher_Notizen/Npc/Zwerg": 1,
     "Aufstieg_der_Herrscher_Notizen/Npcs": 2,
     "Aufstieg_der_Herrscher_Notizen/Npcs/Zwerge": 1,
-    "Aufstieg_der_Herrscher_Notizen/Npcs/Elfen": 2
+    "Aufstieg_der_Herrscher_Notizen/Npcs/Elfen": 2,
+    "Sarenraes_Fehler": 34,
+    "Sarenraes_Fehler/Quest": 1
   },
   "_version": 3
 }
