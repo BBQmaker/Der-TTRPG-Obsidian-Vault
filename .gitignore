@@ -1,11 +1,14 @@
-# ignore everything
+# ignore
 */
 /.obsidian
+
+
 # whitelist
 !/Masks of Nyarlathotep (Spieler)
+!/Masks of Nyarlathotep (Spieler)/*
 !/Sarenraes Fehler (Spieler)
+!/Sarenraes Fehler (Spieler)/*
 !/Aufstieg der Herrscher Notizen (Spieler)
+!/Aufstieg der Herrscher Notizen (Spieler)/*
 !/zz_Templates
-.obsidian/graph.json
-.obsidian
 *.json
