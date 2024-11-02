@@ -1,3 +1,7 @@
+---
+tags:
+  - Sarenraes_Fehler/Encounter
+---
 # TemplateEncounter
 ## Kurzzusammenfassung
 Kampf gegen Ratten aus kleinen Löchern.
