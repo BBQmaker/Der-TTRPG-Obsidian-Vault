@@ -33,7 +33,6 @@
     "iconInTitlePosition": "above",
     "lucideIconPackType": "native"
   },
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Nationen und Staaten": "FarCompass",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Jahre": "FarCalendar",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Personen": "FarChessPawn",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Objekte": "LiAnvil",
@@ -42,5 +41,6 @@
   "Achtung! Cthulhu - Die Schatten von Atlantis/Ereignisse": "LiAlarmCheck",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Organisationen": "LiAlbum",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Spieler": "LiAward",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte": "LiBackpack"
+  "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte": "LiBackpack",
+  "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Nationen und Staaten": "FarCompass"
 }
