@@ -2,7 +2,7 @@
 tags:
   - Sarenraes_Fehler/Encounter
 ---
-# TemplateEncounter
+# Sleim Encounter
 ## Kurzzusammenfassung
 Wir wurden überrascht von einer Gruppe Oozes in der Schmutzigen Larche
 

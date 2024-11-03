@@ -2,7 +2,7 @@
 tags:
   - Sarenraes_Fehler/Encounter
 ---
-# TemplateEncounter
+# Vielfraß encounter
 ## Kurzzusammenfassung
 Sah aus wie ein Bär war aber ein Großer Vielfraß
 

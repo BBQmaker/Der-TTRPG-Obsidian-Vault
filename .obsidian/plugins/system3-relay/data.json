@@ -9,6 +9,11 @@
       "guid": "77b52b35-35d2-4b01-86c7-74fc0aa94415",
       "path": "Aufstieg der Herrscher Notizen (Spieler)",
       "relay": "6d367825-3a2e-4a24-867a-19121f91d72f"
+    },
+    {
+      "guid": "979776ff-8e9d-417c-aece-d5197971b901",
+      "path": "Sarenraes Fehler (Spieler)",
+      "relay": "ef2f921c-8c44-4f26-a7ce-abe082922139"
     }
   ],
   "debugging": false,
