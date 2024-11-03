@@ -20,3 +20,4 @@
 .obsidian/
 .obsidian/**
 *.json
+*/workspace.json
