@@ -1,0 +1,7 @@
+A perception skill common to all humans, it allows the user to study an individual and form an idea of another person’s motives and character. The Keeper may choose to make concealed Psychology skill rolls on the player’s behalf, announcing only the information, true or false, that the user gained by employing it.
+
+Pushing examples: being very unsubtle and asking highly personal, intimate, or downright direct questions of the tar- get; immersing yourself in data regarding a specific person (the target of your study) in order to think like them and understand their motivations.
+
+Sample Consequences of failing a Pushed roll: you some- how reveal your own motivations to the target; the target is offended by your prying questions or curious stare, and refuses to speak with you further, or takes action against you (perhaps violence or a call to the police); unknown to you, the target is connected with your adversaries, and you unwittingly reveal your own agenda to them; spending all week locked in your room in order to build the profile has left you a physical and mental wreck (Penalty die to all rolls until you recover).
+
+If an insane investigator fails a pushed roll, he or she believes that they hear the target’s evil thoughts, and launches a physical attack upon them.

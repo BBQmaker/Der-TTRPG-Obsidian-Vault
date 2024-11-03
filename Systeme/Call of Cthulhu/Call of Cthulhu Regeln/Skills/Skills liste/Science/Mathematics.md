@@ -1,0 +1,2 @@
+## Mathematics (10%)
+The study of numbers and logic, in- cluding mathematical theories and applied and theoretical 76Call of Cthulhu solution design and development. The skill might allow the identification of non-Euclidian geometries, solve puzzling formulae and decrypt complex patterns or codes (see Cryp- tography for specialized study of codes).

@@ -1,0 +1,10 @@
+## Natural World (10%)
+Originally the study of plant and animal life in its envi- ronment. By the nineteenth century, this study had long separated into a range of academic disciplines (e.g. Biology, Botany, etc.) As a skill, Natural World represents the tradi- tional (unscientific) knowledge and personal observation of farmers, fishermen, inspired amateurs and hobbyists. It can identify species, habits and habitats in a general way, and identify tracks, spoors and calls, as well as allowing guesses as to what may be important to a particular species. For a scientific understanding of the natural world, one should look to the Biology, Botany and Zoology skills. Natural World may or may not be accurate—this is the region of appreciation, judgment, folk tradition and enthu- siasm. Use Natural World to judge horseflesh at the county fair, or decide whether a butterfly collection is excellent or just excellently framed.
+
+Opposing skill/Difficulty level: i Regular difficulty: identifying a particular species; remembering some common lore; knowing the best place to catch some fish. i 
+
+Hard difficulty: identifying an unusual specimen; locating a rare species of plant or animal; remem- bering a very obscure fact or piece of lore.
+
+**Pushing examples:** spending much longer (forgetful of the time) examining the habitat; tasting the unknown mush- room or plant to get a better idea what it is; consulting with the old woman in the village about the local wildlife.
+
+**Sample Consequences of failing a Pushed roll:** you spend long hours obsessively poring over books to identify the species; you get the facts wrong, and instead of the wasps be- ing repelled by your concoction of swamp mud and herbs, they are drawn to you (with painful results); you picked the wrong mushroom and find yourself, hours later, walking naked towards a policeman. If an insane investigator fails a pushed roll, he or she goes native and will be lost in the wilderness until friends come to their aid.

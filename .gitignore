@@ -1,19 +1,21 @@
-# Blacklist
-*/
-/.obsidian
-*/.obsidian/*
+# Alles ignorieren
+*
 
-# Whitelist
-!/Masks of Nyarlathotep (Spieler)
-!/Masks of Nyarlathotep (Spieler)/*
-!/Sarenraes Fehler (Spieler)
-!/Sarenraes Fehler (Spieler)/*
-!/Aufstieg der Herrscher Notizen (Spieler)
-!/Aufstieg der Herrscher Notizen (Spieler)/*
-!/zz_Templates
-!/zz_Templates/*
-!/Systeme
-!/Systeme/*
+# Ordner explizit nicht ignorieren
+!Masks of Nyarlathotep (Spieler)/
+!Sarenraes Fehler (Spieler)/
+!Aufstieg der Herrscher Notizen (Spieler)/
+!zz_Templates/
+!Systeme/
+
+# Inhalte der Ordner nicht ignorieren
+!Masks of Nyarlathotep (Spieler)/**
+!Sarenraes Fehler (Spieler)/**
+!Aufstieg der Herrscher Notizen (Spieler)/**
+!zz_Templates/**
+!Systeme/**
 
 
 *.json
+.obsidian/
+.obsidian/**

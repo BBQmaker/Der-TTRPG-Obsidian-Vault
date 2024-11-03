@@ -1,0 +1,2 @@
+## Geology (01%)
+Used to determine the approximate age of rock strata, recognize fossil types, distinguish minerals and crystals, locate promising sites for drilling or mining, eval- uate soils, anticipate volcanism, seismic events, avalanches and other such phenomena.

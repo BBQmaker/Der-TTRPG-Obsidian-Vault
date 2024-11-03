@@ -1,0 +1,9 @@
+SScience (Specializations) (01%) Practical and theoretical ability with a science specialty would suggest some degree of formalized education and training, although a well-read amateur scientist may also be a possibility. Understanding and scope is limited by the era of play. You may spend skill points to purchase any skill specialization. The generic ‘Science’ skill cannot be purchased. Each specialty covers a particular discipline and the list given is not exhaustive. Many specialties cross and overlap in knowledge, for example Mathematics and Cryptography, Botany and Biology, Chemistry and Pharmacy. When a character does not have the obvious discipline specialty, they may roll against an allied specialty with the level of difficulty increased (or penalty die) at the Keeper’s discretion.
+
+Opposing skill/Difficulty level: i Regular difficulty: conducting an experiment; being aware of current scientific theory within your field of specialty: working with proper equipment. i Hard difficulty: conducting a particularly demanding experiment; deciphering disorganized/partial scien- tific records; working with improvised equipment.
+
+Pushing examples: taking more time for study; conducting further research (perhaps in a better-equipped laboratory); consulting another expert; taking risks.
+
+Sample Consequences of failing a Pushed roll: the exper- iment goes completely awry, causing unforeseen damage (explosion, fire, electrical shock, expulsion to the sixth dimension, etc.); you misinterpret the information and so incorrectly prepare the formulae for the ‘magical’ powder, with disastrous results. If an insane investigator fails a pushed roll, he or she begins to explore an aspect of weird science related to their specialization. This may ultimately lead to actual developments akin to those of Crawford Tillinghast (from Lovecraft’s story From Beyond).
+Science Specializations:
+

@@ -1,0 +1,5 @@
+## Death Spell
+• Cost: 24 magic points; 3D10 Sanity points
+• Casting time: 1D3 rounds
+
+Reserved for only the most foul of sorcerers, this spell causes a bewildered victim to burst into flame. The target must be within ten yards of the caster. For the spell to take effect the caster must succeed in an opposed POW roll with the target during each round of concentration. After 1D3 rounds of concentration, the target’s skin forms large blisters and he or she loses 1D3 hit points. In the next round, the target loses an additional 1D6 hit points; on the third and following rounds, he or she bursts into flames, losing 1D10 hit points. The stench of burning hair and flesh is overwhelming; all witnesses should make Sanity rolls (1/1D6 loss). It is impossible to render aid, since the horrified victim burns from the inside out. Killing or causing a major wound to the caster stops the spell, otherwise it will continue until the target is dead.

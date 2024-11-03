@@ -1,0 +1,2 @@
+## Physics (01%)
+Grants theoretical understanding of pres- sure, materials, motion, magnetism, electricity, optics, radioactivity and related phenomena, and some ability to construct experimental devices to test ideas. The degree of knowledge depends on the era of use. Practical devices, such as automobiles, are not the province of physicists, however experimental devices may be, perhaps in conjunction with Electronics or Mechanical Repair.
