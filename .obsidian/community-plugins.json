@@ -28,5 +28,7 @@
   "system3-relay",
   "callout-suggestions",
   "merge-notes",
-  "github-sync"
+  "github-sync",
+  "obsidian-admonition",
+  "obsidian-chartsview-plugin"
 ]
