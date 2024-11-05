@@ -15,7 +15,7 @@ OneLiner: 1 Line Summary
 timelines:
   - journal
 tags:
-  - journal
+  - Sarenraes_Fehler_Session_Journal
 ---
 
 <% await tp.file.move("/1-Session Journals/" + tp.file.title) %>

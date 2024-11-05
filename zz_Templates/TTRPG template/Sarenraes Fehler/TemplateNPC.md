@@ -5,21 +5,10 @@ Race:
 Age: "1"
 Class: 
 Character-Role: 
-Location:
+Location: 
+tags:
+  - Sarenraes_Fehler/npc
 ---
-
-<% await tp.file.move("/3-Mechanics/NPCs/" + tp.file.title) %>
-
-<%*
-const hasTitle = !tp.file.title.startsWith("NewNPC");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`

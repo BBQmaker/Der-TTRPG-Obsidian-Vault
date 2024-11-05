@@ -1,50 +1,34 @@
 ---
-questObtained: 2024-04-03
-QuestStatus: In Bearbeitung
+QuestObtained: 
+QuestStatus: Not Started
 Questgeber: 
-questLocationObtained: 
-questSessionObtained: 
+QuestOrtErhalten: 
+QuestSessionObtained: 
 Questbelohnung: 
+NoteIcon: quest
 tags:
   - Sarenraes_Fehler/Quest
 ---
 > [!infobox]+
 > # `=this.file.name`
-> ###### Quest Details
+> ## Quest Details
 > Type |  Stat |
 > ---|---|
-> Date Obtained | `INPUT[datePicker:questObtained]` |
-> Status | `INPUT[inlineSelect(option(Not Started), option(In Progress), option(Complete)):questStatus]` |
-> Quest Giver | `INPUT[suggester(optionQuery(#npc)):questGiver]` |
-> Quest Location | `INPUT[suggester(optionQuery(#Category/Settlement)):questLocationObtained]` |
-> Session Obtained | `INPUT[suggester(optionQuery(#journal)):questSessionObtained]` |
-> Available Loot | `INPUT[suggester(optionQuery(#item)):questLootAvail]` |
-> Acquired Loot | `INPUT[suggester(optionQuery(#item)):questLookEarned]` |
-
+> Erhalten am | `INPUT[datePicker:QuestObtained]` |
+> Status | `INPUT[inlineSelect(option(Not Started), option(In Progress), option(Complete)):QuestStatus]` |
+> Quest Geber | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/npc)):Questgeber]` |
+> Quest Erhalten in | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Ort)):QuestOrtErhalten]` |
+> In Session Erhalten | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):QuestSessionObtained]` |
+> Belohnung | `INPUT[suggester():Questbelohnung]` |
 # `=this.file.name`
 Beschreiben Sie hier die quest.
 
 ## Ziel der Quest
-List the objectives here.
+Führen Sie hier die Ziele auf.
 
 ## Belohnungen
-Führen Sie die Belohnungen hier auf
-
+Führen Sie die Belohnungen hier auf.
 
 ## Anmerkungen
+Hier Anmerkungen.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
