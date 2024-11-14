@@ -139,3 +139,22 @@ Von [[Gundar Worgrim Phosphorbart]]
 +10
 
 +20
+
+-50 Pferd
+-15 Saddle
+
++3671 Verkauf aus dem loot aus [[Ruinen von Gamil-Druk]]
+=7.418
+-750 wand of [[Cure Light Wounds]]
+
+-1,000 [[Muleback Cords]]
+-750 [[Snapleaf]]
+-4500 [[Circlet of Persuasion]]
+
+=418
+-100 2x [[Cure Light Wounds]] Trank
+-100 2x [[Enlarge Person]] Trank
+=218
+-100 gp
+
+

@@ -20,18 +20,18 @@
             }
           },
           {
-            "id": "afcad7e6e80063f0",
+            "id": "9cbebb28e9461400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
+                "file": "Sarenraes Fehler (Spieler)/Personen/Tiberis Lock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TemplateNPC"
+              "title": "Tiberis Lock"
             }
           }
         ],
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md"
+                "file": "Sarenraes Fehler (Spieler)/Personen/Tiberis Lock.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von TemplateNPC"
+              "title": "Gliederung von Tiberis Lock"
             }
           },
           {
@@ -189,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "callout-manager:Insert Callout": false,
       "system3-relay:Relay": false,
@@ -203,38 +202,40 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Erstelle ein neues Board": false,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afcad7e6e80063f0",
+  "active": "9cbebb28e9461400",
   "lastOpenFiles": [
-    "ImagePlaceholder.png.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "zz_Templates/TTRPG template/TTRPG template.md",
-    "Sarenraes Fehler (Spieler)/Personen/Urima Radiomus.md",
-    "Sarenraes Fehler (Spieler)/Personen/Torvald.md",
     "Sarenraes Fehler (Spieler)/Personen/Selena Vynstein.md",
+    "Sarenraes Fehler (Spieler)/Personen/Tiberis Lock.md",
+    "Sarenraes Fehler (Spieler)/Orte/Die Fließende Mühle.md",
     "Sarenraes Fehler (Spieler)/Personen/Rucielo Gam.md",
+    "Sarenraes Fehler (Spieler)/Personen/Torvald.md",
+    "Sarenraes Fehler (Spieler)/Personen/Urima Radiomus.md",
+    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
+    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/1. Episode One - The Fog Of Memory/Eine Mission der Barmherzigkeit.md",
     "Sarenraes Fehler (Spieler)/Personen/Arne Therod Torvaldson.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/Andere González.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gundars Finanzen.md",
+    "Sarenraes Fehler (Spieler)/Orte/Stinkende Höhle.md",
+    "Sarenraes Fehler (Spieler)/Orte/Die Große Stadt.md",
+    "Sarenraes Fehler (Spieler)/Orte/Der Alte Tunnel.md",
+    "Sarenraes Fehler (Spieler)/Historische Orte/Murch.md",
+    "Sarenraes Fehler (Spieler)/Historische Orte/Königreich von Geram.md",
+    "Sarenraes Fehler (Spieler)/Götter/Sarenrae.md",
     "Sarenraes Fehler (Spieler)/Vault Bericht.md",
     "Sarenraes Fehler (Spieler)/Home.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplatePlayer.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateOrt.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
-    "Sarenraes Fehler (Spieler)/Quests/Otto Finden und Retten.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSettlement.md",
-    "zz_Templates/TTRPG template/Masks of Nyarlathotep (Spieler)/test.md",
-    "zz_Templates/Dataview Templates/Test.md",
-    "zz_Templates/TTRPG template/Masks of Nyarlathotep (Spieler)",
-    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
-    "Sarenraes Fehler (Spieler)/Orte/Die Große Stadt.md",
-    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
-    "Sarenraes Fehler (Spieler)/Quests/Beat the Goblin.md",
-    "Sarenraes Fehler (Spieler)/Encounter/Vielfraß encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Der Alte Tunnel.md",
+    "Sarenraes Fehler (Spieler)/Green Faith.md",
     "Sarenraes Fehler (Spieler)/Gemeinschaftskonto von den Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Orte/Stinkende Höhle.md",
+    "Sarenraes Fehler (Spieler)/Encounter/Vielfraß encounter.md",
+    "Sarenraes Fehler (Spieler)/Encounter/Sleim Encounter.md",
+    "Sarenraes Fehler (Spieler)/Encounter/Ratten Encounter.md",
+    "Sarenraes Fehler (Spieler)/Ideologie/Wyrd.md",
+    "Systeme/Pfadfinder 1e/Itmes",
+    "zz_Templates/TTRPG template/Masks of Nyarlathotep (Spieler)",
     "Sarenraes Fehler (Spieler)/Quests",
     "zz_Templates/TTRPG template/Sarenraes Fehler",
     "Sarenraes Fehler (Spieler)/Session Journals",
@@ -243,7 +244,6 @@
     "Sarenraes Fehler (Spieler)/Encounter",
     "Die Geißel des Dschungels/Spieler",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Objekte/Unbenannt",
-    "Masks of Nyarlathotep (Spieler)/Konzepte",
     "zz.Bilder/Duskmourn-Art-08.jpg",
     "zz.Bilder/Pimentel karte1.png",
     "Pasted image 20241029030451.png",
