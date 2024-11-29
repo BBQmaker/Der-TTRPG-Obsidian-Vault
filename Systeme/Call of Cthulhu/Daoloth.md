@@ -1,3 +1,7 @@
+---
+aliases:
+  - Daoloths
+---
 Den Render of the Veils zu betrachten, bedeutet, den Wahnsinn zu erkennen, denn denn die Augen sind nicht dazu geschaffen, seine Pracht zu sehen. Ich habe gesehen was nicht gesehen werden sollte. Eine furchterregende Komplexität von Kugeln, Stäben und Zylindern aus Kristall, Metall und fleischigem Gummi. Keine einzige Form könnte es beschreiben, wie es sich bewegte und wogte, hin und her stieß vor und zurück, während es in der Luft schwebte und an Größe zunahm, um den Raum und meinen Kopf. Diese grauen Formen konvergierten und verschmolzen in und verschmolzen in seinem Zentrum, wobei sie die physikalischen Gesetze anprangerten und meine Sinne. Maschinenartig und doch lebendig, sah es mich und kannte mich. Es lebte in den physikalischen Winkeln und zwischen ihnen.
 
 Andere Namen: Auge der Weissagung, Render of Darkness, Render of the Veil.

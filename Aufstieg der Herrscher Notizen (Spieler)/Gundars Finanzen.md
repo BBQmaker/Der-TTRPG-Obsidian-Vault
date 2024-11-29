@@ -154,7 +154,7 @@ Von [[Gundar Worgrim Phosphorbart]]
 =418
 -100 2x [[Cure Light Wounds]] Trank
 -100 2x [[Enlarge Person]] Trank
-=218
+=218 gp
 -100 gp
-
+=118 gp
 

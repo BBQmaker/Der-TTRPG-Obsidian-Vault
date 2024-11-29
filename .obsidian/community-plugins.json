@@ -28,11 +28,12 @@
   "system3-relay",
   "callout-suggestions",
   "merge-notes",
-  "github-sync",
   "obsidian-admonition",
   "obsidian-chartsview-plugin",
   "obsidian-meta-bind-plugin",
   "markdown-attributes",
   "obsidian-excel-to-markdown-table",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "local-backup",
+  "graph-banner"
 ]
