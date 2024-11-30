@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [[Blood Biography]]
+- [[Comprehend Languages]]
 - [[Cure Light Wounds]]
 - [[Enlarge Person]]
 - [[Nap Stack]]
