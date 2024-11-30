@@ -1,7 +1,6 @@
 # Quests Übersicht
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Quest Name", questStatus AS "Status", questGiver AS "Quest Geber", questLocationObtained AS "Location", questSessionObtained AS "Session", questLootAvail AS "Available Rewards"
-from  #Sarenraes_Fehler/Quest 
-where questStatus = "In Progress"
+TABLE WITHOUT ID link(file.name) AS "Quest Name", QuestStatus AS "Status", Questgeber AS "Quest Geber", QuestOrtErhalten AS "Location", QuestSessionObtained AS "Session", Questbelohnung AS "Questbelohnung"
+from #Sarenraes_Fehler/Quest 
+where file.name != "TemplateQuest"
 ```
-

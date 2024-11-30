@@ -2,6 +2,7 @@
 - [[Blood Biography]]
 - [[Cure Light Wounds]]
 - [[Enlarge Person]]
+- [[Nap Stack]]
 - [[Raise Dead]]
 - [[Speak with Dead]]
 
