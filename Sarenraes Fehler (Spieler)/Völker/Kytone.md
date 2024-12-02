@@ -1,0 +1,2 @@
+Gesetzlich Böse Kreaturen die gerne foltern, experimentieren und gemein sind. Diese Wesen haben meist eine Kälte-Immunität. Das niedere Wesen hatte ein böses Auge. 
+Das etwas stärkere Wesen hat einen sickened gemacht und hatte als Ziel neue Wege der Folter und des Experimentierens zu gehen. 

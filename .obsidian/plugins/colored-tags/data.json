@@ -64,7 +64,8 @@
     "Sarenraes_Fehler/Ort": 4,
     "Sarenraes_Fehler/Ort/Encounter": 1,
     "Sarenraes_Fehler/Ort/npc": 2,
-    "Sarenraes_Fehler/Ort/Quest": 3
+    "Sarenraes_Fehler/Ort/Quest": 3,
+    "Meta": 39
   },
   "_version": 3
 }

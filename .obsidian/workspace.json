@@ -20,82 +20,82 @@
             }
           },
           {
-            "id": "181a3d7740bafb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler Privat/Heimatland der Ulfen.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heimatland der Ulfen"
-            }
-          },
-          {
-            "id": "259767776208dbce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Journal 02.11.2024"
-            }
-          },
-          {
-            "id": "bd1a982c18219760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Encounter/Kyton Encounter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kyton Encounter"
-            }
-          },
-          {
-            "id": "0277b301ed094a4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Orte/Unterirdische Ruine von Platzhalter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unterirdische Ruine von Platzhalter"
-            }
-          },
-          {
             "id": "235c439fb9f2f2d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler Privat/Namen.md",
+                "file": "Sarenraes Fehler (Spieler)/Götter/Sarenrae.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Namen"
+              "title": "Sarenrae"
+            }
+          },
+          {
+            "id": "1107461af9c344e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarenraes Fehler - Übersicht"
+            }
+          },
+          {
+            "id": "98bb5917cb406cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarenraes Fehler - Übersicht"
+            }
+          },
+          {
+            "id": "bea6817d5999f9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarenraes Fehler - Übersicht"
+            }
+          },
+          {
+            "id": "988800f5955909ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie/Der Eiren.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Der Eiren"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md"
+                "file": "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie/Der Eiren.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Session Journal 02.11.2024"
+              "title": "Gliederung von Der Eiren"
             }
           },
           {
@@ -262,39 +262,38 @@
       "obsidian-kanban:Erstelle ein neues Board": false,
       "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "local-backup:Run local backup": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "259767776208dbce",
+  "active": "398c59e9f05b7f53",
   "lastOpenFiles": [
-    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 30.11.2024.md",
-    "Sarenraes Fehler Privat/Heimatland der Ulfen.md",
-    "Sarenraes Fehler Privat/Eiren.md",
+    "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie",
     "Sarenraes Fehler Privat/Die Ballade vom Letzen Sturm.md",
-    "Sarenraes Fehler Privat/Namen.md",
-    "Sarenraes Fehler (Spieler)/Orte/Unterirdische Ruine von Platzhalter.md",
+    "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
+    "Sarenraes Fehler (Spieler)/Quests/Otto Retten.md",
+    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
+    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 30.11.2024.md",
+    "Sarenraes Fehler (Spieler)/Gemeinschaftskonto von den Furiosen Vier.md",
+    "Sarenraes Fehler (Spieler)/Die Furiosen Vier.md",
+    "Sarenraes Fehler (Spieler)/Arne Therod Finanzen.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/Andere González.md",
+    "Sarenraes Fehler (Spieler)/Hintergrund des Sarenraes Fehler.md",
+    "Sarenraes Fehler (Spieler)/Völker/Kytone.md",
     "Sarenraes Fehler (Spieler)/Völker/Die Ulfen.md",
     "Sarenraes Fehler (Spieler)/Völker/Azata.md",
-    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
-    "Sarenraes Fehler (Spieler)/Personen/Allynna Ilivaris.md",
-    "Sarenraes Fehler (Spieler)/Personen/Herulith.md",
-    "Sarenraes Fehler (Spieler)/Encounter/Kyton Encounter.md",
-    "Systeme/Pfadfinder 1e/Spells/Comprehend Languages.md",
-    "Systeme/Pfadfinder 1e/Conditions/Shaken.md",
-    "Systeme/Pfadfinder 1e/Pf1e Regeln/Pf1e Regeln.md",
-    "Systeme/Pfadfinder 1e/Conditions/Conditions.md",
+    "Sarenraes Fehler (Spieler)/Encounter/Boss Kyton Encouter.md",
+    "Sarenraes Fehler (Spieler)/Orte/Die Große Stadt.md",
+    "zz.Übergeordneten Notizen/TTRPG-Vault Hauptnotiz.md",
+    "Sarenraes Fehler (Spieler)/Götter/Sarenrae.md",
+    "Sarenraes Fehler Privat/Namen.md",
+    "Sarenraes Fehler (Spieler)/Personen/Otto.md",
+    "Sarenraes Fehler (Spieler)/Orte/Der Alte Tunnel.md",
+    "Sarenraes Fehler (Spieler)/Orte/Unterirdische Labor Ruine.md",
+    "Unterirdische Ruine von Platzhalter.md",
+    "Sarenraes Fehler Privat/Heimatland der Ulfen.md",
+    "zz_Templates/Dataview Templates/Test.md",
     "Systeme/Pfadfinder 1e/Conditions",
-    "Shaken.md",
-    "Sarenraes Fehler (Spieler)/Encounter/Ratten Encounter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "Sarenraes Fehler (Spieler)/Encounter/Sleim Encounter.md",
-    "Sarenraes Fehler (Spieler)/Die Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Gemeinschaftskonto von den Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Vault Bericht.md",
-    "Sarenraes Fehler (Spieler)/Home.md",
-    "Sarenraes Fehler (Spieler)/Völker/Typische Ulfen Nachnamen.md",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Unbenannt",
     "zz.Bilder/Pimentel karte1.png",
     "Die Tore von Ekrund",

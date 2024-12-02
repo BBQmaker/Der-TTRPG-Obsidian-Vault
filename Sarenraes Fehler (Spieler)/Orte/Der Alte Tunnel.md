@@ -17,4 +17,4 @@ eine anders loch ist auch da.
 der rechte gang führt zur [[Stinkende Höhle]]
 Linker gang ist unbekannt.
 
-.
+führt zu [[Unterirdische Labor Ruine]]

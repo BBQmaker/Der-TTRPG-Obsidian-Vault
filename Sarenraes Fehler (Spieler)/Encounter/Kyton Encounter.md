@@ -13,7 +13,7 @@ Immun gegen Kälte
 Kann Blutung schaden machen
 
 ## Ort
-[[Unterirdische Ruine von Platzhalter]]
+[[Unterirdische Labor Ruine]]
 
 ## Verlauf
 Wir Überraschen das Wesen

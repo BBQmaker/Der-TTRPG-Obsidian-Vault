@@ -17,6 +17,7 @@ und das führt in eine Großen raum
 
 
 Im Labor finden wir:
+ein [[Kyton Encounter]]
 200gp
 2 Schriftrollen ( ist [[Comprehend Languages]])
 2 Ölige Flüssigkeiten
@@ -33,4 +34,11 @@ die Bibliothek
 
 Mehre Anatomie Bücher 
 Unter anderem Bücher von der Anatomie von Engel
+
+
+Das Haupt Labor
+
+Wir Belauschten jemand bei einem Gespräch er scheint der Verantwortlich für diese anlange zu sein.
+wir geraten in den [[Boss Kyton Encouter]]
+
 
