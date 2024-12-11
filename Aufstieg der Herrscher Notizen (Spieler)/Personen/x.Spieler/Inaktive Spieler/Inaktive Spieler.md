@@ -1,6 +1,6 @@
 # Inaktive Spieler Übersicht
 
 %% Begin Waypoint %%
-- [[Fero Natahr]]
+- [[Vanessa Kyara Antares]]
 
 %% End Waypoint %%

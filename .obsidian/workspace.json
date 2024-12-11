@@ -85,17 +85,92 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie/Der Eiren.md",
+                "file": "Sarenraes Fehler (Spieler)/Personen/Arne Therod Torvaldson.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der Eiren"
+              "title": "Arne Therod Torvaldson"
+            }
+          },
+          {
+            "id": "13b92fb0fb49d223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terror auf Helgoland/Orte/Orte.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orte"
+            }
+          },
+          {
+            "id": "d1f9831f5f0329a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terror auf Helgoland/Terror auf Helgoland - Synopsis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terror auf Helgoland - Synopsis"
+            }
+          },
+          {
+            "id": "a1706b21a4c0c815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Orte/Vermis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vermis"
+            }
+          },
+          {
+            "id": "1995c857e3aa1a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufstieg der Herrscher Notizen (Spieler)/Gemeinschaftskonto von den aufsteigenden Herrschern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gemeinschaftskonto von den aufsteigenden Herrschern"
+            }
+          },
+          {
+            "id": "98c1d511f9b8176f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Gemeinschaftskonto von den Furiosen Vier.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gemeinschaftskonto von den Furiosen Vier"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,10 +288,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie/Der Eiren.md"
+                "file": "Sarenraes Fehler (Spieler)/Orte/Vermis.md"
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Der Eiren"
+              "title": "Gliederung von Vermis"
             }
           },
           {
@@ -265,49 +340,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "398c59e9f05b7f53",
+  "active": "a1706b21a4c0c815",
   "lastOpenFiles": [
-    "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie",
-    "Sarenraes Fehler Privat/Die Ballade vom Letzen Sturm.md",
-    "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
-    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
-    "Sarenraes Fehler (Spieler)/Quests/Otto Retten.md",
-    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 02.11.2024.md",
-    "Sarenraes Fehler (Spieler)/Session Journals/Session Journal 30.11.2024.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Die Auflösung/Eine Gebrochende Zeitschleife.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Zustatz Elemente/Zeitsprung 3.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Zustatz Elemente/Zeitsprung 2.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Peru/Reflejo de Yuyay.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/3. Episode Three - Distant Echoes/Tales Around the Fire.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Unbenannt.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Der Spinnen Encounter nr 1.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Die Auflösung",
+    "Aufstieg der Herrscher Notizen (Spieler)/Ort/Das Schlachtfeld vor Gamil Druk.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Ort/Das Haupttor von Gamil-Druk.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Quest log.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Personen/Viola.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gundars Pläne und Intrigen.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gundars Finanzen.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gundars konflik mit Harun.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gunndars Todesliste.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Ort/Seltsamer ort Hinter der Große Tür.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Personen/Npcs/Hans Friedrich.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Personen/x.Spieler/Aktive Spieler/Aktive Spieler.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Personen/x.Spieler/Inaktive Spieler/Inaktive Spieler.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Gemeinschaftskonto von den aufsteigenden Herrschern.md",
     "Sarenraes Fehler (Spieler)/Gemeinschaftskonto von den Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Die Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Arne Therod Finanzen.md",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/Andere González.md",
-    "Sarenraes Fehler (Spieler)/Hintergrund des Sarenraes Fehler.md",
-    "Sarenraes Fehler (Spieler)/Völker/Kytone.md",
-    "Sarenraes Fehler (Spieler)/Völker/Die Ulfen.md",
-    "Sarenraes Fehler (Spieler)/Völker/Azata.md",
-    "Sarenraes Fehler (Spieler)/Encounter/Boss Kyton Encouter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Die Große Stadt.md",
-    "zz.Übergeordneten Notizen/TTRPG-Vault Hauptnotiz.md",
-    "Sarenraes Fehler (Spieler)/Götter/Sarenrae.md",
-    "Sarenraes Fehler Privat/Namen.md",
-    "Sarenraes Fehler (Spieler)/Personen/Otto.md",
-    "Sarenraes Fehler (Spieler)/Orte/Der Alte Tunnel.md",
-    "Sarenraes Fehler (Spieler)/Orte/Unterirdische Labor Ruine.md",
-    "Unterirdische Ruine von Platzhalter.md",
-    "Sarenraes Fehler Privat/Heimatland der Ulfen.md",
-    "zz_Templates/Dataview Templates/Test.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Götter/IIgtris.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Wurm Wesen 2.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Wurm Wesen 1.md",
+    "zz.Übergeordneten Notizen/TTRPG Ressourcen.md",
+    "zz.Übergeordneten Notizen/Notizen über Spieler.md",
+    "zz.Bilder/Seltsamer ortasd.png",
+    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
+    "Sarenraes Fehler (Spieler)/Objekte",
+    "Terror auf Helgoland/z.Handouts",
+    "Sarenraes Fehler (Spieler) Privat",
+    "Sarenraes Fehler (Spieler)/Historische Orte/Historische Geographie",
     "Systeme/Pfadfinder 1e/Conditions",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/A Look to the Past (Peru)/Unbenannt",
     "zz.Bilder/Pimentel karte1.png",
     "Die Tore von Ekrund",
     "Sarenraes Fehler (Spieler)/Religionen",
     "Systeme/Pfadfinder 1e/Itmes",
-    "zz_Templates/TTRPG template/Masks of Nyarlathotep (Spieler)",
-    "Sarenraes Fehler (Spieler)/Quests",
-    "zz_Templates/TTRPG template/Sarenraes Fehler",
-    "Sarenraes Fehler (Spieler)/Session Journals",
-    "zz_Templates/TTRPG template",
     "zz.Bilder/Duskmourn-Art-08.jpg",
     "Pasted image 20241029030451.png",
     "zz.Bilder/Peru Karte Achtung! Cthulhu - Shadows of Atlantis.png",
-    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "zz.Bilder/BlackSun.svg.png",
     "Terror auf Helgoland/Unbenannt.canvas",
     "zz.Bilder/helgoland_b.jpeg",
@@ -315,7 +391,6 @@
     "zz.Bilder/fuchs liste.png",
     "zz.Bilder/Kanopya v1lq.png",
     "zz.Bilder/Kanopya_Full_1_hq.jpg",
-    "zz.Bilder/Map für Spieler neu und besser V2.png",
     "Unbenannt 1.canvas"
   ]
 }

@@ -17,6 +17,7 @@ ist eine Ilusion
 ## Verlauf
 
 
-Der Große Kryton versucht 
+Der Große Kryton versuchte uns mit einer IIlusion abzulenken
+
 
 ## Anmerkungen

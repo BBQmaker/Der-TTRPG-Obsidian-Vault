@@ -4,6 +4,7 @@
 # Ordner explizit nicht ignorieren
 !Masks of Nyarlathotep (Spieler)/
 !Sarenraes Fehler (Spieler)/
+!Sarenraes Fehler (Spieler) Privat/
 !Aufstieg der Herrscher Notizen (Spieler)/
 !zz_Templates/
 !Systeme/
@@ -11,6 +12,7 @@
 # Inhalte der Ordner nicht ignorieren
 !Masks of Nyarlathotep (Spieler)/**
 !Sarenraes Fehler (Spieler)/**
+!Sarenraes Fehler (Spieler) Privat/**
 !Aufstieg der Herrscher Notizen (Spieler)/**
 !zz_Templates/**
 !Systeme/**
