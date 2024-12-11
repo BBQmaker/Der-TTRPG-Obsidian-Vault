@@ -1,0 +1,1 @@
+Zwischen dem [[Schattenmarkt]] und dem [[Wasserbezirk]] gelegene Nachbarschaft. Hier befindet sich [[Der Fließende Bach]].

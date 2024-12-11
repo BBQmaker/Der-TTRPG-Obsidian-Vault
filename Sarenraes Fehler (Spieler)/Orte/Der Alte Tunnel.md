@@ -1,11 +1,8 @@
 
-Finden Blut von Otto und unbekannter Person.
-Blutspruen
+Wir betreten dieses Gebiet im Rahmen unseres Ziels [[Otto Retten]].
+Wir werden nach kurzer Zeit auf einige blutige Spuren aufmerksam - offenbar gehören sie Otto und noch einer weiteren Person.
 
-
-6km lang
-Altes Kontrukt ist zu eine Schlacke Zerschmolzenes Konstrukt.
-war mal large und humanoid
+Nach sechs weiteren Kilometern machen wir eine bemerkenswerte Entdeckung: die geschmolzenen Überreste eines ehemals großen und humanoiden Konstrukts.
 
 
 nach 2h weg
