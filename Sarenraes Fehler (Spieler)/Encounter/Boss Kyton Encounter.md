@@ -4,12 +4,12 @@ tags:
 ---
 # `=this.file.name`
 ## Kurzzusammenfassung
-im laufe der [[Otto Retten]] quest finden wird den Übeltäter
+im laufe der [[Otto Retten]] quest finden wir den Übeltäter
 
 ## Kreaturen Daten
 die Beschwörene Kreatur:
 22 trifft
-ist eine Ilusion
+ist eine Illusion
 
 ## Ort
 [[Unterirdische Labor Ruine]]

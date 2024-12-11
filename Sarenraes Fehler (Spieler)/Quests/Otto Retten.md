@@ -2,7 +2,7 @@
 QuestObtained: 2024-11-02
 QuestStatus: In Progress
 Questgeber: "[[Rucielo Gam]]"
-QuestOrtErhalten: "[[Die Große Stadt]]"
+QuestOrtErhalten: "[[Vermis]]"
 QuestSessionObtained: Session Journal 02.11.2024
 Questbelohnung: Unbekannt
 NoteIcon: quest
@@ -20,4 +20,4 @@ Unbekannt
 
 ## Anmerkungen
 Hier Anmerkungen.
-Fail.
+Fail. Otto wurde nicht gerettet.

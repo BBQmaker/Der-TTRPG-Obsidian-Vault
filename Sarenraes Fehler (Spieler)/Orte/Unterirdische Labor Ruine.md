@@ -3,42 +3,36 @@ von [[Der Alte Tunnel]]
 
 
 
-Reliefs in der Wand
-
-Fund
-Schriftrolle mit Kissen ( es ist [[Nap Stack]])
-eine Mysterie box in einem Geheimfach
+Wir beobachten Reliefs an den Wänden, welche wir nicht einordnen können.
 
 
+> [!NOTE] Fund
+> Scroll von [[Nap Stack]]
+eine [[Mystery box]] in einem Geheimfach
 
-Die Ruinen Führen mit eine leichte Anstieg nach oben
-und das führt in eine Großen raum
+Nach einer mittleren Wegstrecke, bei der wir einen leichten Höhenanstieg beobachten, gelangen wir in einen großen Raum, der wie ein Labor eingerichtet ist. Wir werden von einem Outsider attackiert, es kommt zum [[Kyton Encounter]].
 
-
-
-Im Labor finden wir:
-ein [[Kyton Encounter]]
-200gp
-2 Schriftrollen ( ist [[Comprehend Languages]])
+> [!NOTE] Fund: Labor
+> 200gp
+2 Scrolls: Comprehend Languages
 2 Ölige Flüssigkeiten
-ein glas mit Blut von Outsider
+ein glas mit dem Blut eines Outsiders
 
-Im Gefängnis. 
-Schwarzer Schlüsselbund
-2x eine zerschundene Person maskulin aussehende Person
-finden eine kleinen [[Azata]] names [[Herulith]]
+Im Anschluss entdecken wir einen Abschnitt, der offenbar als eine Art Gefängnis dient.
 
-1x eine zerschundene Elfe mit feminin aussehenden ( Sie Heißt [[Allynna Ilivaris]] )
+> [!NOTE] Fund: Gefängnis
+> Schwarzer Schlüsselbund
 
-die Bibliothek
+Zudem entdecken wir mehrere Gefangene:
+zwei zerschundene, maskulin aussehende Personen, eine kleine [[Azata]] namens [[Herulith]] sowie eine zerschundene Elfe( [[Allynna Ilivaris]]).
 
-Mehre Anatomie Bücher 
+Direkt nach dem Gefängnis kommen wir in eine Bibliothek, aus der wir einige Bücher zur weiteren Untersuchung mitnehmen.
+
+
+> [!NOTE] Fund: Bibliothek
+> Mehre Anatomie Bücher 
 Unter anderem Bücher von der Anatomie von Engel
 
-
-Das Haupt Labor
-
-Wir Belauschten jemand bei einem Gespräch er scheint der Verantwortlich für diese anlange zu sein.
-wir geraten in den [[Boss Kyton Encouter]]
+Bevor wir die Bibliothek verlassen und voranschreiten können, belauschen wir ein Gespräch, welches aus den bisher unerkundeten Gebieten der Anlage zu uns dringt. In diesem scheint eine uns noch unbekannte Entität ([[Mysteriöse Stimme]]) den Verantwortlichen für diese Anlage zu rügen, bevor das Gespräch beendet wird. Wir schreiten in den nächsten Raum und beginnen den [[Boss Kyton Encounter]].
 
 
