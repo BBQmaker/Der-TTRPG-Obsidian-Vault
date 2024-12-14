@@ -1,18 +1,21 @@
 ---
+OrtdesEncounters: 
+ArtdesEncounters: 
+NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter
 ---
 # `=this.file.name`
-## Kurzzusammenfassung
+## 📝 Kurzzusammenfassung
 
 
-## Kreaturen Daten
+## 🐾 Kreaturen Daten
 
 
-## Ort
+## 🗺️ Ort
 
 
-## Verlauf
+## 📖 Verlauf
 
 
-## Anmerkungen
+## 📌 Anmerkungen

@@ -1,29 +1,13 @@
----
-obsidianUIMode: preview
----
+```dataview
+TABLE WITHOUT ID 
+link(file.name) as "Journal",
+Sitzungsnummer aS "Nummer",
+Sitzungsdatum as "Sitzungsdatum",
+sessionstatus as "Sitzungsstatus"
+from #Sarenraes_Fehler/Session_Journal  
+WHERE file.name != "TemplateJournal"
 
-
-> [!cards|4]
-> **[[]]**
-> 
-> 
-> **[[]]**
-> 
->
-> **[[]]**
-> 
-> 
-> 
-> 
-
-
-> [!infobox]
-> # Session Journals
-> ```dataview
-TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
-from "1-Session Journals"
-where (type = "Session Journal")
-SORT file.name DESC
+```
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  

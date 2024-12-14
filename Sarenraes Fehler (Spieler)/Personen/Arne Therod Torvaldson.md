@@ -1,6 +1,6 @@
-Ist ein [[Sarenraes Fehler inArbeit/Die Ulfen|Ulfen]] und Sklade
+Ist ein [[Sarenraes Fehler inArbeit/Die Ulfen|Ulfen]] und Skalde
 
-[[Die Fließende Mühle ]]
+[[Der Fließende Bach]]
 
 
 [[Arne Therod Finanzen]]

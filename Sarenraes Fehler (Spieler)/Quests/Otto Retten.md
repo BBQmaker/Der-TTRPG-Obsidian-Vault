@@ -1,6 +1,6 @@
 ---
 QuestObtained: 2024-11-02
-QuestStatus: In Progress
+QuestStatus: Fehlgeschlagen
 Questgeber: "[[Rucielo Gam]]"
 QuestOrtErhalten: "[[Vermis]]"
 QuestSessionObtained: Session Journal 02.11.2024

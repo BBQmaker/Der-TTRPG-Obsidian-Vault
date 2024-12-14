@@ -66,7 +66,8 @@
     "Sarenraes_Fehler/Ort/npc": 2,
     "Sarenraes_Fehler/Ort/Quest": 3,
     "Meta": 39,
-    "vermis": 40
+    "vermis": 40,
+    "Sarenraes_Fehler/Session_Journal": 5
   },
   "_version": 3
 }
