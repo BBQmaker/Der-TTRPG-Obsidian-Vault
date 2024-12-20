@@ -2,7 +2,7 @@
 
 ## Gold
 268
--100   Zwei [[Cure Light Wounds]] Tränke
+-100   Zwei Cure Light Wounds Tränke
 -100   an Gruppen Fund ([[Gemeinschaftskonto von den Furiosen Vier]])
 +300 vom Gruppen Fund ([[Gemeinschaftskonto von den Furiosen Vier]])
 = 368

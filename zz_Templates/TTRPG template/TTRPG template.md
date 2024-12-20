@@ -10,8 +10,8 @@
 	- [[TemplateJournal]]
 	- [[TemplateNPC]]
 	- [[TemplateOrt]]
-	- [[TemplatePlayer]]
 	- [[TemplateQuest]]
 	- [[TemplateSettlement]]
+	- [[TemplateSpielercharakter]]
 
 %% End Waypoint %%

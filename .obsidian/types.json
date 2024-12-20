@@ -26,6 +26,7 @@
     "aat-event-start-date": "text",
     "aat-event-end-date": "text",
     "excalidraw-embeddable-theme": "text",
-    "QuestObtained": "date"
+    "QuestObtained": "date",
+    "Disposition": "multitext"
   }
 }

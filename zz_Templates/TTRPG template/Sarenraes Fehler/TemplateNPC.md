@@ -1,50 +1,56 @@
 ---
-AssociatedGroup: 
-Gender: Male
-Race: 
-Age: "1"
-Class: 
-Character-Role: 
-Location: 
+Spezies: 
+Erste Begegnung: 
+Letzter Bekannter Aufenthalts Ort: 
+AssoziierteGruppe: 
+Alter: 
+Geschlechtsidentität: 
+Disposition:
+  - Alliiert
+  - Freundlich
+  - Neutral
+  - Angespannt
+  - Feindlich
+Status:
+  - Lebendig
 tags:
-  - Sarenraes_Fehler/npc
+  - Sarenraes_Fehler/NPC
 ---
 
 > [!infobox]
-> # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
-> ###### Basic Information
+> ###### Grundlegende Informationen
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
-> Sex | `=this.gender` |
-> Race | `=this.race` |
-> Age | `=this.age` |
-> Condition | Healthy |
-> ###### Rules Info
-> Type |  Stat |
-> ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Character Role | `=this.character-role` |
+> Letzter Bekannter Aufenthalts Ort | `=this.Letzter_Bekannter_Aufenthalts_Ort` |
+> AssoziierteGruppe| `=this.AssoziierteGruppe` | 
+> Spezies| `=this.Spezies` |
+> Geschlechtsidentität| `=this.Geschlechtsidentität` |
+> Alter| `=this.Alter` |
+> Status| `=this.Status`|
+
 
 # `=this.file.name`
-## Profile
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
 
-> [!info] Statblock
-> ```statblock
-> name: Individual
-> monster: Commoner
-> columns: 1
-> ```
 
-```encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-```
 
+
+
+
+
+
+ö
+
+
+
+
+
+
+
+ö
+
+
+ö
+
+
+ö

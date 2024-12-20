@@ -13,4 +13,4 @@ Dann wandern wir durch den Pissesee und werden überfallen von den Pissemonstern
 
 Dann Spaß mit der Brückenüberquerung und Arnes Fall.
 
-Dann haben wir einen Kultisten hideout gefunden und haben einen letzten Durchbruch gefunden und [[Urima Radiomus|Urima]] hat einen leuchtenden Pilz gefunden.
+Dann haben wir einen Kultisten hideout gefunden und haben einen letzten Durchbruch gefunden und Urima hat einen leuchtenden Pilz gefunden.

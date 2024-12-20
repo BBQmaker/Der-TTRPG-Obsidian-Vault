@@ -1,1 +1,2 @@
-Wohnort von [[Haw]]
+Wohnort von [[Edward Hawthorne]]
+

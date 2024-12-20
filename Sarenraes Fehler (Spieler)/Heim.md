@@ -1,3 +1,5 @@
+# Heim
+
 ```dataview
 TABLE WITHOUT ID 
 link(file.name) as "Journal",
@@ -9,26 +11,26 @@ WHERE file.name != "TemplateJournal"
 SORT Sitzungsnummer ASC
 
 ```
-
+## PCs
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
-from "1-Party"  
-where (Role = "Player")  
-where (Status = "Active")  
+TABLE WITHOUT ID link(file.name) AS "Name des Charakters", Spieler, Klasse, Spezies, level, Status 
+from #Sarenraes_Fehler/Spielercharakter
+Where file.name != "TemplateSpielercharakter"
 ```
-
-#  NPCs
-
+## Quests
+```dataview
+TABLE WITHOUT ID link(file.name) AS "Quest Name", QuestStatus AS "Status", Questgeber AS "Quest Geber", QuestOrtErhalten AS "Location", QuestSessionObtained AS "Session", Questbelohnung AS "Questbelohnung"
+from #Sarenraes_Fehler/Quest 
+where file.name != "TemplateQuest"
+```
+##  NPCs
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
-FROM "3-Mechanics/NPCs"
-WHERE (NoteIcon = "npc") 
+TABLE WITHOUT ID link(file.name) AS "NPC Namen", Spezies, Alter, Letzter_Bekannter_Aufenthalts_Ort, AssoziierteGruppe, Status  
+FROM "Sarenraes Fehler (Spieler)/NP-Personen"
 SORT file.mtime DESC
-LIMIT 10
 ```
 
-#  Locations
-
+#  Orte
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  
 FROM "2-World"

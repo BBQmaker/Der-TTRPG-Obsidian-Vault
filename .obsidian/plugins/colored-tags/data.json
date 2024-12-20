@@ -68,7 +68,9 @@
     "Meta": 39,
     "vermis": 40,
     "Sarenraes_Fehler/Session_Journal": 5,
-    "dead": 41
+    "dead": 41,
+    "Sarenraes_Fehler/Spielercharakter": 6,
+    "Sarenraes_Fehler/NPC": 7
   },
   "_version": 3
 }
