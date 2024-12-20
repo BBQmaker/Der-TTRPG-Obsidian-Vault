@@ -6,6 +6,7 @@ Sitzungsdatum as "Sitzungsdatum",
 sessionstatus as "Sitzungsstatus"
 from #Sarenraes_Fehler/Session_Journal  
 WHERE file.name != "TemplateJournal"
+SORT Sitzungsnummer ASC
 
 ```
 
@@ -16,7 +17,7 @@ where (Role = "Player")
 where (Status = "Active")  
 ```
 
-# Recently Modified NPCs
+#  NPCs
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Age, Location, AssociatedGroup  
@@ -26,7 +27,7 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 
-# Recently Modified Locations
+#  Locations
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Location Name", type, Government, Community-Size, size, population  

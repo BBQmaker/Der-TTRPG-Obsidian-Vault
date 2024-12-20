@@ -67,7 +67,8 @@
     "Sarenraes_Fehler/Ort/Quest": 3,
     "Meta": 39,
     "vermis": 40,
-    "Sarenraes_Fehler/Session_Journal": 5
+    "Sarenraes_Fehler/Session_Journal": 5,
+    "dead": 41
   },
   "_version": 3
 }

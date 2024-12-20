@@ -2,6 +2,7 @@
 aliases:
   - Händlerkönig
 ---
+Beamter von [[Vermis]]
 Tiberis Lock 
 •    Titel: Der Händlerkönig (inoffiziell)
 •    Rasse: Halbling

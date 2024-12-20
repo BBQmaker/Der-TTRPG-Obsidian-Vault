@@ -1,4 +1,4 @@
-Reach n
+Reach
 • Cost: variable magic points; 5 Sanity points 
 • Casting time: 1 round per magic point spent
 Allows the caster to reach through intervening surfaces 
