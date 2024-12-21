@@ -1,1 +1,0 @@
-Chaotischen Outsieder die für ihre Musik und Kunst bekannt sind.

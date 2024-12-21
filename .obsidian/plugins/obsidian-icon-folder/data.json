@@ -31,7 +31,8 @@
     "iconIdentifier": ":",
     "debugMode": false,
     "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Achtung! Cthulhu - Die Schatten von Atlantis/Jahre": "FarCalendar",
   "Achtung! Cthulhu - Die Schatten von Atlantis/Personen": "FarChessPawn",

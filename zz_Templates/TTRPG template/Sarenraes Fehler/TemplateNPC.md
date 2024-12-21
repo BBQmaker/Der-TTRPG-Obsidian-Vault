@@ -14,7 +14,7 @@ Disposition:
 Status:
   - Lebendig
 tags:
-  - Sarenraes_Fehler/NPC
+  - Sarenraes_Fehler/Personen/NPC
 ---
 
 > [!infobox]

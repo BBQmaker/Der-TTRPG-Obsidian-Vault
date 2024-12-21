@@ -10,7 +10,7 @@ PCKnownLanguages:
   - Common
 NoteIcon: player
 tags:
-  - Sarenraes_Fehler/Spielercharakter
+  - Sarenraes_Fehler/Personen/Spielercharakter
 ---
 # `=this.file.name`
 

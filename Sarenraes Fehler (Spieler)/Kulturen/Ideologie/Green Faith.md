@@ -1,0 +1,3 @@
+The **Green Faith** (also known as the **Old Faith**, the **Great Eld**, or the **Wyrd**) is a naturalistic philosophy based on the belief that natural forces are worthy of attention and respect.
+
+Followers of the Green Faith meditate daily, commune with natural forms of power, and show respect to nature in all things. They often hang fresh herbs from the lintels of doorways as a sign of respect for nature. Although the Green Faith is based on nature, one need not be a  to value its tenets, nor do all druids necessarily count themselves as members of this philosophy, although almost all of them appreciate its values.

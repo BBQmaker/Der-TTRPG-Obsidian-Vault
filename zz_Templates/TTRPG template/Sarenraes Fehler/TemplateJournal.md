@@ -9,16 +9,16 @@ tags:
 ---
 # `=this.file.name`
 ## ## 🎭 Charakterliste 
-hier Charakter aufliste die Wichtig waren. 
+Hier Charakter auflisten die Wichtig waren. 
 
 ## 🗺️ Orte besucht
-hier alle besuchte Ort auflisten.
-
-## ⚔️ Kämpfe & Herausforderungen
-hier alle Encounter Auflisten.
+Hier alle besuchte Ort auflisten.
 
 ## 📜Kurzzusammenfassung
-hier Kurzzusammenfassung!
+Hier Kurzzusammenfassung!
+
+## ⚔️ Kämpfe & Herausforderungen
+Hier alle Encounter Auflisten.
 
 ## 📚 Sitzungsübersicht
 So ist es geschehen! im Großen Detail!

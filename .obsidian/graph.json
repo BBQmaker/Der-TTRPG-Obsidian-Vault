@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Orte  ",
@@ -169,7 +169,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.35583247793061,
@@ -179,6 +179,6 @@
   "repelStrength": 10.6967768425375,
   "linkStrength": 1,
   "linkDistance": 278,
-  "scale": 0.27268599173605074,
-  "close": false
+  "scale": 0.07058167567047646,
+  "close": true
 }
