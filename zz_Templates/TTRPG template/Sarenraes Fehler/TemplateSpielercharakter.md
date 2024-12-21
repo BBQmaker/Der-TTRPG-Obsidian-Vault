@@ -6,7 +6,8 @@ Spezies:
 level: 3
 Status:
   - Active
-PCKnownLanguages: 
+PCKnownLanguages:
+  - Common
 NoteIcon: player
 tags:
   - Sarenraes_Fehler/Spielercharakter

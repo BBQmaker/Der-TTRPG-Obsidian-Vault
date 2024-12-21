@@ -1,4 +1,5 @@
 ### Human-hybrid Tindalosian
+[[Tindalos]]
 While trying to maintain a human form, the hybrid’s image often wavers and ripples. Tindalosians exist across hyper-dimensional realms and appear to shift and change when mere three-dimensional mortals can see only segments of their being. When a hybrid is not keeping human shape, their visible portions change radically: hands appear as a conglomerate of triangular crystals (reminiscent of wolfish claws), the face is replaced by what seems to be a wide gaping mouth, with a set of long crystalline fangs, their shape constantly shifts (as if small parts of
 it were popping in and out of existence), and their exposed substance appears as a conglomerate of many angles, with no curves at all. Hybrids can extend a snake-like tongue of bluish color to feed upon victims.
 

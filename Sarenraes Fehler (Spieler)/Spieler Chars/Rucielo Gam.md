@@ -8,7 +8,8 @@ Spezies: Mensch
 level: 3
 Status:
   - Aktiv
-PCKnownLanguages: 
+PCKnownLanguages:
+  - Common
 NoteIcon: player
 tags:
   - Sarenraes_Fehler/Spielercharakter

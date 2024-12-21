@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lord Vane
+---
 
 
 **Lord Vane, 18. Earl of Derby**

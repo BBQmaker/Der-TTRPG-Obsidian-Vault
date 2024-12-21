@@ -4,11 +4,11 @@ tags:
 ---
 # `=this.file.name`
 ## Kurzzusammenfassung
-Wir Überraschen eine Kyton in einm Labor und Schlagen ihn Kaputt
+Wir Überraschen eine [[Kytone]] in einm Labor und Schlagen ihn Kaputt
 
 
 ## Kreaturen Daten
-Eine niederer Kyton
+Eine niederer [[Kytone]]
 Immun gegen Kälte
 Kann Blutung schaden machen
 

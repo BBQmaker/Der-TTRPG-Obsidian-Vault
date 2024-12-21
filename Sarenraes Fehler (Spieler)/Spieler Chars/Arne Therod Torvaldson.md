@@ -1,12 +1,14 @@
 ---
-aliases: 
+aliases:
+  - Arne
 Spieler: Lasse
 Klasse: Skalde
 Spezies: Ulfen
 level: 3
 Status:
   - Aktiv
-PCKnownLanguages: 
+PCKnownLanguages:
+  - Common
 NoteIcon: player
 tags:
   - Sarenraes_Fehler/Spielercharakter
@@ -27,3 +29,5 @@ Diejenigen, die ihn kennen, schätzen ihn als Dichter und Geschichtenerzähler. 
 
 
 
+### ideologie
+[[Green Faith]]
