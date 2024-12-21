@@ -27,6 +27,10 @@
     "aat-event-end-date": "text",
     "excalidraw-embeddable-theme": "text",
     "QuestObtained": "date",
-    "Disposition": "multitext"
+    "Disposition": "multitext",
+    "OrtStatus": "multitext",
+    "OrtTyp": "multitext",
+    "PCKnownLanguages": "multitext",
+    "Status": "multitext"
   }
 }

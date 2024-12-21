@@ -1,11 +1,5 @@
 {
-  "sharedFolders": [
-    {
-      "guid": "979776ff-8e9d-417c-aece-d5197971b901",
-      "path": "Sarenraes Fehler (Spieler)",
-      "relay": "ef2f921c-8c44-4f26-a7ce-abe082922139"
-    }
-  ],
+  "sharedFolders": [],
   "debugging": false,
   "enableUpdateYDocFromDiskBuffer": false,
   "enableDownloadOnAddToVault": false,
