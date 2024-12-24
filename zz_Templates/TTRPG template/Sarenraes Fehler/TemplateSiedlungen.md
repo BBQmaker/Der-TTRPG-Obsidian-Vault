@@ -1,6 +1,6 @@
 ---
+tags: 
 NoteIcon: settlement
-Tags: Category/Settlement
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
@@ -8,24 +8,24 @@ type: Settlement
 politics: Lordship
 leader: 
 guildsgroups:
- - Thieves Guild 1
- - Cult 1
- - Guiled 1
-region: 
- - This area
- - Of this area
+  - Thieves Guild 1
+  - Cult 1
+  - Guiled 1
+region:
+  - This area
+  - Of this area
 size: Small city
 population: 0
 commonraces:
- - Humans
- - Elves
- - Dwarves
+  - Humans
+  - Elves
+  - Dwarves
 religion:
- - Lathander
-exports: 
- - Something
-imports: 
- - Something Else
+  - Lathander
+exports:
+  - Something
+imports:
+  - Something Else
 ---
 
 <% await tp.file.move("/2-World/" + tp.file.title) %>

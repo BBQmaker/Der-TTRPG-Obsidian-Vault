@@ -77,7 +77,12 @@
     "Sarenraes_Fehler/Personen": 9,
     "Sarenraes_Fehler/Ort/Siedlung/vermis": 1,
     "Sarenraes_Fehler/Personen/NPC": 1,
-    "Sarenraes_Fehler/Personen/Spielercharakter": 2
+    "Sarenraes_Fehler/Personen/Spielercharakter": 2,
+    "Sarenraes_Fehler/SessionJournal": 10,
+    "Sarenraes_Fehler/Ort/Geografische": 6,
+    "Sarenraes_Fehler/Ort/GeografischeMerkmale": 7,
+    "Sarenraes_Fehler/Ort/Naturstätte": 8,
+    "Verstorben": 42
   },
   "_version": 3
 }

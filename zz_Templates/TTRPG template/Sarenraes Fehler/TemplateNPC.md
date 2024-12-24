@@ -1,10 +1,13 @@
 ---
 Spezies: 
-Erste Begegnung: 
+Ort der Ersten Begegnung: 
 Letzter Bekannter Aufenthalts Ort: 
 AssoziierteGruppe: 
 Alter: 
-Geschlechtsidentität: 
+Geschlechtsidentität:
+  - Weiblich
+  - Männlich
+  - nicht-binär
 Disposition:
   - Alliiert
   - Freundlich
@@ -13,6 +16,8 @@ Disposition:
   - Feindlich
 Status:
   - Lebendig
+  - Verstorben
+  - Verschollen
 tags:
   - Sarenraes_Fehler/Personen/NPC
 ---

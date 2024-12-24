@@ -31,6 +31,7 @@
     "OrtStatus": "multitext",
     "OrtTyp": "multitext",
     "PCKnownLanguages": "multitext",
-    "Status": "multitext"
+    "Status": "multitext",
+    "Geschlechtsidentität": "multitext"
   }
 }

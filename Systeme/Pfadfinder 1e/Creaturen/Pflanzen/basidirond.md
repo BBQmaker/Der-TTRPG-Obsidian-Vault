@@ -2,7 +2,7 @@
 created: 2023-04-28
 name: Basidirond
 statblock: inline
-tags: [monster]
+tags: []
 updated: 2023-04-28
 ---
 ```statblock

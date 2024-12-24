@@ -9,7 +9,7 @@
 	- [[TemplateNPC]]
 	- [[TemplateOrt]]
 	- [[TemplateQuest]]
-	- [[TemplateSettlement]]
+	- [[TemplateSiedlungen]]
 	- [[TemplateSpielercharakter]]
 
 %% End Waypoint %%
