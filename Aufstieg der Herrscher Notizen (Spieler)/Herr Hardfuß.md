@@ -1,3 +1,6 @@
-Herr Hardfuß
+Herr Hardfuß ist ein Halbling
+[[Hammerschlag]]
+
+
 
 
