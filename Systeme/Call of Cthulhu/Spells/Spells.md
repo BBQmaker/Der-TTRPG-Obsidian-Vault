@@ -3,7 +3,7 @@
 %% Begin Waypoint %%
 - **Spell Liste**
 	- **A**
-		- [[Accursed Eye G]]
+		- [[Accursed Eye]]
 		- [[Alter Weather]]
 		- [[Anathema (Dreamlands)]]
 		- [[Animate Flesh Thing]]
@@ -22,7 +22,7 @@
 		- [[Awakin Dispelling the God Within]]
 		- [[Awful Doom of Cerrit (Dreamlands)]]
 	- **B**
-		- [[Bait Humans (Chthonian) 8]]
+		- [[Bait Humans (Chthonian)]]
 		- [[Balk Brood]]
 		- [[Baneful Dust of Hermes Trismegistus]]
 		- [[Banish Apep]]
@@ -35,7 +35,7 @@
 		- [[Become Spectral]]
 		- [[Benevolent Influence]]
 		- [[Bespeak the End of the Day]]
-		- [[Bestow Glimpse of Truth 6]]
+		- [[Bestow Glimpse of Truth]]
 		- [[Bestow Karma (Folk)]]
 		- [[Bind Animal (Folk)]]
 		- [[Bind Child of The Sphinx]]

@@ -82,7 +82,9 @@
     "Sarenraes_Fehler/Ort/Geografische": 6,
     "Sarenraes_Fehler/Ort/GeografischeMerkmale": 7,
     "Sarenraes_Fehler/Ort/Naturstätte": 8,
-    "Verstorben": 42
+    "Verstorben": 42,
+    "Sarenraes_Fehler/Region": 11,
+    "Sarenraes_Fehler/Ort/Region": 9
   },
   "_version": 3
 }

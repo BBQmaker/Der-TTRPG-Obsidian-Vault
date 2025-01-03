@@ -11,7 +11,7 @@ Medium Ratten
 9 ratten
 
 ## Ort
-[[Stinkende Höhle]]
+[[Stinkende Höhle2]]
 
 ## Verlauf
 

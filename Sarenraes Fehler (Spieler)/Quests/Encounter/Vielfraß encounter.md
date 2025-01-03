@@ -10,7 +10,7 @@ Sah aus wie ein Bär war aber ein Großer Vielfraß
 Vielfraß daten unbekannt
 
 ## Ort
-in der [[Stinkende Höhle]]
+in der [[Stinkende Höhle2]]
 
 ## Verlauf
 sehr viel aua.

@@ -12,7 +12,7 @@ Kanalisations Sleim
 sind keine Gefahr - lol -
 hat Aoe angriff der alle [[Entangled]]
 ## Ort
-in der [[Stinkende Höhle]]
+in der [[Stinkende Höhle2]]
 
 ## Verlauf
 Sehr viel aua.

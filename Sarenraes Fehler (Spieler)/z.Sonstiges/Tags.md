@@ -6,8 +6,9 @@
 #Sarenraes_Fehler/Ort/Siedlung 
 #Sarenraes_Fehler/Ort/GeografischeMerkmale 
 #Sarenraes_Fehler/Ort/Naturstätte 
+#Sarenraes_Fehler/Ort/Region
 
 #Sarenraes_Fehler/Encounter
 #Sarenraes_Fehler/Quest 
 
-#Sarenraes_Fehler/SessionJournal 
+#Sarenraes_Fehler/Session_Journal 

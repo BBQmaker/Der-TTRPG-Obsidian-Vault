@@ -32,6 +32,8 @@
     "OrtTyp": "multitext",
     "PCKnownLanguages": "multitext",
     "Status": "multitext",
-    "Geschlechtsidentität": "multitext"
+    "Geschlechtsidentität": "multitext",
+    "Encounter Typ": "multitext",
+    "Spieler": "multitext"
   }
 }

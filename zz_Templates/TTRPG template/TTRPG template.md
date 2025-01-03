@@ -4,12 +4,15 @@
 - **Masks of Nyarlathotep (Spieler)**
 	- [[MoN - Personen - Vorlage]]
 - **Sarenraes Fehler**
+	- **inarbeit**
+		- [[TemplateGeografischeMerkmale]]
+		- [[TemplateNaturstätte]]
+		- [[TemplateNPC]]
+		- [[TemplateQuest]]
+		- [[TemplateSiedlungen]]
 	- [[TemplateEncounter]]
 	- [[TemplateJournal]]
-	- [[TemplateNPC]]
-	- [[TemplateOrt]]
-	- [[TemplateQuest]]
-	- [[TemplateSiedlungen]]
+	- [[TemplateRegion]]
 	- [[TemplateSpielercharakter]]
 
 %% End Waypoint %%

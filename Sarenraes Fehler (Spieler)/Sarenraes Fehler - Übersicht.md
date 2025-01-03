@@ -8,11 +8,11 @@ Wir [[Die Furiosen Vier]] sind Bürger in der [[Vermis]]
 ```dataview
 TABLE WITHOUT ID 
 link(file.name) as "Journal",
-Sitzungsnummer aS "Nummer",
+Sitzungsnummer as "Nummer",
 Sitzungsdatum as "Sitzungsdatum",
 sessionstatus as "Sitzungsstatus"
 from #Sarenraes_Fehler/Session_Journal  
-WHERE file.name != "TemplateJournal"
+WHERE file.name != "TemplateJournal" AND file.name != "Tags"
 SORT Sitzungsnummer ASC
 
 ```

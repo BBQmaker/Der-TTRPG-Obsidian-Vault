@@ -5,7 +5,7 @@ sessionstatus:
 Sitzungsnummer: ---
 NoteIcon: journal
 tags:
-  - Sarenraes_Fehler/SessionJournal
+  - Sarenraes_Fehler/Session_Journal
 ---
 # `=this.file.name`
 ## ## 🎭 Charakterliste 
