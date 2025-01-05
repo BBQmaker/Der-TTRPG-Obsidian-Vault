@@ -9,9 +9,10 @@ Minor Grolle
 1. Beleidigung
 2. Beleidigung
 3. Beleidigung Kommentar wegen dem Compulsion spell
-4. Beleidigung kommentar wegen dem Compulsion spell
+4. Beleidigung Kommentar wegen dem Compulsion spell
 5. Beleidigung **16.03** **“Ich dachte nur lügen haben kurze beine”**
 6. Radran Malt eine Demütigen
+
 
 Major Grolle (zähle x5)
 
