@@ -8,6 +8,7 @@
 		- [[TemplateGeografischeMerkmale]]
 		- [[TemplateNaturstätte]]
 		- [[TemplateNPC]]
+		- [[TemplateObjekte]]
 		- [[TemplateQuest]]
 		- [[TemplateSiedlungen]]
 	- [[TemplateEncounter]]

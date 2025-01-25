@@ -23,15 +23,25 @@ OrtTyp:
 {{Beschreibe den Ort: Architektur, Landschaft, Atmosphäre, wichtige Details. Zum Beispiel: Ist es ein lebhafter Marktplatz, eine düstere Ruine, oder ein ruhiger Wald?}}
 
 
-## 🏛️ Wichtige Orte im Ort 
+## 🏛️ Wichtige Orte im Ort -
 - **📌 Ort 1:** {{Name und Beschreibung des Ortes, z. B. Ruine, Naturgebiet, Höhle, Ruine}} 
 - **📌 Ort 2:** {{Name und Beschreibung eines weiteren wichtigen Ortes}} 
 - **📌 Ort 3:** {{Weitere wichtige Orte oder Gebäude}}
 
-## 🤝 Wichtige Personen 
+## 🤝 Wichtige Personen  -
 - **👤 Person 1:** {{Name, Rolle/Funktion (z. B. Bürgermeister, Priester, Anführer einer Räuberbande), Beschreibung}} 
 - **👤 Person 2:** {{Name, Rolle, Beschreibung}} 
 - **👤 Person 3:** {{Weitere wichtige Personen}}
+
+
+Von und hin
+
+
+Ablauf
+funde
+
+
+
 
 
 
