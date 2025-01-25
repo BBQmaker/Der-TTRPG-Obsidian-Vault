@@ -8,12 +8,13 @@ OrtStatus:
 OrtTyp:
   - Ruine
   - Naturgebiet
+  - Höhle
 ---
 # 🗺️ `=this.file.name`
 ## 📋 Allgemeine Informationen 
 - **📍 Name:** {{Ortsname}} 
 - **🌍 Region:** {{Region oder Land}} 
-- **🏙️ Typ:** {{Ortstyp (z. B. Stadt, Dorf, Ruine, Naturgebiet)}} 
+- **🏙️ Typ:** {{Ortstyp (z. B. Ruine, Naturgebiet, Höhle)}} 
 - **👥 Bevölkerung:** {{Bevölkerungsanzahl oder Beschreibung (z. B. "menschenleer", "kleines Dorf", "große Stadt")}} 
 - **🗺️ Karte:** [[Link oder Beschreibung einer Karte, falls vorhanden]] 
 - **⚙️ Status:** {{Status, z. B. belebt, verlassen, im Krieg}}
@@ -23,7 +24,7 @@ OrtTyp:
 
 
 ## 🏛️ Wichtige Orte im Ort 
-- **📌 Ort 1:** {{Name und Beschreibung des Ortes, z. B. Gasthaus, Tempel, Marktplatz}} 
+- **📌 Ort 1:** {{Name und Beschreibung des Ortes, z. B. Ruine, Naturgebiet, Höhle, Ruine}} 
 - **📌 Ort 2:** {{Name und Beschreibung eines weiteren wichtigen Ortes}} 
 - **📌 Ort 3:** {{Weitere wichtige Orte oder Gebäude}}
 
