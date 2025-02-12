@@ -167,6 +167,20 @@
         "a": 1,
         "rgb": 12086016
       }
+    },
+    {
+      "query": "path:\"Individuen\"",
+      "color": {
+        "a": 1,
+        "rgb": 10376208
+      }
+    },
+    {
+      "query": "path:\"Pokemon\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
     }
   ],
   "collapse-display": true,
@@ -174,11 +188,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.35583247793061,
   "lineSizeMultiplier": 0.505029640952985,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.398193389447752,
   "repelStrength": 10.6967768425375,
   "linkStrength": 1,
   "linkDistance": 278,
-  "scale": 0.27268599173600877,
-  "close": true
+  "scale": 0.5359795996226308,
+  "close": false
 }

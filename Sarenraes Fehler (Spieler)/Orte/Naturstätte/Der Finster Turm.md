@@ -14,6 +14,7 @@ Die Reste von eine Art Schlafzimmer
 ein Seltsames Loch in der Decke
 Ein Skelett inklusive Rüstung liegt in der Mitte des Raumes
 
+Wir sehe Düstere Stelle im Wald
 
 Leiche von [[Oskar]]
 Stab
@@ -26,3 +27,4 @@ Langschwert Meisterwerk Dies ist Magisch
 	- Evokation Moderat
 	-
 Haufen Bücher 
+Finden -> [[Tagebuch von Unbekannt]]

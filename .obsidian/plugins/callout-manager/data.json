@@ -1,7 +1,15 @@
 {
   "callouts": {
     "custom": [],
-    "settings": {}
+    "settings": {
+      "quote": [
+        {
+          "changes": {
+            "color": "116, 0, 179"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,

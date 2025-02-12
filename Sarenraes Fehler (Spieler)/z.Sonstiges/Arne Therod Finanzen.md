@@ -28,8 +28,10 @@
 -1000 Cloak of R
 -1000 +1 für die Rüstung
 +1000 mw
-=1000 +1 für Shield
-
+=1000 mw
+-1000 +1 für Shield
++1000 mw belohnung
+=1000 mw
 
 
 
