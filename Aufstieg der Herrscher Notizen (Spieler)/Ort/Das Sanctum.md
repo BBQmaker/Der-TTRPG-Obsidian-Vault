@@ -1,3 +1,6 @@
+---
+aliases: []
+---
 Das Sanctum 
 
 

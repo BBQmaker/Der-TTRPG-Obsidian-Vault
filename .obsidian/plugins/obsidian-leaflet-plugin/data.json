@@ -115,6 +115,119 @@
       "files": [
         "Aufstieg der Herrscher Notizen (Spieler)/Die Welt/Das Land der auf gehende Sonne.md"
       ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1741367312449,
+      "markers": [
+        {
+          "id": "ID_cbd93a69fa1b",
+          "type": "default",
+          "loc": [
+            -8.236490726470947,
+            14.07503394635977
+          ],
+          "link": "Die Hütte des Wegweiser",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8499868394a",
+          "type": "default",
+          "loc": [
+            -3.0522885957297032,
+            1.8590345372254657
+          ],
+          "link": "Arkanien",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b5ac98a3868",
+          "type": "default",
+          "loc": [
+            -1.48095703125,
+            11.898347511587353
+          ],
+          "link": "Tauwiesen",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbd9988abb89",
+          "type": "default",
+          "loc": [
+            -6.749186038970947,
+            6.353935858955084
+          ],
+          "link": "Hügeling",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_089b98389b89",
+          "type": "default",
+          "loc": [
+            -1.4150390625,
+            4.562251187416823
+          ],
+          "link": "Silberquell",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48cb6a389978",
+          "type": "default",
+          "loc": [
+            -7.773325763413921,
+            11.493855261094554
+          ],
+          "link": "Nebelmoor",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte%20128%20Sr.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Mystery Dungeon Kampagne/PMD Karten.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -145,7 +258,48 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[PMD Map.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[PMD Map.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 5.48,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

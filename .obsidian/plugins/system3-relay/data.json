@@ -1,10 +1,24 @@
 {
-  "sharedFolders": [],
-  "debugging": false,
+  "sharedFolders": [
+    {
+      "guid": "d0f15bce-08a4-4b6c-8f49-e30e03d07698",
+      "path": "Sarenraes Fehler (Spieler)",
+      "relay": "ef2f921c-8c44-4f26-a7ce-abe082922139"
+    }
+  ],
   "enableUpdateYDocFromDiskBuffer": false,
-  "enableDownloadOnAddToVault": false,
-  "enableUploadOnShare": false,
   "enableDocumentStatus": false,
   "enableDebugFileTag": false,
-  "enableNewLinkFormat": false
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "debugging": false,
+  "enableDownloadOnAddToVault": false,
+  "enableUploadOnShare": false
 }

@@ -63,10 +63,11 @@ var Entity = class {
   static fromId(id) {
     return new Entity(id);
   }
-  static async search(query) {
+  static async search(query, opts) {
     if (!query || query.length === 0)
       return [];
-    const url = "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&type=item&limit=10&search=" + encodeURIComponent(query);
+    const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=${opts.language}&uselang=${opts.language}&type=item&limit=10&search=` + encodeURIComponent(query);
+    console.log(url);
     const response = await (0, import_obsidian.requestUrl)(url);
     const json = response.json;
     return json.search.map(Entity.fromJson);
@@ -94,7 +95,7 @@ var Entity = class {
 			SELECT ?propertyLabel ?value ?valueLabel ?valueType ?normalizedValue ?description WHERE {
 				wd:${this.id} ?propUrl ?value .
 				?property wikibase:directClaim ?propUrl .
-				OPTIONAL { wd:${this.id} schema:description ?description . FILTER (LANG(?description) = "en") }
+				OPTIONAL { wd:${this.id} schema:description ?description . FILTER (LANG(?description) = "${opts.language}") }
 				OPTIONAL {
 					?statement psn:P31 ?normalizedValue .
 					?normalizedValue wikibase:quantityUnit ?unit .
@@ -110,7 +111,7 @@ var Entity = class {
     }
     query += `
 				SERVICE wikibase:label {
-					bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" .
+					bd:serviceParam wikibase:language "[AUTO_LANGUAGE],${opts.language}" .
 				}
 			}
 		`;
@@ -177,7 +178,8 @@ var DEFAULT_SETTINGS = {
   ignorePropertiesWithTimeRanges: true,
   overwriteExistingProperties: false,
   blockedProperties: [],
-  allowedProperties: []
+  allowedProperties: [],
+  language: "en"
 };
 async function syncEntityToFile(plugin, entity, file) {
   var _a, _b, _c;
@@ -186,6 +188,7 @@ async function syncEntityToFile(plugin, entity, file) {
     frontmatter = {};
   }
   let properties = await entity.getProperties({
+    language: plugin.settings.language,
     ignoreCategories: plugin.settings.ignoreCategories,
     ignoreWikipediaPages: plugin.settings.ignoreWikipediaPages,
     ignoreIDs: plugin.settings.ignoreIDs,
@@ -220,15 +223,18 @@ async function syncEntityToFile(plugin, entity, file) {
   });
 }
 var WikidataEntitySuggestModal = class extends import_obsidian2.SuggestModal {
-  constructor(plugin) {
+  constructor(plugin, activeFile) {
     super(plugin.app);
     this.plugin = plugin;
+    this.activeFile = activeFile;
     this.setPlaceholder("Search for a Wikidata entity");
   }
   getSuggestions(query) {
-    return Entity.search(query);
+    return Entity.search(query, {
+      language: this.plugin.settings.language
+    });
   }
-  async onChooseSuggestion(item, evt) {
+  async onChooseSuggestion(item, _evt) {
     let loading = new import_obsidian2.Notice(`Importing entity ${item.id}...`);
     try {
       if (this.plugin.settings.internalLinkPrefix === "db/") {
@@ -239,8 +245,7 @@ var WikidataEntitySuggestModal = class extends import_obsidian2.SuggestModal {
         item.label,
         item.id.substring(1)
       );
-      console.log(name);
-      let file = this.app.vault.getAbstractFileByPath(name);
+      let file = this.activeFile || this.app.vault.getAbstractFileByPath(name);
       if (!(file instanceof import_obsidian2.TFile)) {
         file = await this.app.vault.create(name, "");
       }
@@ -264,18 +269,23 @@ var WikidataEntitySuggestModal = class extends import_obsidian2.SuggestModal {
 var WikidataImporterPlugin = class extends import_obsidian2.Plugin {
   async importProperties() {
     var _a;
-    let file = this.app.workspace.getActiveFile();
+    const file = this.app.workspace.getActiveFile();
     if (!file) {
       new import_obsidian2.Notice("No active file");
       return;
     }
     let frontmatter = ((_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.frontmatter) || {};
     let entityId = frontmatter[this.settings.entityIdKey];
+    if (entityId == null ? void 0 : entityId.startsWith("https://www.wikidata.org/wiki/")) {
+      entityId = entityId.substring(
+        "https://www.wikidata.org/wiki/".length
+      );
+    }
     if (!entityId || !entityId.startsWith("Q")) {
       new import_obsidian2.Notice(
         `No Wikidata entity ID found in frontmatter key "${this.settings.entityIdKey}", searching for a Wikidata entity from the file name "${file.basename}"...`
       );
-      const modal = new WikidataEntitySuggestModal(this);
+      const modal = new WikidataEntitySuggestModal(this, file);
       modal.open();
       modal.inputEl.value = file.basename;
       modal.inputEl.dispatchEvent(new Event("input"));
@@ -375,6 +385,12 @@ var WikidataImporterSettingsTab = class extends import_obsidian2.PluginSettingTa
   display() {
     const { containerEl } = this;
     containerEl.empty();
+    new import_obsidian2.Setting(containerEl).setName("Language").setDesc("The language to use for Wikidata entities").addText(
+      (text) => text.setPlaceholder(DEFAULT_SETTINGS.language).setValue(this.plugin.settings.language).onChange(async (value) => {
+        this.plugin.settings.language = value;
+        await this.plugin.saveSettings();
+      })
+    );
     new import_obsidian2.Setting(containerEl).setName("Wikidata entity ID key").setDesc("The frontmatter key to use for the Wikidata entity ID").addText(
       (text) => text.setPlaceholder(DEFAULT_SETTINGS.entityIdKey).setValue(this.plugin.settings.entityIdKey).onChange(async (value) => {
         this.plugin.settings.entityIdKey = value;

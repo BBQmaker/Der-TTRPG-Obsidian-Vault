@@ -10,7 +10,6 @@
   "excalibrain",
   "obsidian-checklist-plugin",
   "dataview",
-  "obsidian-underline",
   "obsidian-excalidraw-plugin",
   "colored-tags",
   "multi-tag",
@@ -22,7 +21,6 @@
   "global-search-and-replace",
   "templater-obsidian",
   "callout-manager",
-  "find-unlinked-files",
   "text-extractor",
   "system3-relay",
   "callout-suggestions",
@@ -33,5 +31,6 @@
   "markdown-attributes",
   "obsidian-excel-to-markdown-table",
   "table-editor-obsidian",
-  "graph-banner"
+  "graph-banner",
+  "crumbs-obsidian"
 ]
