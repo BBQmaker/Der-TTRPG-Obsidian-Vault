@@ -1,10 +1,8 @@
 ---
-OrtdesEncounters: 
-EncounteredInSession: 
+OrtdesEncounters: "[[Der Finster Turm]]"
+EncounteredInSession: "[[004.Sitzungs Journal 25.01.2025]]"
 Encounter Typ:
-  - Major
   - Minor
-  - Boss
 NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter

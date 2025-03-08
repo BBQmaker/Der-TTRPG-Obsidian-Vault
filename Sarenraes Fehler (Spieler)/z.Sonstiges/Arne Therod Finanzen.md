@@ -19,6 +19,9 @@
 -10 Scroll Case, Spring Loaded
 -100 4x cl2 Ex Ret
 =538
++3000 Belohnung für Auftrag vom [[Der Hohe Rat von Vermis]] 
+-1510 an Gruppen Fund ([[Gemeinschaftskonto von den Furiosen Vier]])
+= 2028
 
 
 ## Meta Währung

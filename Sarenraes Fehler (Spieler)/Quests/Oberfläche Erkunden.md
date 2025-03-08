@@ -1,10 +1,10 @@
 ---
 QuestObtained: 
 QuestStatus: Not Started
-Questgeber: 
-QuestOrtErhalten: 
-QuestSessionObtained: 
-Questbelohnung: 
+Questgeber: "[[Der Hohe Rat von Vermis]]"
+QuestOrtErhalten: "[[Vermis]]"
+QuestSessionObtained: "[[004.Sitzungs Journal 25.01.2025]]"
+Questbelohnung: Ruhm und Ehre
 NoteIcon: quest
 tags:
   - Sarenraes_Fehler/Quest

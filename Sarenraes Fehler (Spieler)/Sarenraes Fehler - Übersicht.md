@@ -71,7 +71,4 @@ LIMIT 10
 
 
 
-![[Vault Bericht]]
-
-
 

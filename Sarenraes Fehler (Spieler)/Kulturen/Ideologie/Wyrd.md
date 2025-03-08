@@ -1,1 +1,1 @@
-.
+Ideologie von [[Arne Therod Torvaldson]]

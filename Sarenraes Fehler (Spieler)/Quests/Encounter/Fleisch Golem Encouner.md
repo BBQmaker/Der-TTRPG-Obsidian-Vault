@@ -1,6 +1,6 @@
 ---
-OrtdesEncounters: 
-EncounteredInSession: 
+OrtdesEncounters: "[[Der Finster Turm]]"
+EncounteredInSession: "[[005.Sitzungs Journal 09.02.2025]]"
 Encounter Typ:
   - Boss
 NoteIcon: encounter

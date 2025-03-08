@@ -1,5 +1,4 @@
 [
-  "obsidian-dictionary-plugin",
   "waypoint",
   "beautitab",
   "obsidian-leaflet-plugin",
@@ -15,13 +14,11 @@
   "multi-tag",
   "tag-wrangler",
   "auto-note-mover",
-  "obsidian-file-color",
   "file-explorer-note-count",
   "folder-note-plugin",
   "global-search-and-replace",
   "templater-obsidian",
   "callout-manager",
-  "text-extractor",
   "system3-relay",
   "callout-suggestions",
   "merge-notes",
@@ -31,6 +28,5 @@
   "markdown-attributes",
   "obsidian-excel-to-markdown-table",
   "table-editor-obsidian",
-  "graph-banner",
-  "crumbs-obsidian"
+  "graph-banner"
 ]

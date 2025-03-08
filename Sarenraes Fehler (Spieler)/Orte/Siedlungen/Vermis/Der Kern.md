@@ -8,5 +8,5 @@ Der Kern ist das Herzstück der Stadt und der Sitz der Macht. Hier befindet sich
 
 ## Besonderheiten
 - Ratsgebäude, Oberstes Gericht, Archive und luxuriöse Anwesen.
-- Platz der Verkündigungen: Hier hält Ishar Stahlzunge, die Stimme des Rates, Reden vor dem Volk.
+- Platz der Verkündigungen: Hier hält [[Ishar Stahlzunge]], die Stimme des Rates, Reden vor dem Volk.
 - Starke Präsenz der Stadtwache und strenge Überwachung.
