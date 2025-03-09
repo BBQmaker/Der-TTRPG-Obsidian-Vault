@@ -15,7 +15,7 @@ tags:
 ## 📋 Allgemeine Informationen 
 - **📍 Name:** `=this.file.name`
 - **🌍 Region:** `=this.Region`
-- **🏙️ Typ:** {{Ortstyp (z. B. Ruine, Naturgebiet, Höhle)}} 
+- **🏙️ Typ:** `=this.OrtTyp`
 - **👥 Bevölkerung:** {{Bevölkerungsanzahl oder Beschreibung (z. B. "menschenleer", "kleines Dorf", "große Stadt")}} 
 - **🗺️ Karte:** [[Link oder Beschreibung einer Karte, falls vorhanden]] 
 - **⚙️ Status:** `=this.OrtStatus`
@@ -28,20 +28,14 @@ tags:
 {{Liste von Orten in der Nähe, die möglicherweise relevant sind, z. B. ein angrenzender Wald, ein Dorf, ein Gebirgspfad.}} 
 - **➡️ Richtung & Entfernung:** {{Wie gelangt man dorthin? (z. B. "2 Stunden Fußweg nach Norden.")}}
 
-## Unterorte
-{{Liste von Unterorten in diesem Ort}} 
+## 🗒 Unterorte
+{{Liste von Unterorten oder besonderen Bereichen innerhalb dieses Ortes, z. B. ein verstecktes Tal, ein unterirdischer Tunnel, ein Heiligtum.}}
 
-## Timeline/Ablauf
-{{Hier Ablauf, Funde, Encounter verlinken und Besondere Ereignisse}}
-
-
+## 📅Timeline/Ablauf
+{{Hier Ablauf, Funde, Encounter verlinken und besondere Ereignisse oder Veränderungen dokumentieren.}}
 
 
-
-
-
-
-## Encounter
+## 🐓Encounter
 ```dataview
 TABLE WITHOUT ID 
 link(file.name) as "Encounter", OrtdesEncounters as "Ort", EncounteredInSession.Sitzungsnummer as "Sitzungsnummer"
@@ -51,5 +45,5 @@ SORT Sitzungsnummer ASC
 ```
 
 
-## 📜 Notizen 
+## 📜 Sonstige Notizen 
 {{Zusätzliche Anmerkungen, die den Ort betreffen.}}

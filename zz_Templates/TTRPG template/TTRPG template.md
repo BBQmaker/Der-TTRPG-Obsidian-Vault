@@ -6,13 +6,13 @@
 - **Sarenraes Fehler**
 	- **inarbeit**
 		- [[TemplateGeografischeMerkmale]]
-		- [[TemplateNaturstätte]]
 		- [[TemplateNPC]]
 		- [[TemplateObjekte]]
 		- [[TemplateQuest]]
 		- [[TemplateSiedlungen]]
 	- [[TemplateEncounter]]
 	- [[TemplateJournal]]
+	- [[TemplateNaturstätte]]
 	- [[TemplateRegion]]
 	- [[TemplateSpielercharakter]]
 

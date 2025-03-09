@@ -1,19 +1,29 @@
 ---
+OrtdesEncounters: "[[Stinkende Höhle]]"
+EncounteredInSession: "[[001 -Operation Otto- Journal]]"
+Encounter Typ:
+  - Minor
+NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter
 ---
 # `=this.file.name`
-## Kurzzusammenfassung
+## 📝 Kurzzusammenfassung
 Kampf gegen Ratten aus kleinen Löchern.
 
-## Kreaturen Daten
-Medium Ratten
-9 ratten
+## 🐾 Kreaturen Daten
+> *Liste hier die Kreaturen auf, die am Encounter beteiligt sind:* 
+> - Medium Ratten    9 ratten
 
-## Ort
-[[Stinkende Höhle2]]
+## 🗺️ Ort
+[[Stinkende Höhle]]
 
-## Verlauf
+## 📖 Verlauf
 
 
-## Anmerkungen
+## 📌 Anmerkungen
+> Zusätzliche Hinweise, oder Kommentare zum Encounter
+> ... .
+
+
+

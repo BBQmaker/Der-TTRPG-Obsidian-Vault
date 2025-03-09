@@ -12,9 +12,7 @@ tags:
 Hier Charakter auflisten die Wichtig waren. 
 
 ## 🗺️ Orte besucht
-[[Stinkende Höhle]]
-[[zerstörtes Dorf]]
-[[Der Finsterturm]]
+Hier alle besuchte Ort auflisten.
 
 ## 📜Kurzzusammenfassung
 Hier Kurzzusammenfassung!

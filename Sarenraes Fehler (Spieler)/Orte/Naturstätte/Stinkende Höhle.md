@@ -1,38 +1,51 @@
 ---
 Region: "[[Oberes Unterreich]]"
-tags:
-  - Sarenraes_Fehler/Ort
+Assoziation:
+  - keine
 OrtStatus:
   - Verlassen
 OrtTyp:
   - Höhle
+tags:
+  - Sarenraes_Fehler/Ort/Naturstätte
 ---
 # 🗺️ `=this.file.name`
 ## 📋 Allgemeine Informationen 
-- **📍 Name:** {{Ortsname}} 
-- **🌍 Region:** {{Region oder Land}} 
-- **🏙️ Typ:** {{Ortstyp (z. B. Stadt, Dorf, Ruine, Naturgebiet)}} 
+- **📍 Name:** `=this.file.name`
+- **🌍 Region:** `=this.Region`
+- **🏙️ Typ:** {{Ortstyp (z. B. Ruine, Naturgebiet, Höhle)}} 
 - **👥 Bevölkerung:** {{Bevölkerungsanzahl oder Beschreibung (z. B. "menschenleer", "kleines Dorf", "große Stadt")}} 
 - **🗺️ Karte:** [[Link oder Beschreibung einer Karte, falls vorhanden]] 
-- **⚙️ Status:** {{Status, z. B. belebt, verlassen, im Krieg}}
+- **⚙️ Status:** `=this.OrtStatus`
 
 ## 🏞️ Beschreibung 
 {{Beschreibe den Ort: Architektur, Landschaft, Atmosphäre, wichtige Details. Zum Beispiel: Ist es ein lebhafter Marktplatz, eine düstere Ruine, oder ein ruhiger Wald?}}
 
 
-## 🏛️ Wichtige Orte im Ort 
-- **📌 Ort 1:** {{Name und Beschreibung des Ortes, z. B. Gasthaus, Tempel, Marktplatz}} 
-- **📌 Ort 2:** {{Name und Beschreibung eines weiteren wichtigen Ortes}} 
-- **📌 Ort 3:** {{Weitere wichtige Orte oder Gebäude}}
+## 🗺️ Benachbarte Orte 
+{{Liste von Orten in der Nähe, die möglicherweise relevant sind, z. B. ein angrenzender Wald, ein Dorf, ein Gebirgspfad.}} 
+- **➡️ Richtung & Entfernung:** {{Wie gelangt man dorthin? (z. B. "2 Stunden Fußweg nach Norden.")}}
 
-## 🤝 Wichtige Personen 
-- **👤 Person 1:** {{Name, Rolle/Funktion (z. B. Bürgermeister, Priester, Anführer einer Räuberbande), Beschreibung}} 
-- **👤 Person 2:** {{Name, Rolle, Beschreibung}} 
-- **👤 Person 3:** {{Weitere wichtige Personen}}
+## 🗒 Unterorte
+{{Liste von Unterorten oder besonderen Bereichen innerhalb dieses Ortes, z. B. ein verstecktes Tal, ein unterirdischer Tunnel, ein Heiligtum.}}
+
+## 📅Timeline/Ablauf
+![[Ratten Encounter#Kurzzusammenfassung]]
+
+dann gehen wir weiter 
+![[Vielfraß encounter#Kurzzusammenfassung]]
+
+Finden eine Kiste mit Silberüberzug und Heiltränken.
+Dann wandern wir durch den Pissesee und werden überfallen von den Pissemonstern
+
+![[Sleim Encounter#Kurzzusammenfassung]]
+
+Dann Spaß mit der Brückenüberquerung und Arnes Fall.
+
+Dann haben wir einen Kultisten hideout gefunden und haben einen letzten Durchbruch gefunden und Urima hat einen leuchtenden Pilz gefunden.
 
 
-
-## Encounter
+## 🐓Encounter
 ```dataview
 TABLE WITHOUT ID 
 link(file.name) as "Encounter", OrtdesEncounters as "Ort", EncounteredInSession.Sitzungsnummer as "Sitzungsnummer"
@@ -42,3 +55,22 @@ SORT Sitzungsnummer ASC
 ```
 
 
+## 📜 Sonstige Notizen 
+{{Zusätzliche Anmerkungen, die den Ort betreffen.}}
+
+
+
+## Ereignisse
+![[Ratten Encounter#Kurzzusammenfassung]]
+
+dann gehen wir weiter 
+![[Vielfraß encounter#Kurzzusammenfassung]]
+
+Finden eine Kiste mit Silberüberzug und Heiltränken.
+Dann wandern wir durch den Pissesee und werden überfallen von den Pissemonstern
+
+![[Sleim Encounter#Kurzzusammenfassung]]
+
+Dann Spaß mit der Brückenüberquerung und Arnes Fall.
+
+Dann haben wir einen Kultisten hideout gefunden und haben einen letzten Durchbruch gefunden und Urima hat einen leuchtenden Pilz gefunden.
