@@ -8,6 +8,27 @@
             "color": "116, 0, 179"
           }
         }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-bitcoin"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "233, 151, 63"
+          }
+        }
       ]
     }
   },

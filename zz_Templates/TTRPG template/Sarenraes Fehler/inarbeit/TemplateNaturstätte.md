@@ -1,7 +1,6 @@
 ---
 Region: 
-tags:
-  - Sarenraes_Fehler/Ort/Naturstätte
+Assoziation: keine
 OrtStatus:
   - Belebt
   - Verlassen
@@ -9,6 +8,8 @@ OrtTyp:
   - Ruine
   - Naturgebiet
   - Höhle
+tags:
+  - Sarenraes_Fehler/Ort/Naturstätte
 ---
 # 🗺️ `=this.file.name`
 ## 📋 Allgemeine Informationen 
@@ -23,18 +24,15 @@ OrtTyp:
 {{Beschreibe den Ort: Architektur, Landschaft, Atmosphäre, wichtige Details. Zum Beispiel: Ist es ein lebhafter Marktplatz, eine düstere Ruine, oder ein ruhiger Wald?}}
 
 
-
 ## 🗺️ Benachbarte Orte 
 {{Liste von Orten in der Nähe, die möglicherweise relevant sind, z. B. ein angrenzender Wald, ein Dorf, ein Gebirgspfad.}} 
 - **➡️ Richtung & Entfernung:** {{Wie gelangt man dorthin? (z. B. "2 Stunden Fußweg nach Norden.")}}
 
-
 ## Unterorte
-
+{{Liste von Unterorten in diesem Ort}} 
 
 ## Timeline/Ablauf
-
-
+{{Hier Ablauf, Funde, Encounter verlinken und Besondere Ereignisse}}
 
 
 

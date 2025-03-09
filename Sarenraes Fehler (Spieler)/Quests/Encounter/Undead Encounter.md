@@ -1,6 +1,6 @@
 ---
 OrtdesEncounters: "[[Stinkende Höhle]]"
-EncounteredInSession: "[[003.Sitzungs Journal 28.12.2024]]"
+EncounteredInSession: "[[003 -Der erste Atemzug- Journal]]"
 Encounter Typ:
   - Minor
 NoteIcon: encounter

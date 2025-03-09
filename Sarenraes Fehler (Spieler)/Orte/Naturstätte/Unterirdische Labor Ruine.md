@@ -35,4 +35,3 @@ Unter anderem Bücher von der Anatomie von Engel
 
 Bevor wir die Bibliothek verlassen und voranschreiten können, belauschen wir ein Gespräch, welches aus den bisher unerkundeten Gebieten der Anlage zu uns dringt. In diesem scheint eine uns noch unbekannte Entität ([[Mysteriöse Stimme]]) den Verantwortlichen für diese Anlage zu rügen, bevor das Gespräch beendet wird. Wir schreiten in den nächsten Raum und beginnen den [[Boss Kyton Encounter]].
 
-

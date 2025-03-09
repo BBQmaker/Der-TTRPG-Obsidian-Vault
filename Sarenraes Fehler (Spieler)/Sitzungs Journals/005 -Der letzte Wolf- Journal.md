@@ -12,7 +12,7 @@ tags:
 Hier Charakter auflisten die Wichtig waren. 
 
 ## 🗺️ Orte besucht
-[[Der Finster Turm]]
+[[Der Finsterturm]]
 [[Dichter Wald]]
 [[zerstörtes Dorf]]
 

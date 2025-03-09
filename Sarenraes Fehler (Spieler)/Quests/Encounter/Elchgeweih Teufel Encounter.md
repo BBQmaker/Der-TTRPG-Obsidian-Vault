@@ -1,6 +1,6 @@
 ---
 OrtdesEncounters: Dichter Wald
-EncounteredInSession: "[[005.Sitzungs Journal 09.02.2025]]"
+EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
 Encounter Typ:
   - Major
 NoteIcon: encounter

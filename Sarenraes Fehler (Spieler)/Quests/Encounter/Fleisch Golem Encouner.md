@@ -1,6 +1,6 @@
 ---
-OrtdesEncounters: "[[Der Finster Turm]]"
-EncounteredInSession: "[[005.Sitzungs Journal 09.02.2025]]"
+OrtdesEncounters: "[[Der Finsterturm]]"
+EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
 Encounter Typ:
   - Boss
 NoteIcon: encounter

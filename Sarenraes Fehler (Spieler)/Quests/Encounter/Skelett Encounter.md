@@ -1,6 +1,6 @@
 ---
-OrtdesEncounters: "[[Der Finster Turm]]"
-EncounteredInSession: "[[004.Sitzungs Journal 25.01.2025]]"
+OrtdesEncounters: "[[Der Finsterturm]]"
+EncounteredInSession: "[[004 -Im finsteren Turm- Journal]]"
 Encounter Typ:
   - Minor
 NoteIcon: encounter

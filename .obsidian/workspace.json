@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "TemplateEncounter"
             }
+          },
+          {
+            "id": "cd11f1713dc41da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TemplateNaturstätte"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,34 +250,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7543aaa06520a53c",
+  "active": "cd11f1713dc41da3",
   "lastOpenFiles": [
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle2.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Ratten Encounter.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Boss Kyton Encounter.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateSiedlungen.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/002 -Kytone, Engel und andere Probleme- Journal.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Undead Encounter.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/003 -Der erste Atemzug- Journal.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Rouge Encounter.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/002 -Kytone, Engel und andere Problem- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/006 -Die Stahlzunge- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/V.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/IX.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/III.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/IV.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/Sitzung Beispiele.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/004 -Im finsteren Turm- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/005 -Der letzte Wolf- Journal.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateObjekte.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNPC.md",
-    "Sarenraes Fehler (Spieler)/Personen/Marek.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Leichenhalle des Eisenbezirks.md",
+    "Sarenraes Fehler (Spieler)/Quests/Gertrude und die Leichen.md",
+    "Sarenraes Fehler (Spieler)/Quests/Unbenannt.md",
     "Sarenraes Fehler (Spieler)/Quests/Encounter/Leichenräuber Encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Eisenbezirk.md",
-    "Sarenraes Fehler (Spieler)/Personen/von Burstelz.md",
-    "Sarenraes Fehler (Spieler)/Personen/Gertrude.md",
-    "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/005.Sitzungs Journal 09.02.2025.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Elchgeweih Teufel Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Fleisch Golem Encouner.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/006.Sitzungs Journal 08.03.2025.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Der Kern.md",
-    "Sarenraes Fehler (Spieler)/Personen/Ishar Stahlzunge.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Steinbezirk.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Schattenmarkt.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Marktplatz.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Die Barriere.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Der Fließende Bach.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Bachviertel.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Vermis.md",
-    "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
     "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "Shadowrun 4th Edition (Spieler)/Regeln",
     "Shadowrun 4th Edition (Spieler)",

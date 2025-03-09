@@ -34,6 +34,7 @@
     "Status": "multitext",
     "Geschlechtsidentität": "multitext",
     "Encounter Typ": "multitext",
-    "Spieler": "multitext"
+    "Spieler": "multitext",
+    "Assoziation": "multitext"
   }
 }

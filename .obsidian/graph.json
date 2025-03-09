@@ -183,7 +183,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.35583247793061,
@@ -193,6 +193,6 @@
   "repelStrength": 10.6967768425375,
   "linkStrength": 1,
   "linkDistance": 278,
-  "scale": 0.07058167567048108,
-  "close": false
+  "scale": 0.19450022690620536,
+  "close": true
 }

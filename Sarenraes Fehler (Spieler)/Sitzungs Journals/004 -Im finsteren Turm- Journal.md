@@ -14,7 +14,7 @@ Hier Charakter auflisten die Wichtig waren.
 ## 🗺️ Orte besucht
 [[Stinkende Höhle]]
 [[zerstörtes Dorf]]
-[[Der Finster Turm]]]
+[[Der Finsterturm]]
 
 ## 📜Kurzzusammenfassung
 Hier Kurzzusammenfassung!

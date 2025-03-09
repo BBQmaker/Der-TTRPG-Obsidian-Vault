@@ -3,7 +3,7 @@ QuestObtained:
 QuestStatus: Not Started
 Questgeber: "[[Der Hohe Rat von Vermis]]"
 QuestOrtErhalten: "[[Vermis]]"
-QuestSessionObtained: "[[004.Sitzungs Journal 25.01.2025]]"
+QuestSessionObtained: "[[004 -Im finsteren Turm- Journal]]"
 Questbelohnung: Ruhm und Ehre
 NoteIcon: quest
 tags:

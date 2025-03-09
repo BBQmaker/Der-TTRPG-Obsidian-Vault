@@ -23,7 +23,7 @@ Kurzzusammenfassung hier!
 > 
 
 ## 📖 Verlauf
-> Erwähnenswerte Ereignisse wärend des Encounters.
+> Erwähnenswerte Ereignisse während des Encounters
 > Auslöser? ; Nahtoderlebnis? ; Tote?
 
 ## 📌 Anmerkungen

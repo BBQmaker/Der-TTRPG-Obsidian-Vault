@@ -1,6 +1,6 @@
 ---
 OrtdesEncounters: "[[Leichenhalle des Eisenbezirks]]"
-EncounteredInSession: "[[006.Sitzungs Journal 08.03.2025]]"
+EncounteredInSession: "[[006 -Die Stahlzunge- Journal]]"
 Encounter Typ:
   - Minor
 NoteIcon: encounter
@@ -13,14 +13,13 @@ Kurzzusammenfassung hier!
 
 ## 🐾 Kreaturen Daten
 > *Liste hier die Kreaturen auf, die am Encounter beteiligt sind:* 
-> - Räuber x6
+> - Räuber 6-8
 
 ## 🗺️ Ort
-> Beschreibung des Orts, an dem der Encounter stattfindet.
-> 
+[[Leichenhalle des Eisenbezirks]]
 
 ## 📖 Verlauf
-> Erwähnenswerte Ereignisse wärend des Encounters.
+> Erwähnenswerte Ereignisse während des Encounters
 > Auslöser? ; Nahtoderlebnis? ; Tote?
 
 ## 📌 Anmerkungen
