@@ -1,5 +1,5 @@
 ---
-OrtdesEncounters: "[[Leichenhalle in Vermis]]"
+OrtdesEncounters: "[[Leichenhalle des Eisenbezirks]]"
 EncounteredInSession: "[[006.Sitzungs Journal 08.03.2025]]"
 Encounter Typ:
   - Minor

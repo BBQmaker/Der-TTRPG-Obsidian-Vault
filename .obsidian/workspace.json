@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sarenraes Fehler - Übersicht"
+              "title": "TemplateEncounter"
             }
           }
         ],
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,12 +228,21 @@
   },
   "active": "7543aaa06520a53c",
   "lastOpenFiles": [
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Elchgeweih Teufel Encounter.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateSiedlungen.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateObjekte.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNPC.md",
+    "Sarenraes Fehler (Spieler)/Personen/Marek.md",
+    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Leichenhalle des Eisenbezirks.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Leichenräuber Encounter.md",
+    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Eisenbezirk.md",
+    "Sarenraes Fehler (Spieler)/Personen/von Burstelz.md",
+    "Sarenraes Fehler (Spieler)/Personen/Gertrude.md",
+    "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
     "Sarenraes Fehler (Spieler)/Sitzungs Journals/005.Sitzungs Journal 09.02.2025.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Elchgeweih Teufel Encounter.md",
     "Sarenraes Fehler (Spieler)/Quests/Encounter/Fleisch Golem Encouner.md",
     "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Leichenräuber Encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Leichenhalle in Vermis.md",
     "Sarenraes Fehler (Spieler)/Sitzungs Journals/006.Sitzungs Journal 08.03.2025.md",
     "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Der Kern.md",
     "Sarenraes Fehler (Spieler)/Personen/Ishar Stahlzunge.md",
@@ -243,17 +252,8 @@
     "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Die Barriere.md",
     "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Der Fließende Bach.md",
     "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Bachviertel.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Eisenbezirk.md",
     "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Vermis.md",
     "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
-    "Sarenraes Fehler (Spieler)/Personen/Rekniúlfr.md",
-    "Sarenraes Fehler (Spieler)/Orte/Region/Oberes Unterreich.md",
-    "Sarenraes Fehler (Spieler)/Orte/Region/Die Oberfläche.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Königreich von Geram.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Die Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Der Hohe Rat von Vermis.md",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Spieler/Oswald Gallagher.md",
-    "Systeme/Call of Cthulhu/Spells/Spell Liste/B/Become Spectral.md",
     "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "Shadowrun 4th Edition (Spieler)/Regeln",
     "Shadowrun 4th Edition (Spieler)",
