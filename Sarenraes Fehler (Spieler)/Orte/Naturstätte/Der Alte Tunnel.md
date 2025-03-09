@@ -11,7 +11,7 @@ eine anders loch ist auch da.
 
 [[Urima Radiomus]] findet eine alte Goldmünze mit unbekannten wappen und zwei gekreuzete Schwertern
 
-der rechte gang führt zur [[Stinkende Höhle2]]
+der rechte gang führt zur [[Stinkende Höhle]]
 Linker gang ist unbekannt.
 
 führt zu [[Unterirdische Labor Ruine]]

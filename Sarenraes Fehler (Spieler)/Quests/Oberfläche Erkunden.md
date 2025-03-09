@@ -1,9 +1,10 @@
 ---
 QuestObtained: 
-QuestStatus: Not Started
+QuestStatus:
+  - Erfolgreich abgeschlossen
 Questgeber: "[[Der Hohe Rat von Vermis]]"
 QuestOrtErhalten: "[[Vermis]]"
-QuestSessionObtained: "[[004 -Im finsteren Turm- Journal]]"
+QuestSessionObtained: "[[003 -Der erste Atemzug- Journal]]"
 Questbelohnung: Ruhm und Ehre
 NoteIcon: quest
 tags:

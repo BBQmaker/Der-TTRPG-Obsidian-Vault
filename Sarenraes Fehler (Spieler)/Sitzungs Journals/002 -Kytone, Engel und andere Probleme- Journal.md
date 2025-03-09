@@ -14,7 +14,7 @@ tags:
 [[Allynna Ilivaris]]
 [[Herulith]]
 ## 🗺️ Orte besucht
-[[Stinkende Höhle2]]
+[[Stinkende Höhle]]
 [[Unterirdische Labor Ruine]]
 
 ## ⚔️ Kämpfe & Herausforderungen

@@ -1,4 +1,4 @@
-von [[Stinkende Höhle2]]
+von [[Stinkende Höhle]]
 von [[Der Alte Tunnel]]
 
 

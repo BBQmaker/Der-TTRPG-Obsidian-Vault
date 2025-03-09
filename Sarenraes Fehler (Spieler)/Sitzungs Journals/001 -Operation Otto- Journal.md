@@ -16,7 +16,7 @@ tags:
 ## 🗺️ Orte besucht
 [[Vermis]]
 [[Der Alte Tunnel]]
-[[Stinkende Höhle2]]
+[[Stinkende Höhle]]
 
 ## ⚔️ Kämpfe & Herausforderungen
 [[Ratten Encounter]]
@@ -24,7 +24,7 @@ tags:
 [[Sleim Encounter]]
 
 ## 📜Kurzzusammenfassung
-hier Kurzzusammenfassung!
+Rucielo Gams Freund Otto ist verschwunden! Gemeinsam mit drei Freunden wagt er sich in die Höhlen außerhalb der Stadt, um ihn zu retten.
 
 ## 📚 Sitzungsübersicht
 Wir haben Otto gesucht der Freund von Richards Charakter er wurde verschleppt von unbekannten Kreaturen wir habe spuren durch eine Stinkige höhle. wir haben gegen Ratten gekämpft dann gegen einen Großen Vielfraß und schließlich gegen Oozes

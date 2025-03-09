@@ -1,6 +1,10 @@
 ---
 QuestObtained: 
-QuestStatus: Not Started
+QuestStatus:
+  - Nicht begonnen
+  - Erfolgreich abgeschlossen
+  - Fehlgeschlagen
+  - Begonnen
 Questgeber: 
 QuestOrtErhalten: 
 QuestSessionObtained: 

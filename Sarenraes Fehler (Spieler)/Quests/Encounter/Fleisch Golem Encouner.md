@@ -1,6 +1,6 @@
 ---
 OrtdesEncounters: "[[Der Finsterturm]]"
-EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
+EncounteredInSession: "[[Fleisch Golem Encouner]]"
 Encounter Typ:
   - Boss
 NoteIcon: encounter

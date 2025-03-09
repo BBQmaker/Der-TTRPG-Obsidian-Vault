@@ -1,11 +1,11 @@
 ---
-tags:
-  - Sarenraes_Fehler/Encounter
 OrtdesEncounters: "[[Stinkende Höhle]]"
 EncounteredInSession: "[[001 -Operation Otto- Journal]]"
 Encounter Typ:
   - Minor
 NoteIcon: encounter
+tags:
+  - Sarenraes_Fehler/Encounter
 ---
 # `=this.file.name`
 ## 📝 Kurzzusammenfassung

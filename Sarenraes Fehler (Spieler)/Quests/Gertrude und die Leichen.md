@@ -1,23 +1,23 @@
 ---
-QuestObtained: 2024-11-02
-QuestStatus: Fehlgeschlagen
-Questgeber: "[[Rucielo Gam]]"
+QuestObtained: 2025-03-08
+QuestStatus:
+  - Begonnen
+Questgeber: "[[Ishar Stahlzunge]]"
 QuestOrtErhalten: "[[Vermis]]"
-QuestSessionObtained: Session Journal 02.11.2024
-Questbelohnung: Unbekannt
+QuestSessionObtained: "[[006 -Die Stahlzunge- Journal]]"
+Questbelohnung: Geld
 NoteIcon: quest
 tags:
   - Sarenraes_Fehler/Quest
 ---
 # `=this.file.name`
-Otto Retten
+
 
 ## Ziel der Quest
-Otto Retten
+
 
 ## Belohnungen
-Unbekannt
+
 
 ## Anmerkungen
-Hier Anmerkungen.
-Fail. Otto wurde nicht gerettet.
+

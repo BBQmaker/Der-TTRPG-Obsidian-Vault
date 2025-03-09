@@ -1,9 +1,10 @@
 ---
 QuestObtained: 2024-11-02
-QuestStatus: Fehlgeschlagen
+QuestStatus:
+  - Fehlgeschlagen
 Questgeber: "[[Rucielo Gam]]"
 QuestOrtErhalten: "[[Vermis]]"
-QuestSessionObtained: Session Journal 02.11.2024
+QuestSessionObtained: "[[001 -Operation Otto- Journal]]"
 Questbelohnung: Unbekannt
 NoteIcon: quest
 tags:
