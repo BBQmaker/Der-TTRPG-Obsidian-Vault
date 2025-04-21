@@ -1,6 +1,8 @@
 ---
-aliases: 
-Spieler: Marvin
+aliases:
+  - Selena
+Spieler:
+  - Marvin
 Klasse: Beschwörer
 Spezies: unbekannt
 level: 3
