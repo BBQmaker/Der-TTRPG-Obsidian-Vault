@@ -37,7 +37,11 @@ beings from Tindalos are covered with a bluish pus. When a victim is struck by a
 with a successful tongue attack, a deep penetrating hole-shaped chest wound is formed. The hybrid’s tongue remains attached and begins to drain 1D10 points of POW and 3D10 points of CON per round thereafter; POW loss is permanent, although CON loss is temporary (points are regenerated at the rate of 5 points per week of rest; a blood transfusion immediately returns half of the lost CON points). For every 5 points of POW and CON (combined) consumed, the hybrid gains 1 magic point (up to its normal 2m a l maximum) and recovers 1 hit point (to normal maximum). While feeding, the hybrid’s tongue may be targeted for attack (penalty die) and will be severed if suffering 8 damage (the tongue naturally regenerates 1 hit point per round).
 
 #### Phasing
-at a cost of 4 magic points per round, a hybrid can phase into hyper-dimensional space, becoming immune to mundane weapons (magical weapons and spells have full effect). Fighting 50% (25/10), damage 1D4+DB, plus blue ichor (see above) Bite 50% (25/10), damage 1D4 + 1D10 STR, DEX, CON, APP per round (see above) Tongue 60% (30/12), damage 1D10 POW + 3D10 CON drain (see above) Dodge 40% (20/8)
+at a cost of 4 magic points per round, a hybrid can phase into hyper-dimensional space, becoming immune to mundane weapons (magical weapons and spells have full effect). 
+
+Fighting 50% (25/10), damage 1D4+DB, plus blue ichor (see above) 
+Bite 50% (25/10), damage 1D4 + 1D10 STR, DEX, CON, APP per round (see above) 
+Tongue 60% (30/12), damage 1D10 POW + 3D10 CON drain (see above) Dodge 40% (20/8)
 
 #### Skills
 Detect Humans 85%, Jump 70%, Listen 70%, Spot Hidden 75%, Stealth 80%.

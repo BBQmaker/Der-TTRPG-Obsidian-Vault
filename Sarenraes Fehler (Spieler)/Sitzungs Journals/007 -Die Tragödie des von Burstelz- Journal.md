@@ -1,8 +1,8 @@
 ---
-Sitzungsdatum: 2025-02-09
+Sitzungsdatum: 2025-04-05
 sessionstatus:
   - geschehen
-Sitzungsnummer: "005"
+Sitzungsnummer: "007"
 NoteIcon: journal
 tags:
   - Sarenraes_Fehler/Session_Journal
@@ -14,9 +14,7 @@ tags:
 
 
 ## 🗺️ Orte besucht
-[[Der Finsterturm]]
-[[Dichter Wald]]
-[[zerstörtes Dorf]]
+Hier alle besuchte Ort auflisten.
 
 ## 📜Kurzzusammenfassung
 Hier Kurzzusammenfassung!

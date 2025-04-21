@@ -1,6 +1,6 @@
 ---
 OrtdesEncounters: "[[Der Finsterturm]]"
-EncounteredInSession: "[[Fleisch Golem Encouner]]"
+EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
 Encounter Typ:
   - Boss
 NoteIcon: encounter
@@ -22,7 +22,7 @@ Kurzzusammenfassung hier!
 > 	- Renegation keine! 
 
 ## 🗺️ Ort
-> Beschreibung des Orts, an dem der Encounter stattfindet.
+> [[Der Finsterturm]]
 > 
 
 ## 📖 Verlauf

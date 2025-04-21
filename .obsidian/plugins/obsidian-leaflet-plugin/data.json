@@ -117,8 +117,36 @@
       ]
     },
     {
+      "id": "leaflet-map-wüste",
+      "lastAccessed": 1742030977119,
+      "markers": [
+        {
+          "id": "ID_293aabb838e8",
+          "type": "default",
+          "loc": [
+            -5.728119083992911,
+            13.954378984857549
+          ],
+          "link": "Altehrwürdige Höhle",
+          "layer": "%5B%5BPMD%20Hex-Land-Karte-2(w%C3%BCste)%20Sr%20128.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Mystery Dungeon Kampagne/PMD Karten.md"
+      ]
+    },
+    {
       "id": "leaflet-map",
-      "lastAccessed": 1741367312449,
+      "lastAccessed": 1742051584974,
       "markers": [
         {
           "id": "ID_cbd93a69fa1b",

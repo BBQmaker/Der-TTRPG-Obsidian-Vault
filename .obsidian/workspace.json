@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "7543aaa06520a53c",
+            "id": "c2f089fefc7a295f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TemplateEncounter"
-            }
-          },
-          {
-            "id": "cd11f1713dc41da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Ratsgebäude.md",
+                "file": "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,155 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ratsgebäude"
-            }
-          },
-          {
-            "id": "2f65cd397197efd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Quests/Encounter/Kyton Encounter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kyton Encounter"
-            }
-          },
-          {
-            "id": "0de2bf837f58b3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Der Alte Tunnel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der Alte Tunnel"
-            }
-          },
-          {
-            "id": "7ca3ad5fde1e1955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unterirdische Labor Ruine"
-            }
-          },
-          {
-            "id": "a63bf5f39ccf5671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sarenraes Fehler (Spieler)/Quests/Encounter/Pflanzen Encounter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pflanzen Encounter"
-            }
-          },
-          {
-            "id": "65f0fcc8a4929abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz.Übergeordneten Notizen/TTRPG-Vault Hauptnotiz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TTRPG-Vault Hauptnotiz"
-            }
-          },
-          {
-            "id": "13c522f007e0194b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Achtung! Cthulhu - Die Schatten von Atlantis/Projekt Atlantis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projekt Atlantis"
+              "title": "001 -Operation Otto- Journal"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 260.5
   },
   "right": {
     "id": "6f377b70934a3d02",
@@ -374,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -394,55 +227,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13c522f007e0194b",
+  "active": "c2f089fefc7a295f",
   "lastOpenFiles": [
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Objekte/Tumi.md",
-    "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
-    "Sarenraes Fehler (Spieler)/Quests/Otto Retten.md",
-    "Sarenraes Fehler (Spieler)/Quests/Gertrude und die Leichen.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
-    "Sarenraes Fehler (Spieler)/Quests/Oberfläche Erkunden.md",
-    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
-    "zz.Übergeordneten Notizen/TTRPG-Vault Hauptnotiz.md",
-    "zz.Übergeordneten Notizen/Orphan files Liste.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Pflanzen Encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Der Alte Tunnel.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/004 -Im finsteren Turm- Journal.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/003 -Der erste Atemzug- Journal.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
     "Sarenraes Fehler (Spieler)/Sitzungs Journals/002 -Kytone, Engel und andere Probleme- Journal.md",
-    "Sarenraes Fehler (Spieler)/Orte/Region/Oberes Unterreich.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Vielfraß encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Undead Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Sleim Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Skelett Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Rouge Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Ratten Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Leichenräuber Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Kyton Encounter.md",
-    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
-    "Shadowrun 4th Edition (Spieler)/Regeln",
-    "Shadowrun 4th Edition (Spieler)",
-    "Mystery Dungeon Kampagne/Team Tiefschlag",
-    "Mystery Dungeon Kampagne/Events",
-    "zz.Bilder/PMD Hex-Land-Karte-2(wüste) Sr 128.webp",
-    "zz.Bilder/990px-Hauptartwork_179.png",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/003 -Der erste Atemzug- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/004 -Im finsteren Turm- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/005 -Der letzte Wolf- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/006 -Die Stahlzunge- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/007 -Die Tragödie des von Burstelz- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/008 -Die Tür des Todes- Journal 1.md",
+    "Sarenraes Fehler (Spieler) Privat/Die Einsame Ratte.md",
+    "Sarenraes Fehler (Spieler)/Arnes Werke.md",
+    "Sarenraes Fehler inArbeit/Das Tragische Massaker der Vier Wachen..md",
+    "Sarenraes Fehler (Spieler) Privat/Die letzte Jagd des Wolfsrudels.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/Unbenannt.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/in case eine Spieler Wahnsinnes..md",
+    "Sarenraes Fehler (Spieler)/Personen/Ishar Stahlzunge.md",
+    "Sarenraes Fehler (Spieler)/Personen/Baldwin von Burstelz.md",
+    "Sarenraes Fehler (Spieler)/Personen/Torvald Svalkson.md",
+    "Sarenraes Fehler (Spieler)/Personen/Tiberis Lock.md",
+    "Sarenraes Fehler (Spieler)/Personen/Svalk xxxson.md",
+    "Sarenraes Fehler (Spieler)/Personen/Rekniúlfr.md",
+    "Sarenraes Fehler (Spieler)/Personen/Prof. Dr. Zacharias von Krydhall.md",
+    "Sarenraes Fehler (Spieler)/Personen/Otto.md",
+    "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
+    "Sarenraes Fehler (Spieler)/Personen/Mysteriöse Stimme.md",
+    "Sarenraes Fehler (Spieler)/Personen/Marek.md",
+    "Mystery Dungeon Kampagne/Geschichte/6. Das Tal des Lebens.md",
+    "zz.Bilder/fghdghjgj.drawio.png",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Dokumente, Notizen und Informationen/Handouts",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/1. Episode one - a strange request",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Grönland",
     "zz.Bilder/PMD Hex-Land-Karte 128 Sr.webp",
-    "zz.Bilder/PMD Hex-Land-Karte 128 - Verknüpfung.lnk",
-    "zz.Bilder/PMD Hex-Land-Karte-2(wüste) 128 - Verknüpfung.lnk",
+    "zz.Bilder/PMD Hex-Land-Karte-2(wüste) Sr 128.webp",
+    "zz.Bilder/Attention, Class! Achtung! Cthulhu - Shadows of Atlantis.pdf.png",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/3. Episode three - into the breech",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/2. Episode two - Over the sea",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/1. Episode One - Down To Business",
+    "Achtung! Cthulhu - Die Schatten von Atlantis/Personen/Peruaner",
+    "zz.Bilder/Grönland-Schatten von Atlantis.png",
+    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
+    "zz.Bilder/990px-Hauptartwork_179.png",
     "zz.Bilder/PMD Hex-Land-Karte-2(wüste) 128.webp",
     "zz.Bilder/PMD Hex-Land-Karte 128.webp",
     "zz.Bilder/PMD Map.webp",
     "zz.Bilder/896px-Hauptartwork_306.png",
-    "Mystery Dungeon Kampagne/Sessions",
-    "Mystery Dungeon Kampagne/Fraktionen",
-    "Mystery Dungeon Kampagne/Orte",
-    "Mystery Dungeon Kampagne/Pokemons/Unbenannt",
-    "zz.Bilder/500px-Hauptartwork_723.png",
-    "zz.Bilder/500px-Hauptartwork_544.png",
-    "zz.Bilder/500px-Hauptartwork_430.png",
     "Terror auf Helgoland/Unbenannt.canvas",
     "x.Regeln/x.Pf1e Regeln/Unbenannt.canvas",
     "Unbenannt 1.canvas"

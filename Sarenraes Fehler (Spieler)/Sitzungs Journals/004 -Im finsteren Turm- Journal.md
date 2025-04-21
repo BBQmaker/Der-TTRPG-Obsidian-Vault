@@ -9,7 +9,9 @@ tags:
 ---
 # `=this.file.name`
 ## ## 🎭 Charakterliste 
-Hier Charakter auflisten die Wichtig waren. 
+[[Die Furiosen Vier]] -->
+([[Arne Therod Torvaldson]] [[Rucielo Gam]] [[Selena Vynstein]] [[Urima Radiomus]])
+
 
 ## 🗺️ Orte besucht
 Hier alle besuchte Ort auflisten.
