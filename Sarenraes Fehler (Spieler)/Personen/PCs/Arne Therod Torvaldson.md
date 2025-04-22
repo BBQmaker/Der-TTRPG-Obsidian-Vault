@@ -21,6 +21,7 @@ Ist ein [[Sarenraes Fehler inArbeit/Die Ulfen|Ulfen]] und Skalde
 
 
 [[Arne Therod Finanzen]]
+[[Arnes Werke]]
 
 
 Arne Therod Torvaldson ist ein eindrucksvoller Ulfen Skald. Mit seinem schulterlangen braunen Haar und dem buschigen Bart verkörpert er die wilde Stärke seiner Kultur. Sein Gesicht ist kräftig und kantig, mit einem markanten Kiefer und ausgeprägten Augenbrauen, die ihm eine furchtlose Ausstrahlung verleihen.
@@ -31,3 +32,8 @@ Diejenigen, die ihn kennen, schätzen ihn als Dichter und Geschichtenerzähler. 
 
 ### ideologie
 [[Green Faith]]
+
+
+
+Bester freund
+[[Rekniúlfr]]

@@ -9,10 +9,11 @@
 -100   an Gruppen Fund ([[Gemeinschaftskonto von den Furiosen Vier]])
 +1000
 +50
--150  für Masterwork für den Hammer
+-150  für Masterwork für den Rüstung
 -29,8  Skalds kit
 = 1203
--350  für Masterwork für die Rüstung
+-350  für Masterwork für die Hammer
+-150  für Masterwork für das Schild
 -200 4x Cure Light Wounds Tränke
 =653
 -5 Wrist sheath (Spring loaded)
@@ -28,7 +29,7 @@
 +500 MW
 +1500 MW
 =2000 MW
--1000 Cloak of R
+-1000 Cloak of Re
 -1000 +1 für die Rüstung
 +1000 mw
 =1000 mw
