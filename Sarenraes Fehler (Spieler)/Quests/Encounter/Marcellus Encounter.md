@@ -1,8 +1,8 @@
 ---
-OrtdesEncounters: 
-EncounteredInSession: 
+OrtdesEncounters: "[[Marcellus Modriger Keller]]"
+EncounteredInSession: "[[008 -Die Tür des Todes- Journal 1]]"
 Encounter Typ:
-  - Major
+  - Boss
 NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter
@@ -21,8 +21,8 @@ Kurzzusammenfassung hier!
 > 
 
 ## 📖 Verlauf
-> Erwähnenswerte Ereignisse während des Encounters
-> Auslöser? ; Nahtoderlebnis? ; Tote?
+> Absolute katastrophe
+
 
 ## 📌 Anmerkungen
 > Zusätzliche Hinweise, oder Kommentare zum Encounter

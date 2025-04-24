@@ -26,7 +26,7 @@ Where file.name != "TemplateSpielercharakter" and file.name != "Tags"
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Quest Name", QuestStatus AS "Status", Questgeber AS "Quest Geber", QuestOrtErhalten AS "Location", QuestSessionObtained AS "Session", Questbelohnung AS "Questbelohnung"
 from #Sarenraes_Fehler/Quest 
-where file.name != "TemplateQuest"
+where file.name != "TemplateQuest" And file.name != "Tags"
 ```
 ##  NPCs
 ```dataview  
@@ -42,13 +42,6 @@ TABLE WITHOUT ID link(file.name) AS "Ort Name"
 FROM #Sarenraes_Fehler/Ort 
 WHERE file.name != "TemplateOrt" and file.name != "Tags"
 SORT file.mtime DESC
-```
-
-# Quests Übersicht
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Quest Name", QuestStatus AS "Status", Questgeber AS "Quest Geber", QuestOrtErhalten AS "Location", QuestSessionObtained AS "Session", Questbelohnung AS "Questbelohnung"
-from #Sarenraes_Fehler/Quest 
-where file.name != "TemplateQuest"
 ```
 
 
