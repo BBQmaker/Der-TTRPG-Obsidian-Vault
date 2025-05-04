@@ -1,15 +1,15 @@
 ---
 Spezies: Mensch
-Ort der Ersten Begegnung: 
-Letzter Bekannter Aufenthalts Ort: 
-AssoziierteGruppe: 
+Ort der Ersten Begegnung: "[[Marcellus Modriger Keller]]"
+Letzter Bekannter Aufenthalts Ort: "[[Marcellus Modriger Keller]]"
+AssoziierteGruppe: "[[Marcellus Bande]]"
 Alter: mittleres alter
 Geschlechtsidentität:
   - Männlich
 Disposition:
   - Freundlich
 Status:
-  - Lebendig
+  - Verstorben
 tags:
   - Sarenraes_Fehler/Personen/NPC
 ---

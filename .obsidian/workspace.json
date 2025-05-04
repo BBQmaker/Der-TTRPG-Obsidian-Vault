@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
+                "file": "Mystery Dungeon Kampagne/Geschichte/6. Das Tal des Lebens.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +40,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sarenraes Fehler - Übersicht"
+              "title": "6. Das Tal des Lebens"
+            }
+          },
+          {
+            "id": "4c41ab68494484be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Sitzungs Journals/009 -Neue Freunde¿- Journal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "009 -Neue Freunde¿- Journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Sarenraes_Fehler/Personen/Spielercharakter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,34 +250,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2f089fefc7a295f",
+  "active": "2fdf374f9aa48181",
   "lastOpenFiles": [
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/009 -Neue Freunde¿- Journal.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Sirael T´salaranian Cael´Tharanow.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Selena Vynstein.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Rucielo Gam.md",
     "Sarenraes Fehler (Spieler)/Sitzungs Journals/008 -Die Tür des Todes- Journal 1.md",
+    "Sarenraes Fehler (Spieler)/Personen/Rekniúlfr.md",
+    "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
+    "Sarenraes Fehler (Spieler)/Objekte/Die Kisten von den Schatten.md",
+    "Sarenraes Fehler (Spieler)/Orte/Akademie von Vrin.md",
+    "Sarenraes Fehler (Spieler)/Objekte/Prisma des Licht.md",
+    "Sarenraes Fehler (Spieler)/Orte/Archiv von Geram.md",
+    "Sarenraes Fehler (Spieler)/Objekte/Mystery box.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/006 -Die Stahlzunge- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/007 -Die Tragödie des von Burstelz- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/005 -Der letzte Wolf- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/003 -Der erste Atemzug- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/002 -Kytone, Engel und andere Probleme- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
+    "Sarenraes Fehler (Spieler)/Personen/Marcellus.md",
+    "Mystery Dungeon Kampagne/Geschichte/6. Das Tal des Lebens.md",
+    "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
+    "Mystery Dungeon Kampagne/Individuen/Der LadenBesitzter.md",
+    "Mystery Dungeon Kampagne/Individuen/Der Kleine Bruder.md",
+    "Mystery Dungeon Kampagne/Geschichte/Das Juwel.md",
     "Sarenraes Fehler (Spieler)/Sarenraes Fehler - Übersicht.md",
     "Sarenraes Fehler (Spieler)/Quests/Encounter/Boss Kyton Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Elchgeweih Teufel Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Fleisch Golem Encouner.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Kyton Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Leichenräuber Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Marcellus Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Marcellus Gang Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Pflanzen Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Ratten Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Rouge Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Skelett Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Sleim Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Undead Encounter.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Vielfraß encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Marcellus Modriger Keller.md",
-    "Sarenraes Fehler (Spieler)/Personen/Marcellus.md",
-    "Systeme/Pfadfinder 1e/Pf1e Regeln/Movement and Distance.md",
-    "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
-    "Sarenraes Fehler (Spieler)/Personen/Rekniúlfr.md",
-    "Sarenraes Fehler (Spieler)/Personen/Baldwin von Burstelz.md",
-    "Sarenraes Fehler (Spieler)/Personen/Allynna Ilivaris.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Urima Radiomus.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Selena Vynstein.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
     "zz.Bilder/fghdghjgj.drawio.png",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",

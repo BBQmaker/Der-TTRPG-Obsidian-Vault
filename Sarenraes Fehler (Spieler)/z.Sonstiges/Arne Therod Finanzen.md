@@ -23,6 +23,13 @@
 +3000 Belohnung für Auftrag vom [[Der Hohe Rat von Vermis]] 
 -1510 an Gruppen Fund ([[Gemeinschaftskonto von den Furiosen Vier]])
 = 2028
++3000
+=5028
+-2000 Stagger-Proof Boots
+-2000 Weapon focus Stein
+=1028
++3000
+=4028
 
 
 ## Meta Währung
@@ -36,6 +43,8 @@
 -1000 +1 für Shield
 +1000 mw belohnung
 =1000 mw
++2000 mw für lvl up von lvl 5
+=3000 mw
 
 
 
