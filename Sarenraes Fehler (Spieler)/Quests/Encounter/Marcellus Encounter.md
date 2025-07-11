@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Marcellus Modriger Keller]]"
 EncounteredInSession: "[[008 -Die Tür des Todes- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Boss
 NoteIcon: encounter
 tags:

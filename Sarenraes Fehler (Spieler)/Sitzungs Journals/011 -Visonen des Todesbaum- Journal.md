@@ -9,11 +9,11 @@ tags:
 ---
 # `=this.file.name`
 ## 📜Kurzzusammenfassung
-[[Die Furiosen Vier]] -->
-([[Arne Therod Torvaldson]], [[Rucielo Gam]], [[Selena Vynstein]], [[Urima Radiomus]])
+
 
 ## ## 🎭 Charakterliste 
-Hier Charakter auflisten die Wichtig waren. 
+[[Die Furiosen Vier]] -->
+([[Arne Therod Torvaldson]], [[Rucielo Gam]], [[Selena Vynstein]], [[Urima Radiomus]])
 
 ## 🗺️ Orte besucht
 Hier alle besuchte Ort auflisten.

@@ -2,7 +2,6 @@
 Sitzungsdatum: 2025-01-25
 sessionstatus:
   - geschehen
-  - noch nicht geschehen
 Sitzungsnummer: "004"
 NoteIcon: journal
 tags:

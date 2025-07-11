@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Der Finsterturm]]"
 EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Boss
 NoteIcon: encounter
 tags:

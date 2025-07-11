@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Der Finsterturm]]"
 EncounteredInSession: "[[004 -Im finsteren Turm- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Minor
 NoteIcon: encounter
 tags:

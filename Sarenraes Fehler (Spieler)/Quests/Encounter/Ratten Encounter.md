@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Stinkende Höhle]]"
 EncounteredInSession: "[[001 -Operation Otto- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Minor
 NoteIcon: encounter
 tags:

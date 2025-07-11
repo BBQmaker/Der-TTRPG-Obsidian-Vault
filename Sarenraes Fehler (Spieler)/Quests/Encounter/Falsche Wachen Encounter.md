@@ -1,8 +1,8 @@
 ---
-OrtdesEncounters: "[[Leichenhalle des Eisenbezirks]]"
-EncounteredInSession: "[[006 -Die Stahlzunge- Journal]]"
+OrtdesEncounters: "[[Logistikhalle von Burstelz und Brüder]]"
+EncounteredInSession: "[[007 -Die Tragödie des von Burstelz- Journal]]"
 EncounterTyp:
-  - Minor
+  - Major
 NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter
@@ -13,10 +13,12 @@ Kurzzusammenfassung hier!
 
 ## 🐾 Kreaturen Daten
 > *Liste hier die Kreaturen auf, die am Encounter beteiligt sind:* 
-> - Räuber 6-8
+> - **Kreatur 1**: 🐺 Beschreibung oder Verlinkung zu [[Kreatur1]] 
+> - **Kreatur 2**: 🐉 Beschreibung oder Verlinkung zu [[Kreatur2]]
 
 ## 🗺️ Ort
-[[Leichenhalle des Eisenbezirks]]
+> Beschreibung des Orts, an dem der Encounter stattfindet.
+> 
 
 ## 📖 Verlauf
 > Erwähnenswerte Ereignisse während des Encounters

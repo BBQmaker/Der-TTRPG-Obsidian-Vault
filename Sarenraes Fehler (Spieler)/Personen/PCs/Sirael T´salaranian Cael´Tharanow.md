@@ -6,7 +6,7 @@ Spieler:
   - Kevin
 Klasse: Sorcerer
 Spezies: Slyp
-level: 5
+level: 4
 Status:
   - Verschollen
 PCKnownLanguages:

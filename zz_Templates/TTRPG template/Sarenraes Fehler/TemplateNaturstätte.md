@@ -1,6 +1,6 @@
 ---
 Region: 
-Erstentdeckung in Sitzung: 
+ErstentdeckunginSitzung: 
 Assoziation:
   - keine
 OrtStatus:

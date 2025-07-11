@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Grüntal Wald]]"
 EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Major
 NoteIcon: encounter
 tags:

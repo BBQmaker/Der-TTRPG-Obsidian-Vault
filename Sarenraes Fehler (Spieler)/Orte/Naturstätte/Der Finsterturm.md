@@ -1,6 +1,6 @@
 ---
 Region: "[[Die Oberfläche]]"
-Erstentdeckung in Sitzung: "[[004 -Im finsteren Turm- Journal]]"
+ErstentdeckunginSitzung: "[[004 -Im finsteren Turm- Journal]]"
 Assoziation:
   - keine
 OrtStatus:

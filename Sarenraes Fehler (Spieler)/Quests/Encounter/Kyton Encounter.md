@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Unterirdische Labor Ruine]]"
 EncounteredInSession: "[[002 -Kytone, Engel und andere Probleme- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Minor
 tags:
   - Sarenraes_Fehler/Encounter

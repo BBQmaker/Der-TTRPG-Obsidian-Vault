@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: 
 EncounteredInSession: 
-Encounter Typ:
+EncounterTyp:
   - Major
   - Minor
   - Boss

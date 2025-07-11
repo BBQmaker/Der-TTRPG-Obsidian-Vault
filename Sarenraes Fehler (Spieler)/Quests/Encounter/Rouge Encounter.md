@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Stinkende Höhle]]"
 EncounteredInSession: "[[003 -Der erste Atemzug- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Major
 NoteIcon: encounter
 tags:

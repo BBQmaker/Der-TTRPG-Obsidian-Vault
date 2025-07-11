@@ -1,7 +1,7 @@
 ---
 OrtdesEncounters: "[[Stinkende Höhle]]"
 EncounteredInSession: "[[010 -Überfall auf Vermis- Journal]]"
-Encounter Typ:
+EncounterTyp:
   - Major
 NoteIcon: encounter
 tags:

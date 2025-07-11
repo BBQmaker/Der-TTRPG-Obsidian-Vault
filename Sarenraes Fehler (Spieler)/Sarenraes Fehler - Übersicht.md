@@ -38,9 +38,9 @@ SORT file.mtime DESC
 
 ##  Orte
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Ort Name" 
+TABLE WITHOUT ID link(file.name) AS "Ort Name", OrtTyp as "Ort Typ"
 FROM #Sarenraes_Fehler/Ort 
-WHERE file.name != "TemplateOrt" and file.name != "Tags"
+WHERE file.name != "TemplateOrt" and file.name != "Tags" and file.name != "TemplateNaturstätte" and file.name != "TemplateRegion"
 SORT file.mtime DESC
 ```
 
