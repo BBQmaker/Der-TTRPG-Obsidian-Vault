@@ -1,10 +1,11 @@
 ---
 aliases:
   - Arne
-Spieler: Lasse
+Spieler:
+  - Lasse
 Klasse: Skalde
 Spezies: Ulfen
-level: 3
+level: 5
 Status:
   - Aktiv
 PCKnownLanguages:
@@ -34,6 +35,9 @@ Diejenigen, die ihn kennen, schätzen ihn als Dichter und Geschichtenerzähler. 
 [[Green Faith]]
 
 
+Famile 
+[[Torvald Svalkson]] - Vater
+[[Astrid Helgadottir]] - Mutter
 
 Bester freund
 [[Rekniúlfr]]

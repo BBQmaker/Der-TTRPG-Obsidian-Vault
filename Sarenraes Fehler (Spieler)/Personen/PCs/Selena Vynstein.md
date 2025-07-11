@@ -5,7 +5,7 @@ Spieler:
   - Marvin
 Klasse: Beschwörer
 Spezies: unbekannt
-level: 3
+level: 5
 Status:
   - Aktiv
 PCKnownLanguages:

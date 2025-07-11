@@ -5,6 +5,7 @@ Encounter Typ:
   - Major
   - Minor
   - Boss
+  - Sozial
 NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter

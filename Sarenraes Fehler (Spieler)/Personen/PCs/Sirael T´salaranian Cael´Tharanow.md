@@ -8,7 +8,7 @@ Klasse: Sorcerer
 Spezies: Slyp
 level: 5
 Status:
-  - Active
+  - Verschollen
 PCKnownLanguages:
   - Common
 NoteIcon: player

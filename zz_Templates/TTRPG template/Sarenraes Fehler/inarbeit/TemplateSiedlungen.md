@@ -2,7 +2,6 @@
 tags: 
 NoteIcon: settlement
 Community-Size: Outpost
-Alignment: Chaotic Evil
 Government: Autocracy
 type: Settlement
 politics: Lordship

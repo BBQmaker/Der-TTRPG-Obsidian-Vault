@@ -1,6 +1,7 @@
 ---
 aliases:
   - Furiosen Vier
+Vollstäding: nein
 ---
 
 [[Rucielo Gam]]

@@ -1,5 +1,5 @@
 ---
-OrtdesEncounters: Dichter Wald
+OrtdesEncounters: "[[Grüntal Wald]]"
 EncounteredInSession: "[[005 -Der letzte Wolf- Journal]]"
 Encounter Typ:
   - Major

@@ -2,10 +2,11 @@
 aliases:
   - Urima
   - Radiomus
-Spieler: Paul
+Spieler:
+  - Paul
 Klasse: Alchemist
 Spezies: Ratte
-level: 3
+level: 5
 Status:
   - Aktiv
 PCKnownLanguages:

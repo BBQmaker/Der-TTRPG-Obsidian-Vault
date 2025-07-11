@@ -30,7 +30,10 @@
 =1028
 +3000
 =4028
-
++250 leihen Urima
++250 leihen Selena 2.5% pro monat
+-4500 Circlet of Persuasion
+=28
 
 ## Meta Währung
 +500 MW
@@ -45,6 +48,14 @@
 =1000 mw
 +2000 mw für lvl up von lvl 5
 =3000 mw
+-2000 mw für 1 auf hammer
+=1000 mw
++1000 mw
+=2000 mw
+
+
+
+
 
 
 

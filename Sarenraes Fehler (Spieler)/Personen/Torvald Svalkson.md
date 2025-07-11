@@ -1,5 +1,5 @@
 Vater von [[Arne Therod Torvaldson]]
-Sohn von [[Svalk xxxson]]
+Sohn von [[Svalk Viggoson]]
 
 
 

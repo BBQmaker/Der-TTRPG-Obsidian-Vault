@@ -36,6 +36,8 @@
     "Encounter Typ": "multitext",
     "Spieler": "multitext",
     "Assoziation": "multitext",
-    "QuestStatus": "multitext"
+    "QuestStatus": "multitext",
+    "EncounterTyp": "multitext",
+    "Vollstäding": "multitext"
   }
 }

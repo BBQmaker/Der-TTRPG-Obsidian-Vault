@@ -1,5 +1,6 @@
 ---
 Region: "[[Oberes Unterreich]]"
+ErstentdeckunginSitzung: "[[001 -Operation Otto- Journal]]"
 Assoziation:
   - keine
 OrtStatus:

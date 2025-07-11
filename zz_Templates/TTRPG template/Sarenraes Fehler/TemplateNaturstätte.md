@@ -1,6 +1,8 @@
 ---
 Region: 
-Assoziation: keine
+Erstentdeckung in Sitzung: 
+Assoziation:
+  - keine
 OrtStatus:
   - Belebt
   - Verlassen

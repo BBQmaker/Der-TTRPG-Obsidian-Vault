@@ -2,10 +2,11 @@
 aliases:
   - Rucielo
   - Herr Gam
-Spieler: Richard
+Spieler:
+  - Richard
 Klasse: 
 Spezies: Mensch
-level: 3
+level: 5
 Status:
   - Aktiv
 PCKnownLanguages:

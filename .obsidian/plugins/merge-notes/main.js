@@ -19591,6 +19591,10 @@ module.exports = __toCommonJS(main_exports);
 // src/components/MergeNotesModal.tsx
 var import_obsidian2 = require("obsidian");
 
+// node_modules/@dnd-kit/core/dist/core.esm.js
+var import_react3 = __toESM(require_react());
+var import_react_dom = __toESM(require_react_dom());
+
 // node_modules/@dnd-kit/utilities/dist/utilities.esm.js
 var import_react = __toESM(require_react());
 function useCombinedRefs() {
@@ -19866,13 +19870,6 @@ function findFirstFocusableNode(element) {
   }
   return element.querySelector(SELECTOR);
 }
-
-// node_modules/@dnd-kit/sortable/dist/sortable.esm.js
-var import_react4 = __toESM(require_react());
-
-// node_modules/@dnd-kit/core/dist/core.esm.js
-var import_react3 = __toESM(require_react());
-var import_react_dom = __toESM(require_react_dom());
 
 // node_modules/@dnd-kit/accessibility/dist/accessibility.esm.js
 var import_react2 = __toESM(require_react());
@@ -22993,6 +22990,7 @@ function useDroppable(_ref) {
 }
 
 // node_modules/@dnd-kit/sortable/dist/sortable.esm.js
+var import_react4 = __toESM(require_react());
 function arrayMove(array, from, to) {
   const newArray = array.slice();
   newArray.splice(to < 0 ? newArray.length + to : to, 0, newArray.splice(from, 1)[0]);
@@ -23574,6 +23572,10 @@ function isAfter(a, b) {
   return a.data.current.sortable.index < b.data.current.sortable.index;
 }
 
+// src/components/Files.tsx
+var import_obsidian = require("obsidian");
+var import_react7 = __toESM(require_react());
+
 // src/components/File.tsx
 var import_react5 = __toESM(require_react());
 var File = (props) => {
@@ -23607,9 +23609,6 @@ var File = (props) => {
   );
 };
 
-// src/components/Files.tsx
-var import_obsidian = require("obsidian");
-
 // src/components/Title.tsx
 var import_react6 = __toESM(require_react());
 var Title = (props) => {
@@ -23627,7 +23626,6 @@ var Title = (props) => {
 };
 
 // src/components/Files.tsx
-var import_react7 = __toESM(require_react());
 var PROPERTIES_REGEX = /---\n([\s\S]*?)\n---/;
 var MERGED_NOTED_DIRECTORY = "_merged_notes";
 var Files = (props) => {
@@ -23684,22 +23682,21 @@ var Files = (props) => {
         tempProperties = "";
         lines.forEach((line) => {
           if (line.trim() !== "") {
-            const [key, value] = line.split(":");
-            if (value || value !== "") {
-              if (value.includes(",")) {
-                const values = value.split(",").map(
-                  (v) => v.trim().replace("[", "").replace("]", "").replace(/"/g, "")
-                );
-                tempProperties += `${key}:`;
-                values.forEach((v) => {
-                  tempProperties += `
+            if (line.includes(",")) {
+              const index = line.indexOf(":");
+              const key = line.substring(0, index).trim();
+              const value = line.substring(index + 1).trim();
+              const values = value.split(",").map(
+                (v) => v.trim().replace("[", "").replace("]", "").replace(/"/g, "")
+              );
+              tempProperties += `${key}:`;
+              values.forEach((v) => {
+                tempProperties += `
   - "${v}"`;
-                });
-                tempProperties += "\n";
-              }
+              });
+              tempProperties += "\n";
             } else {
-              tempProperties += `${key}: 
-`;
+              tempProperties += line + "\n";
             }
           }
         });
