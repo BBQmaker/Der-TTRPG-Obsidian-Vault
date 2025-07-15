@@ -7,7 +7,7 @@ Spieler:
   - Lasse
 Klasse: 
 Spezies: 
-level: 3
+level: 5
 Status:
   - Active
 PCKnownLanguages:

@@ -6,14 +6,14 @@
 - **Sarenraes Fehler**
 	- **inarbeit**
 		- [[TemplateGeografischeMerkmale]]
-		- [[TemplateNPC]]
 		- [[TemplateObjekte]]
 		- [[TemplateQuest]]
-		- [[TemplateSiedlungen]]
 	- [[TemplateEncounter]]
 	- [[TemplateJournal]]
 	- [[TemplateNaturstätte]]
+	- [[TemplateNPC]]
 	- [[TemplateRegion]]
+	- [[TemplateSiedlungen]]
 	- [[TemplateSpielercharakter]]
 
 %% End Waypoint %%

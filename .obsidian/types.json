@@ -38,6 +38,11 @@
     "Assoziation": "multitext",
     "QuestStatus": "multitext",
     "EncounterTyp": "multitext",
-    "Vollstäding": "multitext"
+    "Vollstäding": "multitext",
+    "Alter": "multitext",
+    "Spezies": "multitext",
+    "size": "multitext",
+    "Government": "multitext",
+    "Bevölkerung": "multitext"
   }
 }
