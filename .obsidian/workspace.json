@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TemplateQuest"
-            }
-          },
-          {
-            "id": "15e35f55e4ac2c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGeografischeMerkmale.md",
+                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGötter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TemplateGeografischeMerkmale"
+              "title": "TemplateGötter"
+            }
+          },
+          {
+            "id": "15e35f55e4ac2c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Sarenraes_Fehler/Session_Journal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,35 +237,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15e35f55e4ac2c80",
+  "active": "049120c4af394d83",
   "lastOpenFiles": [
-    "Shadowrun 4th Edition (Spieler)/Shadowrun 4th Edition (Spieler).md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGeografischeMerkmale.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateQuest.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSiedlungen.md",
-    "zz_Templates/TTRPG template/TTRPG template.md",
-    "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateObjekte.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRegion.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSpielercharakter.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGötter.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateIdeologie.md",
+    "Sarenraes Fehler (Spieler)/Kulturen/Ideologie/Green Faith.md",
+    "Sarenraes Fehler inArbeit/Ulfen Pantheon.md",
+    "Sarenraes Fehler inArbeit/Ulfen Lore!.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNaturstätte.md",
-    "Aufstieg der Herrscher Notizen (Spieler)/Gunndars Brief.md",
-    "Aufstieg der Herrscher Notizen (Spieler)/Personen/x.Spieler/Aktive Spieler/Radran.md",
-    "Aufstieg der Herrscher Notizen (Spieler)/Personen/x.Spieler/Aktive Spieler/Thargrim Samtstahl.md",
-    "Aufstieg der Herrscher Notizen (Spieler)/Götter/IIgtris.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
+    "zz_Templates/TTRPG template/TTRPG template.md",
+    "Sarenraes Fehler (Spieler)/Personen/Otto.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateFraktionen & Institutionen.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRegion.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSiedlungen.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSpielercharakter.md",
+    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Vermis.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/011 -Visonen des Todesbaum- Journal.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateObjekte.md",
+    "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/010 -Überfall auf Vermis- Journal.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/007 -Die Tragödie des von Burstelz- Journal.md",
+    "Sarenraes Fehler inArbeit/Sarenraes Fehler inArbeit.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Marcellus Bande.md",
     "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
-    "zz_Templates/TTRPG template/Masks of Nyarlathotep (Spieler)/MoN - Personen - Vorlage.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Sleim Encounter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle.md",
-    "Terror auf Helgoland/Ankündigung - Terror auf Helgoland.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Der Todesbaum.md",
-    "Terror auf Helgoland/Terror auf Helgoland - Synopsis.md",
-    "Terror auf Helgoland/Helgoland - Karte.md",
-    "Terror auf Helgoland/Hintergrund von Terror auf Helgoland.md",
-    "Terror auf Helgoland/z.Handouts/Handout 3.md",
     "zz.Bilder/fghdghjgj.drawio.png",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",

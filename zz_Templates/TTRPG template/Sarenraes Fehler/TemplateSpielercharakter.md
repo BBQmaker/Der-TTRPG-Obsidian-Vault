@@ -12,7 +12,7 @@ Status:
   - Active
 PCKnownLanguages:
   - Common
-NoteIcon: player
+NoteIcon: Spieler
 tags:
   - Sarenraes_Fehler/Personen/Spielercharakter
 ---
@@ -37,3 +37,11 @@ tags:
 
 ## 🗒️ Notizen 
 > Platz für Spielnotizen, Plot-Hooks oder spezifische Details, die im Spiel wichtig werden könnten.
+
+
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```

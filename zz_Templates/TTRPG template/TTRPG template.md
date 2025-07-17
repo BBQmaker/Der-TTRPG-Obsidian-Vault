@@ -6,12 +6,15 @@
 - **Sarenraes Fehler**
 	- **inarbeit**
 		- [[TemplateGeografischeMerkmale]]
+		- [[TemplateGötter]]
+		- [[TemplateIdeologie]]
 		- [[TemplateObjekte]]
-		- [[TemplateQuest]]
 	- [[TemplateEncounter]]
+	- [[TemplateFraktionen & Institutionen]]
 	- [[TemplateJournal]]
 	- [[TemplateNaturstätte]]
 	- [[TemplateNPC]]
+	- [[TemplateQuest]]
 	- [[TemplateRegion]]
 	- [[TemplateSiedlungen]]
 	- [[TemplateSpielercharakter]]

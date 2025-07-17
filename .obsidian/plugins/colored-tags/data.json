@@ -85,7 +85,17 @@
     "Verstorben": 42,
     "Sarenraes_Fehler/Region": 11,
     "Sarenraes_Fehler/Ort/Region": 9,
-    "Zusammerfassung": 43
+    "Zusammerfassung": 43,
+    "🏛️": 44,
+    "Fraktion": 45,
+    "Spielerinfo": 46,
+    "Fraktionen": 47,
+    "Fraktionen_nstitutionen": 48,
+    "Sarenraes_Fehler/F": 12,
+    "Sarenraes_Fehler/Fraktionen": 13,
+    "Sarenraes_Fehler/Fraktionen_": 14,
+    "Sarenraes_Fehler/Fraktionen__Institutionen": 15,
+    "Sarenraes_Fehler/Fraktionen_Institutionen": 16
   },
   "_version": 3
 }

@@ -10,6 +10,7 @@ OrtTyp:
   - Ruine
   - Naturgebiet
   - Höhle
+NoteIcon: Naturstätte
 tags:
   - Sarenraes_Fehler/Ort/Naturstätte
 ---
@@ -49,3 +50,11 @@ SORT Sitzungsnummer ASC
 
 ## 📜 Sonstige Notizen 
 {{Zusätzliche Anmerkungen, die den Ort betreffen.}}
+
+
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```

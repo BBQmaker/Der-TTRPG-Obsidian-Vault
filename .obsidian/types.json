@@ -43,6 +43,15 @@
     "Spezies": "multitext",
     "size": "multitext",
     "Government": "multitext",
-    "Bevölkerung": "multitext"
+    "Bevölkerung": "multitext",
+    "HaltungzuSpieler": "multitext",
+    "kampagne": "text",
+    "kategorie": "multitext",
+    "Region": "multitext",
+    "Subregion": "multitext",
+    "Typ": "multitext",
+    "AssoziierteGruppe": "multitext",
+    "BekannterAufenthaltsOrte": "multitext",
+    "AusgangdesEncounters": "multitext"
   }
 }

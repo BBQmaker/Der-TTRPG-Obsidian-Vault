@@ -6,6 +6,13 @@ EncounterTyp:
   - Minor
   - Boss
   - Sozial
+AusgangdesEncounters:
+  - TOD!
+  - Schwere Verluste
+  - Nahtoderfahrung
+  - Sieg
+  - Souveräner Sieg
+EncounteraufLVL: 
 NoteIcon: encounter
 tags:
   - Sarenraes_Fehler/Encounter
@@ -16,8 +23,8 @@ Kurzzusammenfassung hier!
 
 ## 🐾 Kreaturen Daten
 > *Liste hier die Kreaturen auf, die am Encounter beteiligt sind:* 
-> - **Kreatur 1**: 🐺 Beschreibung oder Verlinkung zu [[Kreatur1]] 
-> - **Kreatur 2**: 🐉 Beschreibung oder Verlinkung zu [[Kreatur2]]
+> - **Kreatur 1**: 🐺 Beschreibung oder Verlinkung zu Kreatur1 
+> - **Kreatur 2**: 🐉 Beschreibung oder Verlinkung zu Kreatur2
 
 ## 🗺️ Ort
 > Beschreibung des Orts, an dem der Encounter stattfindet.
@@ -33,3 +40,9 @@ Kurzzusammenfassung hier!
 
 
 
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```

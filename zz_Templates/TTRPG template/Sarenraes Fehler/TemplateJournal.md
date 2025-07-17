@@ -40,3 +40,10 @@ So ist es geschehen! im Großen Detail!
 
 ## 🎲 Meta-Kommentare
 Encounter war mal wieder unbalanced! etc.
+
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```

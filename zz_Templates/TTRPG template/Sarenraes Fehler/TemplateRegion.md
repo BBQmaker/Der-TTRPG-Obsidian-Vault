@@ -39,3 +39,11 @@ SORT Sitzungsnummer ASC
 ## 🗺️ Karten und Illustrationen
 Karten oder Illustrationen hier.
 🗺️ [Regionenkarte]
+
+
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```

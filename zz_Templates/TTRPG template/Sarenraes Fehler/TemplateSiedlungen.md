@@ -1,13 +1,13 @@
 ---
 aliases: 
-Siedlungstyp:
+OrtTyp:
   - Großstadt
   - Stadt
   - Kleinstadt
   - Dorf
   - Gehöft
   - Außenposten
-  - Hof 
+  - Hof
 Staatsform:
   - Monarchie
   - Republik
@@ -31,7 +31,7 @@ Bevölkerung:
   - Oread
   - Aasimar
   - Drow
-NoteIcon: settlement
+NoteIcon: Siedlungen
 tags:
   - "#Sarenraes_Fehler/Ort/Siedlung"
 ---
@@ -39,7 +39,7 @@ tags:
 > # `=this.file.name`
 > Type |  Stat |
 > ---|---|
-> Siedlungstyp | `=this.Siedlungstyp` |
+> Siedlungstyp | `=this.OrtTyp` |
 > Staatsform | `=this.Staatsform` |
 > Anführer | `=this.Anführer` |
 > Region | `=this.Region` |
@@ -70,3 +70,10 @@ tags:
 
 ## 🧩 Notizen
 - 🗒️ {{eigene Theorien, Kartenverweise, Gerüchte, Hinweise aus Spielsitzungen}}
+
+## 📭 Erwähnungen 
+```dataview
+TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
+where contains(file.outlinks, this.file.link)
+sort file.name
+```
