@@ -1,87 +1,59 @@
 ---
 aliases: 
-Spezies:
-  - Mensch
-  - Ratfolk
-  - Ulfen
-  - Slyp
-  - Zwerg
-  - Elf
-  - Gnome
-  - Half Elf
-  - Half Orc
-  - Halfling
-OrtderErstenBegegnung: 
-BekannteAufenthaltsOrte: 
-InitialbegegnetinSession: 
+Status: 
+Spezies: 
+Alter: 
+Disposition: 
 AssoziierteGruppe: 
-Alter:
-  - Kind
-  - Junger Erwachsener
-  - Mittleres Alter
-  - Fortgeschrittenes Alter
-Geschlechtsidentität:
-  - Weiblich
-  - Männlich
-  - nicht-binär
-  - unbekannt
-Disposition:
-  - Alliiert
-  - Freundlich
-  - Neutral
-  - Angespannt
-  - Feindlich
-Status:
-  - Lebendig
-  - Verstorben
-  - Verschollen
+OrtderErstenBegegnung: 
+SitzungderErstenBegegnung: 
 tags:
   - Sarenraes_Fehler/Personen/NPC
 ---
-> [!infobox]+
-> # `=this.file.name`
-> ## NPC Details
-> Merkmale |  Daten |
-> ---|---|
-> Spezies | `=this.Spezies` |
-> Alter | `=this.Alter` |
-> Assoziierte Gruppe | `=this.AssoziierteGruppe` | 
-> Spezies | `=this.Spezies` |
-> Geschlechtsidentität | `=this.Geschlechtsidentität` |
-> Status | `=this.Status`|
-> Letzter Bekannter Aufenthalts Ort | `=this.Letzter_Bekannter_Aufenthalts_Ort` |
+> [!infobox|no-t]
+> # 🧑‍🤝‍🧑`=this.file.name`
+> | |   |
+> |---|---|
+> |aliases | `INPUT[inlineList:aliases]` |
+> |Status | `INPUT[inlineSelect(option(Lebendig), option(Verstorben), option(Verschollen)):Status]`|
+> |Spezies | `INPUT[text:Spezies]` |
+> |Alter | `INPUT[inlineSelect(option(Kind), option(Junger Erwachsener), option(Erwachsener), option(fortgeschr. Alter), option(Greis), option(Alterslos)):Alter]` |
+> |Disposition | `INPUT[inlineSelect(option(Alliiert), option(Freundlich), option(Neutral),option(Angespannt), option(Feindlich)):Disposition]` |
+> |Assoziierte Gruppe | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Lore/Fraktionen_Institutionen)):AssoziierteGruppe]`| 
+> |Ort der Ersten Begegnung | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Ort)):OrtderErstenBegegnung]` |
+> |Sitzung der Ersten Begegnung | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):SitzungderErstenBegegnung]` |
 
-## 👁️‍🗨️ Aussehen
-- 📏 **Größe & Statur**: {{groß/klein, kräftig/schlank etc.}}
-- 👕 **Kleidung & Ausrüstung**: {{was trägt die Figur normalerweise}}
-- 🧿 **Äußerliche Merkmale**: {{z.B. Narben, Tätowierungen, auffällige Kleidung}}
+## Beschreibung
+> [!info|no-t]
+> hier Beschreibung
+
+## 👁️‍🗨️ Äußerliche Merkmale
+> [!info|no-t]
+>  z.b Größe & Statur, Kleidung & AusrüstungSonstige Merkmale
 
 ## 🎭 Soziale Merkmale
-- 🎭 **Erster Eindruck**: {{Wie wirkte die Person beim ersten Treffen?}}
-- 🛡️ **Rolle/Beruf**: {{Wache, Händler, Informant, Feind etc.}}
-- 🧍 **Generelles Verhalten**: {{ruhig, aufbrausend, schüchtern, theatralisch etc.}}
+> [!info|no-t]
+> z.b Erster Eindruck, Rolle/Beruf, Generelles Verhalten
 
 ## 🔗Allianzen & Zugehörigkeiten
-- 🧬Familienbande
-- 🏛️Mitgliedschaft in Fraktion/Institution
-- 🤝Verbündet oder Freunde
+> [!info|no-t]
+> Hier Allianzen & Zugehörigkeiten!
 
-
-## 🧩 Sonstiges / Notizen
-- 🗒️ {{Eigene Theorien, Metainfos, Hinweise auf Täuschung etc.}}
-
-
+## 📌 Anmerkungen
+> [!anmerkung|no-t]
+> Eigene Theorien, Metainfos, Hinweise auf Täuschung etc.
 
 ## 🌄 Bekannte Aufenthalts Orte
-```dataview
+> [!info|no-t]
+> ```dataview
 TABLE WITHOUT ID link(file.name) as "Bekannte Aufenthalts Orte", OrtTyp as "Ort Typ", Region
-where contains(link(file.name), this.BekannteAufenthaltsOrte) or contains(link(file.name), this.OrtderErstenBegegnung)
+from #Sarenraes_Fehler/Ort 
+where contains(file.outlinks, this.file.link)
 sort file.name
-```
 
 ## 📭 Erwähnungen 
-```dataview
+> [!attention|no-t]
+>```dataview
 TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
 where contains(file.outlinks, this.file.link)
 sort file.name
-```

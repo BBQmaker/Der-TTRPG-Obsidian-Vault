@@ -39,9 +39,23 @@ SORT file.mtime DESC
 ##  Orte
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Ort Name", OrtTyp as "Ort Typ"
-FROM #Sarenraes_Fehler/Ort 
-WHERE file.name != "TemplateOrt" and file.name != "Tags" and file.name != "TemplateNaturstätte" and file.name != "TemplateRegion"
+FROM #Sarenraes_Fehler/Ort/Siedlung OR #Sarenraes_Fehler/Ort/Naturstätte  
+WHERE file.name != "TemplateOrt" and file.name != "Tags" and file.name != "TemplateNaturstätte" and file.name != "TemplateRegion" and file.name != "TemplateSiedlungen"
 SORT file.mtime DESC
+```
+
+## Regionen
+```dataview  
+TABLE WITHOUT ID link(file.name) AS "Regionens Name", OrtTyp as "Ort Typ"
+FROM #Sarenraes_Fehler/Ort/Region   
+WHERE file.name != "TemplateOrt" and file.name != "Tags" and file.name != "TemplateNaturstätte" and file.name != "TemplateRegion" and file.name != "TemplateSiedlungen"
+SORT file.mtime DESC
+```
+
+## Notizen to-do liste
+``` dataview
+TABLE WITHOUT ID link(file.name) as "Unvollständig"
+from #Sarenraes_Fehler/To_Do    
 ```
 
 

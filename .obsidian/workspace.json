@@ -4,42 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "22b3dc860ec638b9",
+        "id": "d7d8b02f40867490",
         "type": "tabs",
         "children": [
           {
-            "id": "049120c4af394d83",
+            "id": "3af318282b79f18a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGötter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TemplateGötter"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
             }
           },
           {
-            "id": "15e35f55e4ac2c80",
+            "id": "0cfbe0ccd37dfb90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
-                "mode": "source",
-                "source": false,
+                "file": "Sarenraes Fehler (Spieler) Privat/Arnes Ahnen.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,10 +40,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Arnes Ahnen"
+            }
+          },
+          {
+            "id": "dbefa9a880b2ac30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oskar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 398.5
   },
   "right": {
     "id": "6f377b70934a3d02",
@@ -121,39 +134,20 @@
       {
         "id": "893d8150edcba736",
         "type": "tabs",
-        "dimension": 51.08695652173913,
+        "dimension": 55.97826086956522,
         "children": [
-          {
-            "id": "c00d6d8d62adecdb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Rückverweise für TemplateNaturstätte"
-            }
-          },
           {
             "id": "93812b87c9628efd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
+                "file": "Sarenraes Fehler (Spieler) Privat/Heimatland der Ulfen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von TemplateNaturstätte öffnen"
+              "title": "Ausgehende Links von Heimatland der Ulfen öffnen"
             }
           },
           {
@@ -172,43 +166,87 @@
             }
           },
           {
-            "id": "2d2291f9cd3c5da4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "2482704052249db2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufstieg der Herrscher Notizen (Spieler)/Herr Hardfuß.md"
+                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateGötter.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Herr Hardfuß"
+              "title": "Gliederung von TemplateGötter"
+            }
+          },
+          {
+            "id": "e931132c9c704afb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "488518dd904f9a2e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "c00d6d8d62adecdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sarenraes Fehler (Spieler)/Literatur/Balladen/Verhängnisvolle gaben.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Verhängnisvolle gaben"
+            }
+          },
+          {
+            "id": "fb08d9b3f122e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c8d780ee49d15200",
         "type": "tabs",
-        "dimension": 48.91304347826087,
+        "dimension": 44.02173913043478,
         "children": [
           {
             "id": "fa9f08172f81ce89",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graphansicht"
             }
@@ -217,16 +255,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false,
       "system3-relay:Relay": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
+      "callout-manager:Insert Callout": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
@@ -234,37 +271,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Erstelle ein neues Board": false,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "modalforms:Edit forms": false,
+      "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "049120c4af394d83",
+  "active": "0cfbe0ccd37dfb90",
   "lastOpenFiles": [
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGeografischeMerkmale.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateGötter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateIdeologie.md",
-    "Sarenraes Fehler (Spieler)/Kulturen/Ideologie/Green Faith.md",
-    "Sarenraes Fehler inArbeit/Ulfen Pantheon.md",
-    "Sarenraes Fehler inArbeit/Ulfen Lore!.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNaturstätte.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
-    "zz_Templates/TTRPG template/TTRPG template.md",
+    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Ulf Haraldson.md",
+    "Sarenraes Fehler (Spieler) Privat/Arnes Ahnen.md",
+    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Ingrid Ylvadottir.md",
+    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Helga Freyadottir.md",
     "Sarenraes Fehler (Spieler)/Personen/Otto.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateFraktionen & Institutionen.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRegion.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSiedlungen.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateSpielercharakter.md",
-    "Sarenraes Fehler (Spieler)/Orte/Siedlungen/Vermis/Vermis.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/011 -Visonen des Todesbaum- Journal.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateObjekte.md",
-    "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/010 -Überfall auf Vermis- Journal.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/007 -Die Tragödie des von Burstelz- Journal.md",
-    "Sarenraes Fehler inArbeit/Sarenraes Fehler inArbeit.md",
+    "Sarenraes Fehler (Spieler)/Personen/James.md",
+    "Sarenraes Fehler (Spieler)/Personen/Hintergrund",
+    "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
     "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Marcellus Bande.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Königreich von Geram.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Die Schatten.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Die Furiosen Vier.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Der Hohe Rat von Vermis.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Bachbuben.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateRegion.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
+    "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateGottheit_Covenant.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateIdeologie.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateVolk.md",
+    "Sarenraes Fehler (Spieler)/Kulturen/Völker/Die Ulfen.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateUnterregion.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateBallade.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/Überarbeitet",
+    "Clippings",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen",
+    "Sarenraes Fehler (Spieler)/Literatur",
     "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "zz.Bilder/fghdghjgj.drawio.png",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
@@ -272,14 +316,9 @@
     "Achtung! Cthulhu - Die Schatten von Atlantis/Dokumente, Notizen und Informationen/Handouts",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/1. Episode one - a strange request",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Grönland",
     "zz.Bilder/PMD Hex-Land-Karte 128 Sr.webp",
     "zz.Bilder/PMD Hex-Land-Karte-2(wüste) Sr 128.webp",
     "zz.Bilder/Attention, Class! Achtung! Cthulhu - Shadows of Atlantis.pdf.png",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/3. Episode three - into the breech",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/2. Episode two - Over the sea",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The Island of Splendour (Grönland)/1. Episode One - Down To Business",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Personen/Peruaner",
     "zz.Bilder/Grönland-Schatten von Atlantis.png",
     "zz.Bilder/990px-Hauptartwork_179.png",
     "zz.Bilder/PMD Hex-Land-Karte-2(wüste) 128.webp",

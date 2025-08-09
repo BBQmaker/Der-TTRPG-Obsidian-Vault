@@ -16,20 +16,19 @@ Typ:
 Region: 
 Subregion:
 ---
-# `=this.file.name`
+# 🌍 `=this.file.name`
 
-### 🗺️ Allgemeine Informationen
-- **Typ**: 
-- **Region**: 
-- **Koordinaten / Lage**: 
-- **Größe / Ausdehnung**: 
+## 🗺️ Allgemeine Informationen
+- **Typ**: `=this.Typ`
+- **Region**: `=this.Region`
+- **Subregion**: `=this.Subregion`
+- **Koordinaten / Lage**: z.B. nordwestlich von X
+- **Größe / Ausdehnung**: z.B. 30 km lang, 10 km breit
 
-### 📖 Beschreibung
-Kurze, atmosphärische Beschreibung des Ortes. Was sieht, hört, riecht man dort? Gibt es besondere Merkmale?
+## 📖 Beschreibung
+> Kurze, atmosphärische Beschreibung des Ortes. Was sieht, hört, riecht man dort? Gibt es besondere Merkmale?
 
-
-
-
+## 🧭 Bedeutung für die Welt
 
 ## 📭 Erwähnungen 
 ```dataview

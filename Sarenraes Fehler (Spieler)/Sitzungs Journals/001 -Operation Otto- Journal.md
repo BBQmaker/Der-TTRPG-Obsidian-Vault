@@ -13,8 +13,8 @@ vollständig: ja
 Rucielo Gams Freund Otto ist verschwunden! Gemeinsam mit drei Freunden wagt er sich in die Höhlen außerhalb der Stadt, um ihn zu retten.
 
 ## ## 🎭 Charakterliste 
-[[Die Furiosen Vier]] -->([[Arne Therod Torvaldson]] [[Rucielo Gam]] [[Selena Vynstein]] [[Urima Radiomus]])
-[[Otto]]
+[[Die Furiosen Vier]]
+[[Sarenraes Fehler (Spieler)/Personen/Otto]]
 
 ## 🗺️ Orte besucht
 [[Vermis]]

@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#398109",
   "theme": "obsidian",
   "baseFontSize": 17,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"

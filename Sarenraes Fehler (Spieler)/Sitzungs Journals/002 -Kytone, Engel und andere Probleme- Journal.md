@@ -12,8 +12,7 @@ tags:
 Hier Kurzzusammenfassung!
 
 ## ## 🎭 Charakterliste 
-[[Die Furiosen Vier]] -->
-([[Arne Therod Torvaldson]] [[Rucielo Gam]] [[Selena Vynstein]] [[Urima Radiomus]])
+[[Die Furiosen Vier]] 
 [[Allynna Ilivaris]]
 [[Herulith]]
 

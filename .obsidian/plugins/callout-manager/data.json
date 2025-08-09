@@ -1,6 +1,11 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "person",
+      "divine",
+      "anmerkung",
+      "schatz"
+    ],
     "settings": {
       "quote": [
         {
@@ -27,6 +32,61 @@
           },
           "changes": {
             "color": "233, 151, 63"
+          }
+        }
+      ],
+      "person": [
+        {
+          "changes": {
+            "icon": "lucide-person-standing"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "10, 97, 36"
+          }
+        }
+      ],
+      "divine": [
+        {
+          "changes": {
+            "icon": "lucide-amphora",
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "anmerkung": [
+        {
+          "changes": {
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "schatz": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "208, 181, 48"
           }
         }
       ]

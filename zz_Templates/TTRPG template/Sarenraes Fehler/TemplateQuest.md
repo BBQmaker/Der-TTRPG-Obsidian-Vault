@@ -1,9 +1,5 @@
 ---
-QuestStatus:
-  - Nicht begonnen
-  - Erfolgreich abgeschlossen
-  - Fehlgeschlagen
-  - Begonnen
+QuestStatus: Nicht begonnen
 QuestInSitzungErhalten: 
 Questgeber: 
 QuestanOrtErhalten: 
@@ -13,32 +9,35 @@ NoteIcon: quest
 tags:
   - Sarenraes_Fehler/Quest
 ---
-> [!infobox]+
-> # `=this.file.name`
-> ## Quest Details
-> Type |  daten |
+> [!infobox|no-t right]
+> ## `=this.file.name`
+> # Details
+> Type |  Daten |
 >  --- | --- |
-> Status | `INPUT[inlineSelect(option(Nicht begonnen), option(Begonnen), option(Erfolgreich abgeschlossen), option(Fehlgeschlagen)):QuestStatus]` |
-> Quest Geber | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Personen/NPC)):Questgeber]` |
-> Quest Erhalten in | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Ort)):QuestOrtErhalten]` |
-> In Session Erhalten | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):QuestSessionObtained]` |
-> Belohnung | `INPUT[suggester():Questbelohnung]` |
-# `=this.file.name`
+> Status | `INPUT[inlineSelect(option(Nicht begonnen), option(Begonnen), option(Erfolgreich abg.), option(Fehlgeschlagen)):QuestStatus]` |
+> Questgeber  | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Personen/NPC)):Questgeber]` |
+> Quest Erhalten in | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Ort)):QuestanOrtErhalten]` |
+> In Session Erhalten | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):QuestInSitzungErhalten]` |
+> In Session Abgeschlossen | `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):QuestInSitzungAbgeschlossen]` |
 ## 📝 Beschreibung
-Beschreibe hier die Quest. Wer hat sie gegeben, worum geht es, und warum ist sie wichtig?
+> [!summary|no-t]
+> Beschreibe hier die Quest. Wer hat sie gegeben, worum geht es, und warum ist sie wichtig?
 
 ## 🎯 Ziel der Quest
-- Ziel 1
-- Ziel 2
-- Optional: Bonusziel
+> [!check|no-t]
+> - Ziel 1
+> - Ziel 2
+> - Optional: Bonusziel
 
 ## 🧭 Verlauf
-- ✅ Etwas erledigt
-- ☐ Noch offen
-- ☐ Kritische Entscheidung steht bevor
+> [!summary|no-t]
+>- ✅ Etwas erledigt
+>- ☐ Noch offen
+>- ☐ Kritische Entscheidung steht bevor
 
 ## 🎁 Belohnungen
-Führen Sie die Belohnungen hier auf.
+> [!schatz|no-t]
+> Führen Sie die Belohnungen hier auf.
 
 ## 🔍 Hinweise & Anmerkungen
 - Informationen, offene Fragen, besondere Regeln oder Hinweise zur Durchführung.
@@ -46,8 +45,8 @@ Führen Sie die Belohnungen hier auf.
 
 
 ## 📭 Erwähnungen 
-```dataview
+> [!attention|no-t]
+>```dataview
 TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
 where contains(file.outlinks, this.file.link)
 sort file.name
-```

@@ -5,13 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "LiBackpack",
-      "LiAward",
-      "LiAlbum",
-      "LiAlarmCheck",
-      "LiArchive"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,8 +14,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -29,19 +24,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
     "debugMode": false,
-    "iconInTitlePosition": "above",
-    "lucideIconPackType": "native",
     "useInternalPlugins": false
-  },
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Jahre": "FarCalendar",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Personen": "FarChessPawn",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Objekte": "LiAnvil",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Orte": "LiAsteriskSquare",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Dokumente, Notizen und Informationen": "LiArchive",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Ereignisse": "LiAlarmCheck",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Organisationen": "LiAlbum",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Spieler": "LiAward",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte": "LiBackpack",
-  "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Nationen und Staaten": "FarCompass"
+  }
 }

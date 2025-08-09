@@ -10,7 +10,10 @@
 
 #Sarenraes_Fehler/Encounter
 #Sarenraes_Fehler/Quest 
-#Sarenraes_Fehler/Fraktionen_Institutionen
+#Sarenraes_Fehler/Lore/Fraktionen_Institutionen
 
-#Sarenraes_Fehler/Session_Journal 
+#Sarenraes_Fehler/Objekt 
+#Sarenraes_Fehler/Objekt/Literatur 
+
+#Sarenraes_Fehler/Abenteuer/Session_Journal 
 

@@ -12,8 +12,7 @@ tags:
 
 
 ## ## 🎭 Charakterliste 
-[[Die Furiosen Vier]] -->
-([[Arne Therod Torvaldson]], [[Rucielo Gam]], [[Selena Vynstein]], [[Urima Radiomus]])
+[[Die Furiosen Vier]]
 
 ## 🗺️ Orte besucht
 Hier alle besuchte Ort auflisten.

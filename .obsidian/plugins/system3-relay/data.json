@@ -17,7 +17,6 @@
       }
     }
   ],
-  "enableUpdateYDocFromDiskBuffer": false,
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
   "enableDeltaLogging": false,
@@ -31,7 +30,13 @@
   "enableAttachmentSync": true,
   "enableNetworkLogging": false,
   "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": false,
+  "enableDiscordLogin": false,
+  "enableMicrosoftLogin": false,
+  "enableSelfManageHosts": false,
   "debugging": false,
+  "enableUpdateYDocFromDiskBuffer": false,
   "enableAutomaticUpdatesOption": false,
   "enableDebugFileTag": false,
   "enableDownloadOnAddToVault": false,

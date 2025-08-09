@@ -1,6 +1,6 @@
 {
   "palette": {
-    "seed": 0,
+    "seed": 2,
     "selected": "adaptive-soft",
     "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
   },
@@ -95,7 +95,39 @@
     "Sarenraes_Fehler/Fraktionen": 13,
     "Sarenraes_Fehler/Fraktionen_": 14,
     "Sarenraes_Fehler/Fraktionen__Institutionen": 15,
-    "Sarenraes_Fehler/Fraktionen_Institutionen": 16
+    "Sarenraes_Fehler/Fraktionen_Institutionen": 16,
+    "Sarenraes_Fehler/Objekt": 17,
+    "s": 49,
+    "Sarenraes_Fehler/Objekt/Literatur": 1,
+    "Sarenraes_Fehler/Welt": 18,
+    "Sarenraes_Fehler/Welt/Völker": 1,
+    "Sarenraes_Fehler/Welt/Ideologien": 2,
+    "Sarenraes_Fehler/Welt/Volk": 3,
+    "Sarenraes_Fehler/Objekt/Ballade": 2,
+    "Sarenraes_Fehler/Welt/Götter": 4,
+    "Sarenraes_Fehler/w": 19,
+    "To_DO": 50,
+    "To_Do": 51,
+    "Sarenraes_Fehler/To_Do": 20,
+    "clippings": 52,
+    "deity": 53,
+    "pathfinder": 54,
+    "Sarenraes_Fehler/Welt/Gottheit": 5,
+    "Sa": 55,
+    "🕊️": 56,
+    "Sarenraes_Fehler/Orte": 21,
+    "Sarenraes_Fehler/Orte/Planar": 1,
+    "Sarenraes_Fehler/Orte/Planar_Region": 2,
+    "Sarenraes_Fehler/Ebene": 22,
+    "Sarenraes_Fehler/Unterregion": 23,
+    "Sarenraes_Fehler/Lore": 24,
+    "Sarenraes_Fehler/Lore/Volk": 1,
+    "Sarenraes_Fehler/Lore/Ideologien": 2,
+    "Sarenraes_Fehler/Lore/Gottheit": 3,
+    "Sarenraes_Fehler/Abenteuer": 25,
+    "Sarenraes_Fehler/Abenteuer/Encounter": 1,
+    "Sarenraes_Fehler/Lore/Fraktionen_Institutionen": 4,
+    "Sarenraes_Fehler/Abenteuer/Session_Journal": 2
   },
   "_version": 3
 }

@@ -1,25 +1,27 @@
 ---
-OrtdesEncounters: 
-EncounteredInSession: 
 EncounterTyp:
-  - Major
-  - Minor
-  - Boss
-  - Sozial
+EncounterLVL:
 AusgangdesEncounters:
-  - TOD!
-  - Schwere Verluste
-  - Nahtoderfahrung
-  - Sieg
-  - Souveräner Sieg
-EncounteraufLVL: 
+OrtdesEncounters:
+EncounteredInSession:
+Ausgang:
 NoteIcon: encounter
 tags:
-  - Sarenraes_Fehler/Encounter
+  - Sarenraes_Fehler/Abenteuer/Encounter
 ---
-# `=this.file.name`
+> [!infobox|no-t right]
+> #  🐉 `=this.file.name`
+> |    |    |
+> |--- |  --- |
+> | Typ| `INPUT[inlineSelect(option(Major), option(Minor), option(Boss), option(Sozial)):EncounterTyp]`|
+> | Sitzung| `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Session_Journal)):Sitzungsbezug]`|
+> | Ort| `INPUT[suggester(optionQuery(#Sarenraes_Fehler/Ort)):Ortbezug]`|
+> | LVL| `INPUT[number:EncounterLVL]` |
+> | Ausgang | `INPUT[inlineSelect(option(TOD!), option(Schwere Verluste), option(nahtoderfahrung ), option(Sieg), option(Souveräner Sieg), option(unbestimmt)):Ausgang]`|
+
 ## 📝 Kurzzusammenfassung
-Kurzzusammenfassung hier! 
+> [!summary|no-t]
+> Kurzzusammenfassung hier! 
 
 ## 🐾 Kreaturen Daten
 > *Liste hier die Kreaturen auf, die am Encounter beteiligt sind:* 
@@ -35,14 +37,14 @@ Kurzzusammenfassung hier!
 > Auslöser? ; Nahtoderlebnis? ; Tote?
 
 ## 📌 Anmerkungen
+> [!anmerkung|no-t]
 > Zusätzliche Hinweise, oder Kommentare zum Encounter
 > ... .
 
 
-
 ## 📭 Erwähnungen 
-```dataview
+> [!attention|no-t]
+> ```dataview
 TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
 where contains(file.outlinks, this.file.link)
 sort file.name
-```
