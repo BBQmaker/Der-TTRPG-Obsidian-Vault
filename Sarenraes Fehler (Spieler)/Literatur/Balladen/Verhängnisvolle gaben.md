@@ -1,9 +1,9 @@
 ---
 aliases: 
-autor: "[[Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md|Arne Therod Torvaldson]]"
+autor: "[[Arne Therod Torvaldson]]"
 typ: Abenteuer
 status: unvollständig
-Sitzungsbezug: 
+Sitzungsbezug: "[[Sarenraes Fehler (Spieler)/Sitzungs Journals/012 -Gebrochenes Gleichgewicht- Journal.md|012 -Gebrochenes Gleichgewicht- Journal]]"
 Ortbezug: 
 Encounterbezug: 
 NoteIcon: Ballade

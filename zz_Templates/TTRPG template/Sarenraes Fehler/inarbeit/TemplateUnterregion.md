@@ -3,7 +3,7 @@ aliases:
 TeilvonRegion: 
 NoteIcon: region
 tags:
-  - Sarenraes_Fehler/Unterregion 
+  - Sarenraes_Fehler/Region/Unter
 ---
 # 🌍`=this.file.name`
 ## 🧭Kurzbeschreibung

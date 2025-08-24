@@ -7,9 +7,9 @@ Sack
 
 Brief
 Mehr Infos über das [[Prisma des Licht]]
-das Archiv des [[Königreich von Geram]] finden [[Archiv von Geram|Link]]
+das Archiv des [[Königreich von Geram]] finden [[Archiv von Geram Ruine|Link]]
 Die Orte Namens Tränen Klippe Finden infos sind in den Archiven 
-Die Zauberschule [[Akademie von Vrin]] finde für mehr Aufzeichnungen über das [[Prisma des Licht]]
+Die Zauberschule [[Akademie von Vrin Ruine]] finde für mehr Aufzeichnungen über das [[Prisma des Licht]]
 
 
 Euer Auftrag ist, weitere Infos über Prisma des Lichts zu finden. Dazu wurden Anhaltspunkte gefunden:

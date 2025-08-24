@@ -67,6 +67,8 @@
     "Areas_of_Concern": "multitext",
     "Realm": "multitext",
     "EncounteraufLVL": "number",
-    "EncounterLVL": "number"
+    "EncounterLVL": "number",
+    "sessionstatus": "text",
+    "Sitzungsnummer": "number"
   }
 }

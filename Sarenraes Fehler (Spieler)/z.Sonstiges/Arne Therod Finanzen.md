@@ -34,6 +34,8 @@
 +250 leihen Selena 2.5% pro monat
 -4500 Circlet of Persuasion
 =28
++3333
+=3361
 
 ## Meta Währung
 +500 MW
@@ -52,6 +54,9 @@
 =1000 mw
 +1000 mw
 =2000 mw
++3000 mw
+=5000 mw
+
 
 
 

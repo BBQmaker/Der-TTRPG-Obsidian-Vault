@@ -4,28 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d8b02f40867490",
+        "id": "6eed7a17c0b3d7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "3af318282b79f18a",
+            "id": "b1e5a06fc429033c",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "beautitab-react-view",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "title": "New tab"
             }
           },
           {
-            "id": "0cfbe0ccd37dfb90",
+            "id": "0ef87909a3b37067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler) Privat/Arnes Ahnen.md",
+                "file": "Sarenraes Fehler (Spieler)/Orte/Ruine/Der Finsterturm.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -40,17 +37,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arnes Ahnen"
+              "title": "Der Finsterturm"
             }
           },
           {
-            "id": "dbefa9a880b2ac30",
+            "id": "ebd8db94253397f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
-                "mode": "preview",
+                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRuine.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -64,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oskar"
+              "title": "TemplateRuine"
             }
           }
         ],
@@ -125,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 310.5
   },
   "right": {
     "id": "6f377b70934a3d02",
@@ -134,7 +131,7 @@
       {
         "id": "893d8150edcba736",
         "type": "tabs",
-        "dimension": 55.97826086956522,
+        "dimension": 45.21739130434783,
         "children": [
           {
             "id": "93812b87c9628efd",
@@ -237,32 +234,35 @@
         "currentTab": 1
       },
       {
-        "id": "c8d780ee49d15200",
+        "id": "56572db69bf6c3d7",
         "type": "tabs",
-        "dimension": 44.02173913043478,
+        "dimension": 54.78260869565217,
         "children": [
           {
-            "id": "fa9f08172f81ce89",
+            "id": "3af318282b79f18a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "Graphansicht"
+              "title": "Graph-Ansicht"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "system3-relay:Relay": false,
       "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
       "callout-manager:Insert Callout": false,
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
@@ -276,35 +276,37 @@
       "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "0cfbe0ccd37dfb90",
+  "active": "0ef87909a3b37067",
   "lastOpenFiles": [
-    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Ulf Haraldson.md",
-    "Sarenraes Fehler (Spieler) Privat/Arnes Ahnen.md",
-    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Ingrid Ylvadottir.md",
-    "Sarenraes Fehler (Spieler)/Personen/Hintergrund/Helga Freyadottir.md",
-    "Sarenraes Fehler (Spieler)/Personen/Otto.md",
-    "Sarenraes Fehler (Spieler)/Personen/James.md",
-    "Sarenraes Fehler (Spieler)/Personen/Hintergrund",
-    "Sarenraes Fehler (Spieler)/Personen/Oskar.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Marcellus Bande.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Königreich von Geram.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Die Schatten.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Die Furiosen Vier.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Der Hohe Rat von Vermis.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Bachbuben.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateRegion.md",
+    "Sarenraes Fehler (Spieler)/Orte/Ruine/Archiv von Geram Ruine.md",
+    "Sarenraes Fehler (Spieler)/Orte/Ruine/Akademie von Vrin Ruine.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRuine.md",
+    "Sarenraes Fehler (Spieler)/Orte/Region/Die Oberfläche.md",
+    "Sarenraes Fehler (Spieler)/Orte/Region/Oberes Unterreich.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateFraktionen & Institutionen.md",
+    "Sarenraes Fehler (Spieler)/Quests/Encounter/Schild Archon Encounter.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 10.08.2025.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/014 -Die Akademie- Journal.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-    "Sarenraes Fehler (Spieler)/z.Sonstiges/Tags.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateGottheit_Covenant.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateIdeologie.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateVolk.md",
-    "Sarenraes Fehler (Spieler)/Kulturen/Völker/Die Ulfen.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRegion.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateUnterregion.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Stinkende Höhle.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Grüntal Wald.md",
+    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Der Alte Tunnel.md",
+    "Sarenraes Fehler (Spieler)/Orte/Geografische Merkmale/Der Eiren.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
     "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateBallade.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateGottheit_Covenant.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
+    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
+    "Sarenraes Fehler (Spieler)/Sitzungs Journals/013 -Das Archiv- Journal.md",
+    "Sarenraes Fehler (Spieler) Privat/Bjornulf Hrothgar  -Jotunbrecher- Sigvarrson.md",
+    "Sarenraes Fehler (Spieler) Privat/Das Wissen der Melodie.md",
+    "Sarenraes Fehler (Spieler) Privat/Das Schlachtbanner der Ulfen.md",
+    "Sarenraes Fehler (Spieler)/Orte/Ruine/Unterirdische Labor Ruine.md",
+    "Sarenraes Fehler (Spieler)/Orte/Ruine",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen",
+    "Sarenraes Fehler (Spieler)/Personen/Hintergrund",
     "zz_Templates/TTRPG template/Sarenraes Fehler/Überarbeitet",
     "Clippings",
     "Sarenraes Fehler (Spieler)/Literatur/Balladen",
@@ -314,8 +316,6 @@
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Dokumente, Notizen und Informationen/Handouts",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/1. Episode one - a strange request",
     "zz.Bilder/PMD Hex-Land-Karte 128 Sr.webp",
     "zz.Bilder/PMD Hex-Land-Karte-2(wüste) Sr 128.webp",
     "zz.Bilder/Attention, Class! Achtung! Cthulhu - Shadows of Atlantis.pdf.png",

@@ -40,8 +40,9 @@ tags:
 > Führen Sie die Belohnungen hier auf.
 
 ## 🔍 Hinweise & Anmerkungen
-- Informationen, offene Fragen, besondere Regeln oder Hinweise zur Durchführung.
-- Z. B. „Kann nur bei Nacht abgeschlossen werden“, „Erfordert Dolmetscher“, etc.
+> [!anmerkung|no-t]
+>- Informationen, offene Fragen, besondere Regeln oder Hinweise zur Durchführung.
+>- Z. B. „Kann nur bei Nacht abgeschlossen werden“, „Erfordert Dolmetscher“, etc.
 
 
 ## 📭 Erwähnungen 

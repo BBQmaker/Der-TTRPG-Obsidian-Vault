@@ -8,12 +8,10 @@
 		- [[TemplateFraktionen & Institutionen]]
 		- [[TemplateGeografischeMerkmale]]
 		- [[TemplateIdeologie]]
-		- [[TemplateJournal]]
 		- [[TemplateKreatur]]
 		- [[TemplateLiteratur]]
 		- [[TemplateNaturstätte]]
 		- [[TemplateObjekte]]
-		- [[TemplateRegion]]
 		- [[TemplateSiedlungen]]
 		- [[TemplateSpielercharakter]]
 		- [[TemplateUnterregion]]
@@ -21,7 +19,10 @@
 	- [[TemplateBallade]]
 	- [[TemplateEncounter]]
 	- [[TemplateGottheit_Covenant]]
+	- [[TemplateJournal]]
 	- [[TemplateNPC]]
 	- [[TemplateQuest]]
+	- [[TemplateRegion]]
+	- [[TemplateRuine]]
 
 %% End Waypoint %%

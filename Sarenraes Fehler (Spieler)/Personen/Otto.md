@@ -6,7 +6,7 @@ Spezies: Mensch
 Alter: Erwachsener
 Disposition: Alliiert
 AssoziierteGruppe: "[[Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Bachbuben.md|Bachbuben]]"
-OrtderErstenBegegnung: "[[Sarenraes Fehler (Spieler)/Orte/Naturstätte/Unterirdische Labor Ruine.md|Unterirdische Labor Ruine]]"
+OrtderErstenBegegnung: "[[Unterirdische Labor Ruine|Unterirdische Labor Ruine]]"
 SitzungderErstenBegegnung: "[[Sarenraes Fehler (Spieler)/Sitzungs Journals/001 -Operation Otto- Journal.md|001 -Operation Otto- Journal]]"
 tags:
   - Sarenraes_Fehler/Personen/NPC

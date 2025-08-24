@@ -127,7 +127,17 @@
     "Sarenraes_Fehler/Abenteuer": 25,
     "Sarenraes_Fehler/Abenteuer/Encounter": 1,
     "Sarenraes_Fehler/Lore/Fraktionen_Institutionen": 4,
-    "Sarenraes_Fehler/Abenteuer/Session_Journal": 2
+    "Sarenraes_Fehler/Abenteuer/Session_Journal": 2,
+    "Sarenraes_Fehler/Region/über": 1,
+    "-": 57,
+    "Sarenraes_Fehler/RegionUnterregion": 10,
+    "Sarenraes_Fehler/Region/Unterregion": 2,
+    "Sarenraes_Fehler/Region/Unter": 3,
+    "Sarenraes_Fehler/Region/Über": 4,
+    "-Sarenraes_Fehler": 58,
+    "-Sarenraes_Fehler/Abenteuer": 1,
+    "-Sarenraes_Fehler/Abenteuer/Session_Journal": 1,
+    "Sarenraes_Fehler/Ort/Ruine": 10
   },
   "_version": 3
 }
