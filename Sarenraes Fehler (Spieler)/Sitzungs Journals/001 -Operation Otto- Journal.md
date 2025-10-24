@@ -14,7 +14,7 @@ Rucielo Gams Freund Otto ist verschwunden! Gemeinsam mit drei Freunden wagt er s
 
 ## ## 🎭 Charakterliste 
 [[Die Furiosen Vier]]
-[[Sarenraes Fehler (Spieler)/Personen/Otto]]
+[[Otto]]
 
 ## 🗺️ Orte besucht
 [[Vermis]]

@@ -39,9 +39,9 @@ tags:
 >Leiche von [[Oskar]]
 >Stab
 >Fullplate Rüstung Masterwerk ist auch Magisch
->	-Unbekannt Faint
->	-Unbekannt moderate
->	-Railing    Faint 
+>	-Unbekannt Faint Stancing
+>	-Unbekannt moderate champion
+>	-Rallying    Faint  
 >Langschwert Meisterwerk Dies ist Magisch
 >	- Encantment Faint
 >	- Evokation Moderat

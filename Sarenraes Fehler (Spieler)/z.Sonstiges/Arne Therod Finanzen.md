@@ -56,6 +56,10 @@
 =2000 mw
 +3000 mw
 =5000 mw
+-2000 ring of protection
++2000 amulett of natural protection
+=1000 mw
+
 
 
 

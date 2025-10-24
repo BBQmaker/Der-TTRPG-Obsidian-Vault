@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6eed7a17c0b3d7d3",
+        "id": "02f39c8d6ddd0298",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e5a06fc429033c",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0ef87909a3b37067",
+            "id": "e00c1cc0a615e88b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sarenraes Fehler (Spieler)/Orte/Ruine/Der Finsterturm.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der Finsterturm"
-            }
-          },
-          {
-            "id": "ebd8db94253397f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRuine.md",
+                "file": "Mystery Dungeon Kampagne/Geschichte/Epilog - Mystery Dungeon.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -61,11 +28,139 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TemplateRuine"
+              "title": "Epilog - Mystery Dungeon"
+            }
+          },
+          {
+            "id": "0ddfd8f2daec1d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystery Dungeon Kampagne/Geschichte/3. Ein Steiniger Weg.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3. Ein Steiniger Weg"
+            }
+          },
+          {
+            "id": "548ca3066fe1fab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystery Dungeon Kampagne/Geschichte/4. Auf Alten pfaden.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4. Auf Alten pfaden"
+            }
+          },
+          {
+            "id": "2abb9bb44adf3c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Ein Angebot was ihr nicht ablehnen könnt."
+            }
+          },
+          {
+            "id": "6030bca37ef4310d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Ein Angebot was ihr nicht ablehnen könnt."
+            }
+          },
+          {
+            "id": "c1e167fa060f05e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystery Dungeon Kampagne/Individuen/Die Schläger Truppe.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Schläger Truppe"
+            }
+          },
+          {
+            "id": "d2cf7d7ec4a85312",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 200
   },
   "right": {
     "id": "6f377b70934a3d02",
@@ -254,7 +349,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,34 +372,35 @@
       "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "0ef87909a3b37067",
+  "active": "e00c1cc0a615e88b",
   "lastOpenFiles": [
-    "Sarenraes Fehler (Spieler)/Orte/Ruine/Archiv von Geram Ruine.md",
-    "Sarenraes Fehler (Spieler)/Orte/Ruine/Akademie von Vrin Ruine.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRuine.md",
-    "Sarenraes Fehler (Spieler)/Orte/Region/Die Oberfläche.md",
-    "Sarenraes Fehler (Spieler)/Orte/Region/Oberes Unterreich.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateFraktionen & Institutionen.md",
-    "Sarenraes Fehler (Spieler)/Quests/Encounter/Schild Archon Encounter.md",
+    "Mystery Dungeon Kampagne/Geschichte/Epilog - Mystery Dungeon.md",
+    "Mystery Dungeon Kampagne/Geschichte/4. Auf Alten pfaden.md",
+    "Mystery Dungeon Kampagne/Geschichte/3. Ein Steiniger Weg.md",
+    "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
+    "Mystery Dungeon Kampagne/Individuen/Die Schläger Truppe.md",
+    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
+    "Mystery Dungeon Kampagne/Fraktionen/Team Tiefschlag.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Tagebuch von Unbekannt.md",
+    "Sarenraes Fehler (Spieler)/Personen/Ysaldin.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 11.10.2025.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 20.09.2025.md",
+    "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 23.08.2025.md",
     "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 10.08.2025.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/014 -Die Akademie- Journal.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateJournal.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateQuest.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateRegion.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateUnterregion.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Grüntal Wald.md",
-    "Sarenraes Fehler (Spieler)/Orte/Naturstätte/Der Alte Tunnel.md",
-    "Sarenraes Fehler (Spieler)/Orte/Geografische Merkmale/Der Eiren.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateEncounter.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateBallade.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateGottheit_Covenant.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/TemplateNPC.md",
-    "zz_Templates/TTRPG template/Sarenraes Fehler/inarbeit/TemplateNaturstätte.md",
-    "Sarenraes Fehler (Spieler)/Sitzungs Journals/013 -Das Archiv- Journal.md",
-    "Sarenraes Fehler (Spieler) Privat/Bjornulf Hrothgar  -Jotunbrecher- Sigvarrson.md",
-    "Sarenraes Fehler (Spieler) Privat/Das Wissen der Melodie.md",
-    "Sarenraes Fehler (Spieler) Privat/Das Schlachtbanner der Ulfen.md",
-    "Sarenraes Fehler (Spieler)/Orte/Ruine/Unterirdische Labor Ruine.md",
+    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Bachbuben.md",
+    "Mystery Dungeon Kampagne/Pokemons/Pokemons.md",
+    "Mystery Dungeon Kampagne/Pokemons/Stollunior.md",
+    "Mystery Dungeon Kampagne/Pokemons/Stolloss.md",
+    "Mystery Dungeon Kampagne/Individuen/Der Älteste Wiesenior.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Rucielo Gam.md",
+    "Sarenraes Fehler (Spieler)/Orte/Ruine/Der Finsterturm.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Verhängnisvolle gaben.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Frostfall (Marsch).md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Die letzte Jagd des Wolfsrudels.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Der Einsame Urima.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Das Tragische Massaker der Vier Wachen..md",
     "Sarenraes Fehler (Spieler)/Orte/Ruine",
     "Sarenraes Fehler (Spieler)/zz.Rohnotizen",
     "Sarenraes Fehler (Spieler)/Personen/Hintergrund",
@@ -311,7 +408,6 @@
     "Clippings",
     "Sarenraes Fehler (Spieler)/Literatur/Balladen",
     "Sarenraes Fehler (Spieler)/Literatur",
-    "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "zz.Bilder/fghdghjgj.drawio.png",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",

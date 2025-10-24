@@ -14,15 +14,16 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      }
+      },
+      "connect": true
     }
   ],
+  "endpoints": {},
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
   "enableDeltaLogging": false,
   "enableHTTPSync": false,
   "enableSyncMenu": true,
-  "enableDocumentServer": true,
   "enableDocumentHistory": false,
   "enableEditorTweens": false,
   "enableSyncModal": false,
@@ -32,13 +33,20 @@
   "enableVerifyUploads": false,
   "enableAutomaticDiffResolution": false,
   "enableDiscordLogin": false,
-  "enableMicrosoftLogin": false,
+  "enableOIDCLogin": true,
+  "enableGitHubLogin": true,
   "enableSelfManageHosts": false,
+  "enableToasts": false,
   "debugging": false,
+  "enableDocumentServer": true,
+  "enableMicrosoftLogin": true,
   "enableDesyncPill": false,
   "enableUpdateYDocFromDiskBuffer": false,
   "enableAutomaticUpdatesOption": false,
   "enableDebugFileTag": false,
   "enableDownloadOnAddToVault": false,
-  "enableUploadOnShare": false
+  "enableUploadOnShare": false,
+  "login": {
+    "provider": "google"
+  }
 }
