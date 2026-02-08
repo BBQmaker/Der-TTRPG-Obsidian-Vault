@@ -14,11 +14,14 @@ Das Heimatland der Ulfen zeichnet sich aus durch die Dualität von dem Harschen 
 
 ### Subregionen
 #### Flodfjell
-> [!lore] Flodfjell
-> „Flussberge“, ein Name, der sowohl die Flüsse als auch die Berge hervorhebt.
+Flodfjell
+„Flussberge“, ein Name, der sowohl die Flüsse als auch die Berge hervorhebt.
 Die Felsige Küsten Region mit 
+
 #### Erenvaldr
 Erenvaldr - das Tiefland, das Fruchtbarste gebiet in Ulvarngard wo die meisten Ulfen leben hier findet sich
+Hier leben die Meisten Ulfen der Region. Weiter Wiesen und Hügel Zeichenen das land aus die durch eine flüssen durchschnitten ist. die meinsten flüssen haben ihren ursprung in den Berg die Ernvaldr begrenzen und die meinsten flüsse Fließen früher oder später in den Mächstige und wichtigsten fluss der region Der Eiren.
+Unzählichen siedlungen befinden sich im diesem Tal und hier befindet sich auch der Haupt sitzt der <Platzhalten>
 
 #### Vetrarskogen
 Vetrarskogen – „Herrschaftswald“ oder „Herrschafts des Waldes, symbolisch für Macht und Erhabenheit.

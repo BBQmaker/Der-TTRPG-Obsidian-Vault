@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mystery Dungeon Kampagne/Geschichte/Epilog - Mystery Dungeon.md",
+                "file": "Sarenraes Fehler (Spieler)/Orte/Geografische Merkmale/Der Eiren.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,88 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epilog - Mystery Dungeon"
+              "title": "Der Eiren"
             }
           },
           {
-            "id": "0ddfd8f2daec1d07",
+            "id": "42764d321d05c98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mystery Dungeon Kampagne/Geschichte/3. Ein Steiniger Weg.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3. Ein Steiniger Weg"
-            }
-          },
-          {
-            "id": "548ca3066fe1fab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mystery Dungeon Kampagne/Geschichte/4. Auf Alten pfaden.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4. Auf Alten pfaden"
-            }
-          },
-          {
-            "id": "2abb9bb44adf3c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2. Ein Angebot was ihr nicht ablehnen könnt."
-            }
-          },
-          {
-            "id": "6030bca37ef4310d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
+                "file": "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen 09.11.2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Ein Angebot was ihr nicht ablehnen könnt."
+              "title": "Session Notizen 09.11.2025"
             }
           },
           {
-            "id": "c1e167fa060f05e0",
+            "id": "00c8548128de411b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mystery Dungeon Kampagne/Individuen/Die Schläger Truppe.md",
+                "file": "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -148,19 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Schläger Truppe"
-            }
-          },
-          {
-            "id": "d2cf7d7ec4a85312",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "title": "Arne Therod Finanzen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5
   },
   "right": {
     "id": "6f377b70934a3d02",
@@ -372,35 +292,37 @@
       "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "e00c1cc0a615e88b",
+  "active": "00c8548128de411b",
   "lastOpenFiles": [
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen 09.11.2025.md",
+    "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 11.10.2025.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen 24.11.2025.md",
+    "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
+    "Kinder des Uralten/Act 2.md",
+    "Kinder des Uralten/Act 3.md",
+    "Kinder des Uralten/Act 1.md",
+    "Kinder des Uralten/zusammenfassung.md",
+    "Kinder des Uralten",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 10.08.2025.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 23.08.2025.md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 20.09.2025.md",
+    "Sarenraes Fehler (Spieler) Privat/Ulvarngard.md",
+    "Sarenraes Fehler inArbeit/Das Althing.md",
+    "Sarenraes Fehler (Spieler)/Quests/Quests.md",
+    "Sarenraes Fehler (Spieler)/Arnes Werke.md",
+    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Frostfall (Marsch).md",
+    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Unbenannt",
+    "Sarenraes Fehler (Spieler)/Orte/Geografische Merkmale/Der Eiren.md",
+    "Mystery Dungeon Kampagne/Geschichte/3. Ein Steiniger Weg.md",
+    "Sarenraes Fehler (Spieler) Privat/Die Gesamte Bekannte Geschichte der Ulfen.md",
     "Mystery Dungeon Kampagne/Geschichte/Epilog - Mystery Dungeon.md",
     "Mystery Dungeon Kampagne/Geschichte/4. Auf Alten pfaden.md",
-    "Mystery Dungeon Kampagne/Geschichte/3. Ein Steiniger Weg.md",
     "Mystery Dungeon Kampagne/Geschichte/2. Ein Angebot was ihr nicht ablehnen könnt..md",
     "Mystery Dungeon Kampagne/Individuen/Die Schläger Truppe.md",
     "Aufstieg der Herrscher Notizen (Spieler)/Leinwand.canvas",
     "Mystery Dungeon Kampagne/Fraktionen/Team Tiefschlag.md",
     "Sarenraes Fehler (Spieler)/Literatur/Tagebuch von Unbekannt.md",
-    "Sarenraes Fehler (Spieler)/Personen/Ysaldin.md",
-    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 11.10.2025.md",
-    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 20.09.2025.md",
-    "Sarenraes Fehler (Spieler)/z.Sonstiges/Arne Therod Finanzen.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Arne Therod Torvaldson.md",
-    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notize vom 23.08.2025.md",
-    "Sarenraes Fehler (Spieler)/zz.Rohnotizen/Session Notizen vom 10.08.2025.md",
-    "Sarenraes Fehler (Spieler)/Fraktionen & Institutionen/Bachbuben.md",
-    "Mystery Dungeon Kampagne/Pokemons/Pokemons.md",
-    "Mystery Dungeon Kampagne/Pokemons/Stollunior.md",
-    "Mystery Dungeon Kampagne/Pokemons/Stolloss.md",
-    "Mystery Dungeon Kampagne/Individuen/Der Älteste Wiesenior.md",
-    "Sarenraes Fehler (Spieler)/Personen/PCs/Rucielo Gam.md",
-    "Sarenraes Fehler (Spieler)/Orte/Ruine/Der Finsterturm.md",
-    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Verhängnisvolle gaben.md",
-    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Frostfall (Marsch).md",
-    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Die letzte Jagd des Wolfsrudels.md",
-    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Der Einsame Urima.md",
-    "Sarenraes Fehler (Spieler)/Literatur/Balladen/Das Tragische Massaker der Vier Wachen..md",
     "Sarenraes Fehler (Spieler)/Orte/Ruine",
     "Sarenraes Fehler (Spieler)/zz.Rohnotizen",
     "Sarenraes Fehler (Spieler)/Personen/Hintergrund",
@@ -410,8 +332,6 @@
     "Sarenraes Fehler (Spieler)/Literatur",
     "zz.Bilder/fghdghjgj.drawio.png",
     "Achtung! Cthulhu - Die Schatten von Atlantis/Geschichte/The City of Broken Dreams (Wien)/2. Episode two - chaos & truth",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Orte/Unbenannt",
-    "Achtung! Cthulhu - Die Schatten von Atlantis/Dokumente, Notizen und Informationen/Handouts",
     "zz.Bilder/PMD Hex-Land-Karte 128 Sr.webp",
     "zz.Bilder/PMD Hex-Land-Karte-2(wüste) Sr 128.webp",
     "zz.Bilder/Attention, Class! Achtung! Cthulhu - Shadows of Atlantis.pdf.png",

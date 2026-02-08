@@ -72,3 +72,8 @@ TABLE WITHOUT ID link(file.name) as "Erwähnt in", NoteIcon as "Notiz typ"
 where contains(file.outlinks, this.file.link)
 sort file.name
 ```
+
+
+
+
+Vertraskogen ritualkreis

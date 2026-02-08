@@ -34,8 +34,28 @@
 +250 leihen Selena 2.5% pro monat
 -4500 Circlet of Persuasion
 =28
-+3333
++3333     (weiß nicht mehr warum)
 =3361
+-250 rückzahlung Selena
++3000 gp
+-250 rückzahlung Urima
+=5.861 gp
++125 gp gems verkauf
+= 5.986 gp
++500 gp verkauf vom kontrukt werkzeug (2000/4)
+= 6.486 gp
++2.000 gp auszahlung von der stahlzunge (8000/4)(das versehen)
+=8.486 gp
+-500 gp Sextant 
+-1000 gp Astrolabe
+-1500 gp Deadeye’s Spotter Rin
+-3000 gp Rimeshaper Gloves
+=2.486 gp
+-500 gp cracked Dusty Rose Prism
+-1200 5x cracked Mossy Disks
+= 786 gp
+
+
 
 ## Meta Währung
 +500 MW
@@ -57,8 +77,16 @@
 +3000 mw
 =5000 mw
 -2000 ring of protection
-+2000 amulett of natural protection
+-2000 amulett of natural protection
 =1000 mw
++5000 mw
+=6000 mw
++1000 mw ratten session
+=7000 mw
+-4000 mw Headband of Vast Intelligence +2
+-3000 mw Cloak of Resistance upgrade auf +2
+=0 mw
+
 
 
 
